@@ -1,0 +1,2002 @@
+predator	LokalID	Lokal	Individ	n_shoots	h_shoot	n_fl	phen_index	most_adv	n_eggs	n_pred_all	n_aborted_all	perc_undeveloped	n_intact_fruits	n_seeds	attack
+1	Ale001	Bockemossen	1	6	17,2	5	4	5	0	2	0	40	1	800	0
+1	Ale001	Bockemossen	2	4	28,6	7	2,142857143	3	0	2	0	100	5	225	0
+1	Ale001	Bockemossen	3	5	12,4	3	2	4	0	0	0	NA	2	590	0
+1	Ale001	Bockemossen	4	3	27	3	2,333333333	3	0	1	0	NA	2	970	0
+1	Ale001	Bockemossen	5	12	10,2	2	1,5	2	0	0	0	NA	1	NA	0
+1	Ale001	Bockemossen	6	6	14,3	2	3,5	5	0	0	0	NA	2	620	0
+1	Ale001	Bockemossen	7	3	17,8	3	4	5	0	0	0	NA	0	NA	0
+1	Ale001	Bockemossen	8	2	15,7	2	2	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	9	2	19	5	3,8	5	3	4	0	NA	0	NA	1
+1	Ale001	Bockemossen	10	8	17,8	3	2,666666667	4	0	1	0	100	1	470	0
+1	Ale001	Bockemossen	11	3	10	1	4	4	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	12	2	21	2	3	4	0	1	0	100	1	0	0
+1	Ale001	Bockemossen	13	2	17,6	3	3,333333333	5	2	2	0	NA	0	NA	1
+1	Ale001	Bockemossen	14	4	37,7	6	2,5	4	0	4	0	100	2	1080	0
+1	Ale001	Bockemossen	15	3	27,2	3	3	4	0	3	0	NA	0	NA	0
+1	Ale001	Bockemossen	16	3	20,6	3	3,333333333	5	5	3	0	NA	0	NA	1
+1	Ale001	Bockemossen	17	3	26	3	3,333333333	4	0	1	0	100	2	690	0
+1	Ale001	Bockemossen	18	5	18,9	5	1,8	4	0	1	0	NA	4	1640	0
+1	Ale001	Bockemossen	19	3	19,2	5	1,6	3	0	2	0	NA	3	990	0
+1	Ale001	Bockemossen	20	3	19,1	2	3	4	0	2	0	100	1	240	0
+1	Ale001	Bockemossen	21	9	16,9	1	4	4	0	0	0	NA	1	NA	0
+1	Ale001	Bockemossen	22	3	10,3	1	2	2	0	0	0	NA	1	360	0
+1	Ale001	Bockemossen	23	2	10,3	1	1	1	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	24	1	13,1	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	25	5	11,1	1	1	1	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	26	6	11,2	1	3	3	0	0	0	NA	1	0	0
+1	Ale001	Bockemossen	27	3	21,2	4	2,25	4	0	1	0	100	3	1305	0
+1	Ale001	Bockemossen	28	10	15,2	3	2,666666667	4	0	1	0	100	2	590	0
+1	Ale001	Bockemossen	29	1	10,2	1	2	2	0	0	0	NA	1	190	0
+1	Ale001	Bockemossen	30	2	15,7	2	3,5	4	2	3	0	NA	0	NA	1
+1	Ale001	Bockemossen	31	3	23,2	4	3	4	0	2	0	99	1	40	0
+1	Ale001	Bockemossen	32	3	24,1	3	3,333333333	4	0	1	0	100	2	1170	0
+1	Ale001	Bockemossen	33	3	24	3	2,666666667	4	0	1	0	0	2	900	0
+1	Ale001	Bockemossen	34	2	16	1	3	3	0	1	0	100	0	0	0
+1	Ale001	Bockemossen	35	9	19,5	3	1,666666667	3	0	0	0	NA	3	390	0
+1	Ale001	Bockemossen	36	3	22,2	1	3	3	0	1	0	0	0	0	0
+1	Ale001	Bockemossen	37	3	14,1	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	38	1	13,4	1	2	2	0	0	0	NA	1	90	0
+1	Ale001	Bockemossen	39	1	22,5	5	3,2	5	0	4	0	NA	0	NA	0
+1	Ale001	Bockemossen	40	2	15,9	1	3	3	0	1	0	100	0	0	0
+1	Ale001	Bockemossen	41	2	21,6	4	2,25	3	0	3	0	NA	2	740	0
+1	Ale001	Bockemossen	42	2	13,6	2	2,5	4	0	2	0	100	0	0	0
+1	Ale001	Bockemossen	43	2	14	1	1	1	0	0	0	NA	1	420	0
+1	Ale001	Bockemossen	44	5	13,9	2	2	3	0	1	0	NA	1	NA	0
+1	Ale001	Bockemossen	45	4	17,8	2	3	4	0	2	0	NA	0	NA	0
+1	Ale001	Bockemossen	46	3	17,8	2	2	3	0	2	0	50	0	0	0
+1	Ale001	Bockemossen	47	3	13,1	1	1	1	0	0	0	NA	1	0	0
+1	Ale001	Bockemossen	48	3	17,4	2	2,5	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	49	1	16,3	1	2	2	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	50	1	17	2	1,5	2	0	1	0	NA	1	300	0
+1	Ale001	Bockemossen	51	2	20	4	3	4	5	3	0	NA	1	320	1
+1	Ale001	Bockemossen	52	2	14	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	53	2	23,6	4	2,75	4	0	3	0	NA	0	NA	0
+1	Ale001	Bockemossen	54	4	29,5	4	3,25	4	0	3	0	NA	1	830	0
+1	Ale001	Bockemossen	55	1	16,2	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	56	6	28,2	5	3,2	4	1	3	0	NA	2	1040	1
+1	Ale001	Bockemossen	57	2	26,2	8	1,625	3	1	3	0	NA	3	1230	1
+1	Ale001	Bockemossen	58	2	22,4	4	2,75	4	0	2	0	NA	2	520	0
+1	Ale001	Bockemossen	59	3	21,5	3	1,333333333	2	0	0	0	NA	2	560	0
+1	Ale001	Bockemossen	60	3	24,2	2	2,5	3	0	1	0	NA	1	340	0
+1	Ale001	Bockemossen	61	2	28,2	5	3,2	4	4	5	0	NA	0	NA	1
+1	Ale001	Bockemossen	62	4	20,3	2	4	5	2	0	0	NA	3	1425	1
+1	Ale001	Bockemossen	63	2	33,4	4	2,25	4	0	2	0	NA	2	680	0
+1	Ale001	Bockemossen	64	3	14,7	3	3,666666667	5	0	3	0	20	0	1320	0
+1	Ale001	Bockemossen	65	3	19,7	3	3,333333333	4	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	66	2	22,8	4	3,25	4	5	4	0	NA	0	NA	1
+1	Ale001	Bockemossen	67	4	19,2	3	2,666666667	4	4	3	0	NA	0	NA	1
+1	Ale001	Bockemossen	68	1	20	1	3	3	1	1	0	100	0	0	1
+1	Ale001	Bockemossen	69	1	22,5	2	2	3	0	2	0	NA	0	NA	0
+1	Ale001	Bockemossen	70	1	17,3	3	1,666666667	3	0	3	0	NA	0	NA	0
+1	Ale001	Bockemossen	71	2	19,1	4	3	4	0	5	0	NA	0	NA	0
+1	Ale001	Bockemossen	72	1	13,6	1	1	1	0	0	2	NA	1	150	0
+1	Ale001	Bockemossen	73	1	6,2	5	1,8	3	0	1	0	NA	4	380	0
+1	Ale001	Bockemossen	74	3	18,3	3	1,333333333	2	2	3	0	NA	0	NA	1
+1	Ale001	Bockemossen	75	2	18	1	2	2	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	76	2	14,4	2	2	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	77	3	23,3	5	1,2	2	4	4	0	NA	1	280	1
+1	Ale001	Bockemossen	78	1	31,5	5	1,2	2	0	3	0	NA	2	330	0
+1	Ale001	Bockemossen	79	1	30,6	6	1,833333333	3	1	4	1	NA	2	140	1
+1	Ale001	Bockemossen	80	1	25,2	2	2,5	3	0	2	0	NA	0	NA	0
+1	Ale001	Bockemossen	81	2	24,5	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	82	2	19,8	2	2,5	3	0	1	0	NA	1	420	0
+1	Ale001	Bockemossen	83	28	18,2	3	1,666666667	3	2	2	0	NA	0	NA	1
+1	Ale001	Bockemossen	84	3	20,1	4	2	3	0	2	2	NA	0	NA	0
+1	Ale001	Bockemossen	85	5	21	4	2,25	3	0	3	0	NA	1	260	0
+1	Ale001	Bockemossen	86	1	17,7	4	1,75	2	0	2	0	NA	2	0	0
+1	Ale001	Bockemossen	87	2	18,5	3	2	2	1	2	0	NA	1	130	1
+1	Ale001	Bockemossen	88	4	19,1	5	3,4	5	0	4	0	100	1	0	0
+1	Ale001	Bockemossen	89	3	23,7	5	2,2	3	0	2	4	NA	3	NA	0
+1	Ale001	Bockemossen	90	2	20,3	3	1,666666667	3	0	2	1	NA	0	NA	0
+1	Ale001	Bockemossen	91	4	19,2	3	1,333333333	2	0	1	0	NA	1	0	0
+1	Ale001	Bockemossen	92	1	20,2	4	1,25	2	0	0	0	NA	0	NA	0
+1	Ale001	Bockemossen	93	1	17,9	2	1	1	0	0	0	NA	0	NA	0
+1	Ale001	Bockemossen	94	2	18,6	2	1,5	2	0	2	1	NA	0	NA	0
+1	Ale001	Bockemossen	95	1	17,7	1	3	3	0	1	0	NA	0	NA	0
+1	Ale001	Bockemossen	96	3	23,7	3	1,666666667	3	0	2	0	NA	1	0	0
+1	Ale001	Bockemossen	97	3	31,5	5	3,2	4	0	0	0	NA	0	NA	0
+1	Ale001	Bockemossen	98	4	29,3	5	1,8	3	2	1	0	NA	3	960	1
+1	Ale001	Bockemossen	99	1	27,5	4	2,75	3	4	3	0	NA	2	1100	1
+1	Ale001	Bockemossen	100	2	29,4	5	2	3	0	3	0	100	2	790	0
+0	Ale010	Stora Kroksjön Ö stranden	1	1	27,6	1	2	2	0	0	0	NA	1	550	0
+0	Ale010	Stora Kroksjön Ö stranden	2	2	15,6	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	3	1	19,8	1	1	1	0	1	0	0	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	4	1	20,6	1	1	1	0	0	0	NA	1	400	0
+0	Ale010	Stora Kroksjön Ö stranden	5	1	30,2	3	2,666666667	4	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	6	3	20,6	2	2	3	0	0	1	NA	1	170	0
+0	Ale010	Stora Kroksjön Ö stranden	7	1	20,5	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	8	3	18,2	1	2	2	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	9	1	22	2	1,5	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	10	1	31,7	5	3	5	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	11	1	35,1	3	3,333333333	4	0	0	0	NA	3	1620	0
+0	Ale010	Stora Kroksjön Ö stranden	12	1	19,2	2	3,5	5	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	13	1	20,3	1	1	1	0	1	0	20	0	210	0
+0	Ale010	Stora Kroksjön Ö stranden	14	1	18,6	3	1	1	0	3	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	15	1	15,4	1	3	3	0	0	0	NA	1	330	0
+0	Ale010	Stora Kroksjön Ö stranden	16	1	22,9	2	2,5	4	0	1	0	NA	1	620	0
+0	Ale010	Stora Kroksjön Ö stranden	17	2	12	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	18	2	15,3	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	19	1	13,5	1	2	2	0	0	0	NA	1	270	0
+0	Ale010	Stora Kroksjön Ö stranden	20	2	19,7	1	2	2	0	0	0	NA	1	30	0
+0	Ale010	Stora Kroksjön Ö stranden	21	1	17,6	1	2	2	0	1	1	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	22	1	29,2	1	2	2	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	23	1	22	1	3	3	0	0	0	NA	2	1560	0
+0	Ale010	Stora Kroksjön Ö stranden	24	1	25,6	3	2,666666667	4	0	0	0	NA	3	630	0
+0	Ale010	Stora Kroksjön Ö stranden	25	2	16,4	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	26	1	28,5	2	3	4	0	2	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	27	2	30,2	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	28	2	31,5	2	2	3	0	1	0	NA	1	110	0
+0	Ale010	Stora Kroksjön Ö stranden	29	1	22,8	1	2	2	0	0	0	NA	1	140	0
+0	Ale010	Stora Kroksjön Ö stranden	30	1	31,1	2	1,5	2	0	0	0	NA	1	220	0
+0	Ale010	Stora Kroksjön Ö stranden	31	4	24,1	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	32	2	24	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	33	1	18,3	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	34	2	13,3	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	35	1	15,7	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	36	3	26,6	4	1,25	2	0	0	1	NA	2	1180	0
+0	Ale010	Stora Kroksjön Ö stranden	37	1	16,5	1	2	2	0	0	0	NA	1	470	0
+0	Ale010	Stora Kroksjön Ö stranden	38	1	15,2	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	39	2	18,5	2	1,5	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	40	1	26,9	2	3	4	0	0	0	NA	2	930	0
+0	Ale010	Stora Kroksjön Ö stranden	41	1	27,1	3	3,333333333	5	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	42	2	23	2	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	43	1	33,2	3	2,333333333	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	44	3	22,1	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	45	8	27,8	1	3	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	46	3	14,3	1	3	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	47	1	21,3	3	2	2	0	1	0	NA	2	1260	0
+0	Ale010	Stora Kroksjön Ö stranden	48	2	19,6	1	2	2	0	0	0	NA	1	520	0
+0	Ale010	Stora Kroksjön Ö stranden	49	1	32,7	2	3	4	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	50	2	27	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	51	3	18,4	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	52	2	33,9	1	2	2	0	0	0	NA	1	630	0
+0	Ale010	Stora Kroksjön Ö stranden	53	2	27,1	4	2,5	4	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	54	2	17	1	2	2	0	0	0	NA	1	90	0
+0	Ale010	Stora Kroksjön Ö stranden	55	1	30,5	2	2,5	4	0	0	0	NA	1	500	0
+0	Ale010	Stora Kroksjön Ö stranden	56	3	21	2	3	4	0	2	0	90	0	10	0
+0	Ale010	Stora Kroksjön Ö stranden	57	1	26,2	3	2	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	58	3	15,1	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	59	3	23,9	1	2	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	60	2	21,4	1	1	1	0	0	0	NA	1	0	0
+0	Ale010	Stora Kroksjön Ö stranden	61	2	23,2	2	2,5	4	0	1	0	NA	1	560	0
+0	Ale010	Stora Kroksjön Ö stranden	62	1	20,5	1	1	1	0	1	0	70	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	63	3	32,5	2	2,5	3	0	1	0	NA	1	550	0
+0	Ale010	Stora Kroksjön Ö stranden	64	2	24,6	1	2	2	0	0	0	NA	1	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	65	1	16,9	1	1	1	0	0	0	NA	1	60	0
+0	Ale010	Stora Kroksjön Ö stranden	66	3	19,2	1	4	4	0	0	0	NA	1	570	0
+0	Ale010	Stora Kroksjön Ö stranden	67	3	27,4	2	1,5	2	0	0	0	NA	2	540	0
+0	Ale010	Stora Kroksjön Ö stranden	68	1	25,8	1	2	2	0	0	1	NA	1	420	0
+0	Ale010	Stora Kroksjön Ö stranden	69	2	28,3	1	1	1	0	0	0	NA	1	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	70	2	30,6	3	2,666666667	4	0	0	0	NA	3	510	0
+0	Ale010	Stora Kroksjön Ö stranden	71	3	34,7	3	2	3	0	0	0	NA	4	1506,666667	0
+0	Ale010	Stora Kroksjön Ö stranden	72	1	16,2	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	73	2	14	1	1	1	0	0	0	NA	1	90	0
+0	Ale010	Stora Kroksjön Ö stranden	74	1	19,2	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	75	1	17,2	1	1	1	0	0	0	NA	1	220	0
+0	Ale010	Stora Kroksjön Ö stranden	76	3	15,2	2	1,5	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	77	1	16,6	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	78	1	19,3	2	2,5	3	0	2	0	NA	1	240	0
+0	Ale010	Stora Kroksjön Ö stranden	79	2	20,2	2	1	1	0	0	0	NA	1	10	0
+0	Ale010	Stora Kroksjön Ö stranden	80	3	21	2	1,5	2	0	1	1	70	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	81	3	30	3	1	1	0	2	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	82	2	25	1	1	1	0	0	1	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	83	2	14	1	2	2	0	1	0	100	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	84	1	19,2	2	1,5	2	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	85	1	18,5	1	1	1	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	86	2	15,6	1	1	1	0	0	0	NA	1	280	0
+0	Ale010	Stora Kroksjön Ö stranden	87	5	22,7	1	3	3	0	1	0	20	0	20	0
+0	Ale010	Stora Kroksjön Ö stranden	88	2	24,3	1	2	2	0	0	1	NA	1	220	0
+0	Ale010	Stora Kroksjön Ö stranden	89	2	24,7	2	1,5	2	0	1	1	NA	1	80	0
+0	Ale010	Stora Kroksjön Ö stranden	90	2	29,9	3	1,666666667	3	0	1	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	91	1	26	2	1	1	0	0	0	NA	1	170	0
+0	Ale010	Stora Kroksjön Ö stranden	92	1	17,2	1	1	1	0	1	0	100	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	93	2	25,7	2	1	1	0	1	0	NA	1	410	0
+0	Ale010	Stora Kroksjön Ö stranden	94	4	21,2	1	2	2	0	1	0	100	0	0	0
+0	Ale010	Stora Kroksjön Ö stranden	95	1	15,4	3	2	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	96	2	26,8	3	1,666666667	3	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	97	1	12,7	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	98	2	12,9	1	1	1	0	0	0	NA	1	190	0
+0	Ale010	Stora Kroksjön Ö stranden	99	2	12,9	1	1	1	0	0	0	NA	0	NA	0
+0	Ale010	Stora Kroksjön Ö stranden	100	1	17,4	2	2,5	3	0	1	0	40	1	640	0
+0	Bor012	Strand på Näsudden i Frisjön	1	3	16,1	2	3,5	5	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	2	4	14,1	1	2	2	0	0	0	NA	1	390	0
+0	Bor012	Strand på Näsudden i Frisjön	3	4	17,2	3	1	1	0	1	2	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	4	2	31	2	2,5	3	0	1	0	NA	1	440	0
+0	Bor012	Strand på Näsudden i Frisjön	5	4	12,1	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	6	2	14,1	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	7	2	28,5	3	3	5	0	1	0	40	1	280	0
+0	Bor012	Strand på Näsudden i Frisjön	8	5	25	1	2	2	0	0	0	NA	1	410	0
+0	Bor012	Strand på Näsudden i Frisjön	9	3	17,2	1	2	2	0	0	0	NA	1	220	0
+0	Bor012	Strand på Näsudden i Frisjön	10	2	12,1	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	11	8	25,4	1	3	3	0	0	0	NA	1	580	0
+0	Bor012	Strand på Näsudden i Frisjön	12	4	24,7	1	3	3	0	0	0	NA	1	640	0
+0	Bor012	Strand på Näsudden i Frisjön	13	2	26,5	1	3	3	0	0	0	NA	1	710	0
+0	Bor012	Strand på Näsudden i Frisjön	14	6	22,5	1	2	2	0	0	0	NA	1	390	0
+0	Bor012	Strand på Näsudden i Frisjön	15	2	22,6	1	4	4	0	0	0	NA	1	600	0
+0	Bor012	Strand på Näsudden i Frisjön	16	8	22,9	1	5	5	0	0	0	NA	1	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	17	4	16,5	1	2	2	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	18	6	22,5	1	4	4	0	0	0	NA	1	580	0
+0	Bor012	Strand på Näsudden i Frisjön	19	5	40,6	2	2,5	3	0	0	0	NA	2	1220	0
+0	Bor012	Strand på Näsudden i Frisjön	20	4	30,5	1	3	3	0	0	0	NA	1	470	0
+0	Bor012	Strand på Näsudden i Frisjön	21	9	28	1	3	3	0	0	0	NA	1	100	0
+0	Bor012	Strand på Näsudden i Frisjön	22	6	31	1	3	3	0	1	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	23	4	15,3	1	2	2	0	0	0	NA	1	320	0
+0	Bor012	Strand på Näsudden i Frisjön	24	8	25,6	1	2	2	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	25	1	31,1	2	3,5	5	0	0	0	NA	2	960	0
+0	Bor012	Strand på Näsudden i Frisjön	26	2	37,5	2	3	4	0	0	0	NA	1	590	0
+0	Bor012	Strand på Näsudden i Frisjön	27	6	33,7	1	4	4	0	0	0	NA	1	770	0
+0	Bor012	Strand på Näsudden i Frisjön	28	4	30,5	1	4	4	0	0	0	NA	1	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	29	6	24,7	1	2	2	0	0	0	NA	1	510	0
+0	Bor012	Strand på Näsudden i Frisjön	30	12	30	2	4	5	0	0	0	NA	2	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	31	10	22,7	1	1	1	0	0	0	NA	1	170	0
+0	Bor012	Strand på Näsudden i Frisjön	32	3	17,6	1	4	4	0	0	0	NA	1	620	0
+0	Bor012	Strand på Näsudden i Frisjön	33	3	26,5	1	2	2	0	0	0	NA	1	180	0
+0	Bor012	Strand på Näsudden i Frisjön	34	6	29,8	2	3	5	0	1	0	NA	1	610	0
+0	Bor012	Strand på Näsudden i Frisjön	35	4	24,1	3	3	5	0	0	0	NA	2	1080	0
+0	Bor012	Strand på Näsudden i Frisjön	36	8	26,6	3	2	4	0	1	0	0	0	570	0
+0	Bor012	Strand på Näsudden i Frisjön	37	2	9,4	1	2	2	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	38	3	14,6	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	39	4	29,6	4	2,5	4	0	2	0	10	2	1160	0
+0	Bor012	Strand på Näsudden i Frisjön	40	2	27,7	2	3	4	0	1	0	NA	1	660	0
+0	Bor012	Strand på Näsudden i Frisjön	41	2	25,5	1	3	3	0	0	0	NA	1	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	42	3	22,1	1	4	4	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	43	2	15,2	1	2	2	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	44	5	24,3	3	2,333333333	3	0	2	0	NA	1	560	0
+0	Bor012	Strand på Näsudden i Frisjön	45	4	21	1	3	3	0	0	0	NA	1	350	0
+0	Bor012	Strand på Näsudden i Frisjön	46	3	17,7	1	3	3	0	0	0	NA	1	170	0
+0	Bor012	Strand på Näsudden i Frisjön	47	2	21,1	1	3	3	0	0	0	10	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	48	3	11,2	1	2	2	0	0	0	NA	1	350	0
+0	Bor012	Strand på Näsudden i Frisjön	49	4	21,2	2	3,5	5	0	0	0	NA	1	560	0
+0	Bor012	Strand på Näsudden i Frisjön	50	2	13,2	1	2	2	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	51	2	16,8	1	4	4	0	0	0	NA	1	520	0
+0	Bor012	Strand på Näsudden i Frisjön	52	1	10,1	1	3	3	0	0	0	NA	1	330	0
+0	Bor012	Strand på Näsudden i Frisjön	53	6	15,5	1	1	1	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	54	1	22	2	3,5	5	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	55	2	15,9	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	56	2	21,6	1	4	4	0	0	0	NA	1	620	0
+0	Bor012	Strand på Näsudden i Frisjön	57	2	10,5	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	58	2	14,4	1	2	2	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	59	5	10,9	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	60	2	18,4	1	4	4	0	0	0	NA	1	450	0
+0	Bor012	Strand på Näsudden i Frisjön	61	2	16,1	2	3	4	0	0	0	NA	2	880	0
+0	Bor012	Strand på Näsudden i Frisjön	62	5	19,2	2	2,5	4	0	1	0	NA	1	490	0
+0	Bor012	Strand på Näsudden i Frisjön	63	1	13,8	1	2	2	0	0	0	NA	1	330	0
+0	Bor012	Strand på Näsudden i Frisjön	64	3	15,2	1	3	3	0	0	0	NA	1	380	0
+0	Bor012	Strand på Näsudden i Frisjön	65	2	13,3	1	1	1	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	66	3	17,2	1	4	4	0	1	0	10	0	250	0
+0	Bor012	Strand på Näsudden i Frisjön	67	2	18	2	3	4	0	0	0	NA	2	830	0
+0	Bor012	Strand på Näsudden i Frisjön	68	8	15,5	1	4	4	0	0	0	NA	1	510	0
+0	Bor012	Strand på Näsudden i Frisjön	69	3	19,3	2	3	4	0	1	0	0	1	1040	0
+0	Bor012	Strand på Näsudden i Frisjön	70	2	25,7	2	3	4	0	1	0	0	1	910	0
+0	Bor012	Strand på Näsudden i Frisjön	71	2	27,2	4	2,5	4	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	72	3	24,5	2	3	4	0	2	0	0	0	720	0
+0	Bor012	Strand på Näsudden i Frisjön	73	3	17	1	3	3	0	1	0	0	0	470	0
+0	Bor012	Strand på Näsudden i Frisjön	74	3	23	1	4	4	0	0	0	NA	1	700	0
+0	Bor012	Strand på Näsudden i Frisjön	75	1	20,7	3	2,666666667	4	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	76	3	19	1	2	2	0	0	0	NA	1	460	0
+0	Bor012	Strand på Näsudden i Frisjön	77	3	11,9	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	78	3	17,3	2	3	4	0	0	0	NA	2	770	0
+0	Bor012	Strand på Näsudden i Frisjön	79	4	11,6	1	3	3	0	0	0	NA	1	0	0
+0	Bor012	Strand på Näsudden i Frisjön	80	4	16,5	2	3	4	0	1	0	NA	1	520	0
+0	Bor012	Strand på Näsudden i Frisjön	81	2	15	1	4	4	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	82	4	16,8	1	3	3	0	0	0	NA	1	440	0
+0	Bor012	Strand på Näsudden i Frisjön	83	4	17,2	3	2,333333333	4	0	2	0	NA	1	500	0
+0	Bor012	Strand på Näsudden i Frisjön	84	1	8,7	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	85	2	17,7	1	3	3	0	0	0	NA	1	540	0
+0	Bor012	Strand på Näsudden i Frisjön	86	4	13,8	1	1	1	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	87	4	13	1	2	2	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	88	3	10,3	1	1	1	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	89	1	22,3	2	2	3	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	90	2	7,7	2	1,5	2	0	1	2	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	91	2	14,1	1	3	3	0	0	0	NA	1	530	0
+0	Bor012	Strand på Näsudden i Frisjön	92	4	6,3	1	2	2	0	1	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	93	2	16,7	2	2	3	0	0	0	NA	2	690	0
+0	Bor012	Strand på Näsudden i Frisjön	94	3	26,5	1	2	2	0	0	0	NA	1	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	95	5	11,3	1	5	5	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	96	4	15,1	1	5	5	0	0	0	NA	1	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	97	5	17,8	1	1	1	0	0	0	NA	0	NA	0
+0	Bor012	Strand på Näsudden i Frisjön	98	7	19,7	1	1	1	0	0	0	NA	1	530	0
+0	Bor012	Strand på Näsudden i Frisjön	99	1	14,9	2	1,5	2	0	0	0	NA	1	410	0
+0	Bor012	Strand på Näsudden i Frisjön	100	2	19,6	3	2,333333333	3	0	1	0	NA	2	630	0
+1	Göt009a	Högsjön ö klippstrand	1	2	14,4	1	3	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	2	1	21	1	1	1	1	1	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	3	3	21,5	3	1,333333333	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	4	2	14,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	5	2	17,2	1	2	2	0	0	0	NA	1	0	0
+1	Göt009a	Högsjön ö klippstrand	6	2	14,2	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	7	1	23,2	3	1,333333333	2	0	2	0	NA	1	80	0
+1	Göt009a	Högsjön ö klippstrand	8	2	17	2	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	9	1	17,3	2	2	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	10	1	16,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	11	2	18,7	3	2,333333333	4	2	1	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	12	2	22,1	2	3	4	0	1	0	0	0	0	0
+1	Göt009a	Högsjön ö klippstrand	13	2	25,7	3	1,333333333	2	0	2	0	NA	1	0	0
+1	Göt009a	Högsjön ö klippstrand	14	2	17,6	5	1,4	3	1	4	1	0	0	0	1
+1	Göt009a	Högsjön ö klippstrand	15	2	15,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	16	2	17,8	1	1	1	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	17	2	15	2	2	3	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	18	3	17,7	4	1	1	1	2	1	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	19	3	25,8	7	2,571428571	4	0	3	0	NA	3	165	0
+1	Göt009a	Högsjön ö klippstrand	20	1	18,3	4	1,25	2	0	0	0	NA	4	0	0
+1	Göt009a	Högsjön ö klippstrand	21	3	22,5	4	2,25	4	3	3	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	22	2	26,2	2	2	3	2	3	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	23	2	23,2	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	24	4	17	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	25	3	13,3	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	26	2	12	2	2	3	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	27	1	11,2	1	3	3	0	0	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	28	2	16,4	2	1,5	2	0	1	0	NA	1	NA	0
+1	Göt009a	Högsjön ö klippstrand	29	1	13,2	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	30	2	14,3	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	31	3	21	2	2	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	32	2	15,7	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	33	1	18,4	3	1,666666667	3	0	3	0	90	0	40	0
+1	Göt009a	Högsjön ö klippstrand	34	3	18,3	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	35	5	22,5	3	2	4	0	2	0	NA	1	NA	0
+1	Göt009a	Högsjön ö klippstrand	36	2	17,3	3	3	4	1	3	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	37	1	33,6	4	2,75	4	6	5	0	10	0	220	1
+1	Göt009a	Högsjön ö klippstrand	38	1	17	1	1	1	0	0	0	NA	1	280	0
+1	Göt009a	Högsjön ö klippstrand	39	1	22,6	2	1,5	2	0	1	0	NA	1	240	0
+1	Göt009a	Högsjön ö klippstrand	40	2	24	2	2	3	0	1	1	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	41	1	27,3	5	1	1	0	3	0	NA	2	NA	0
+1	Göt009a	Högsjön ö klippstrand	42	2	16	3	2,666666667	5	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	43	1	26,4	3	1,333333333	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	44	3	20,8	1	2	2	0	0	0	NA	1	40	0
+1	Göt009a	Högsjön ö klippstrand	45	1	23,6	2	1,5	2	0	1	0	NA	1	0	0
+1	Göt009a	Högsjön ö klippstrand	46	1	24,9	2	2	3	2	2	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	47	2	21,1	2	1,5	2	2	1	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	48	2	22,4	3	2,666666667	4	2	3	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	49	7	25,6	4	2	3	3	4	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	50	3	28,2	3	2	3	0	0	0	NA	2	0	0
+1	Göt009a	Högsjön ö klippstrand	51	2	29,8	5	3,2	4	0	0	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	52	2	34,6	3	3	5	0	3	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	53	5	21,8	2	2,5	4	0	1	0	100	0	0	0
+1	Göt009a	Högsjön ö klippstrand	54	4	22,7	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	55	2	20,2	1	3	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	56	3	15,8	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	57	2	12,5	2	2,5	4	0	0	0	NA	1	0	0
+1	Göt009a	Högsjön ö klippstrand	58	3	15,2	2	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	59	1	23,3	2	3	4	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	60	2	26,2	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	61	1	16,9	1	3	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	62	1	22	3	1,666666667	3	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	63	5	19	2	1,5	2	0	0	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	64	2	27,2	4	2,5	5	0	1	0	0	0	0	0
+1	Göt009a	Högsjön ö klippstrand	65	2	23,4	5	2	4	2	5	1	0	0	0	1
+1	Göt009a	Högsjön ö klippstrand	66	3	18	1	3	3	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	67	8	18,6	3	1,333333333	2	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	68	3	17,3	3	2,333333333	4	0	0	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	69	2	14,2	2	1,5	2	0	2	0	NA	2	NA	0
+1	Göt009a	Högsjön ö klippstrand	70	1	27,5	3	2,666666667	4	0	2	0	NA	1	NA	0
+1	Göt009a	Högsjön ö klippstrand	71	2	17,9	4	3,25	4	2	4	0	NA	0	NA	1
+1	Göt009a	Högsjön ö klippstrand	72	2	18,6	2	2,5	4	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	73	4	23,3	3	2,333333333	4	0	0	1	NA	1	320	0
+1	Göt009a	Högsjön ö klippstrand	74	1	20,7	2	3,5	4	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	75	3	22,3	2	1,5	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	76	3	26,4	2	1,5	2	0	0	1	NA	1	510	0
+1	Göt009a	Högsjön ö klippstrand	77	3	26	3	1,333333333	2	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	78	5	14,3	3	1,333333333	2	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	79	3	13,1	3	1,666666667	3	0	2	2	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	80	1	18,8	2	1,5	2	0	0	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	81	1	10	1	3	3	0	0	1	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	82	1	13,8	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	83	3	9,4	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	84	2	17,1	3	1,666666667	3	0	1	1	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	85	1	11,9	4	1,25	2	0	4	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	86	1	12,2	2	1,5	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	87	3	9,6	1	2	2	0	0	1	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	88	3	13,5	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	89	2	21,1	2	3	4	0	2	0	0	0	0	0
+1	Göt009a	Högsjön ö klippstrand	90	1	12,5	1	3	3	0	1	0	NA	1	NA	0
+1	Göt009a	Högsjön ö klippstrand	91	3	14,9	2	3,5	4	0	2	0	100	0	0	0
+1	Göt009a	Högsjön ö klippstrand	92	2	19,5	2	1,5	2	0	1	1	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	93	1	15	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	94	5	21	2	2	3	0	2	0	100	0	0	0
+1	Göt009a	Högsjön ö klippstrand	95	1	32,6	5	2,8	4	2	3	0	NA	1	300	1
+1	Göt009a	Högsjön ö klippstrand	96	1	21,5	3	1,666666667	2	0	4	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	97	1	20,6	3	3	4	0	3	0	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	98	2	25,7	3	2,666666667	4	0	3	0	100	0	0	0
+1	Göt009a	Högsjön ö klippstrand	99	1	13,9	3	2	3	0	1	2	NA	0	NA	0
+1	Göt009a	Högsjön ö klippstrand	100	3	33,2	3	3	5	0	2	0	0	0	100	0
+1	Göt009b	Högsjön s strandäng	1	3	24,4	3	2,666666667	4	3	3	0	NA	0	NA	1
+1	Göt009b	Högsjön s strandäng	2	4	19,3	4	1,5	3	0	3	2	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	3	3	29	7	2,571428571	4	0	1	0	100	5	500	0
+1	Göt009b	Högsjön s strandäng	4	3	22,7	3	1,333333333	2	0	1	0	NA	2	0	0
+1	Göt009b	Högsjön s strandäng	5	1	14,5	6	1,5	3	0	1	0	NA	3	1425	0
+1	Göt009b	Högsjön s strandäng	6	1	16,5	4	1,5	2	0	0	1	NA	3	1020	0
+1	Göt009b	Högsjön s strandäng	7	2	22,3	4	2,25	3	1	1	0	NA	3	795	1
+1	Göt009b	Högsjön s strandäng	8	3	9,1	2	1,5	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	9	3	20,6	4	2	3	0	1	0	60	2	300	0
+1	Göt009b	Högsjön s strandäng	10	3	21,1	4	1,5	3	0	2	0	NA	2	580	0
+1	Göt009b	Högsjön s strandäng	11	3	17,6	3	1,333333333	2	0	2	0	NA	1	450	0
+1	Göt009b	Högsjön s strandäng	12	3	25,4	4	1,25	2	0	2	0	NA	2	1000	0
+1	Göt009b	Högsjön s strandäng	13	2	12,6	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	14	2	14,1	2	1,5	2	0	1	0	NA	1	330	0
+1	Göt009b	Högsjön s strandäng	15	2	13	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	16	3	17,2	3	2,333333333	3	0	3	0	20	0	140	0
+1	Göt009b	Högsjön s strandäng	17	2	11,1	1	2	2	0	0	0	NA	1	360	0
+1	Göt009b	Högsjön s strandäng	18	3	10,9	1	2	2	0	0	0	NA	1	350	0
+1	Göt009b	Högsjön s strandäng	19	2	27,3	3	3,333333333	4	0	0	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	20	8	15,2	3	1,333333333	2	0	1	0	NA	2	390	0
+1	Göt009b	Högsjön s strandäng	21	2	15,3	1	3	3	0	1	0	30	0	280	0
+1	Göt009b	Högsjön s strandäng	22	4	15,5	1	2	2	0	0	0	NA	1	390	0
+1	Göt009b	Högsjön s strandäng	23	1	8,3	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	24	1	12	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	25	4	14,1	2	2	2	0	0	0	NA	2	50	0
+1	Göt009b	Högsjön s strandäng	26	3	12,9	1	2	2	0	0	0	NA	1	490	0
+1	Göt009b	Högsjön s strandäng	27	3	13,7	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	28	2	16,6	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	29	2	10,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	30	3	17,5	3	2,666666667	4	0	1	0	NA	2	980	0
+1	Göt009b	Högsjön s strandäng	31	3	19,9	4	2	3	0	2	0	NA	2	390	0
+1	Göt009b	Högsjön s strandäng	32	2	19,2	4	3,25	5	0	2	0	100	2	860	0
+1	Göt009b	Högsjön s strandäng	33	3	22	4	3	4	0	0	0	NA	4	1860	0
+1	Göt009b	Högsjön s strandäng	34	3	17,2	4	1,25	2	0	1	0	NA	2	410	0
+1	Göt009b	Högsjön s strandäng	35	3	15,6	2	1,5	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	36	4	20	3	2,333333333	3	0	1	0	NA	2	570	0
+1	Göt009b	Högsjön s strandäng	37	2	17,6	3	2,666666667	4	0	2	0	0	1	0	0
+1	Göt009b	Högsjön s strandäng	38	3	22,4	2	1,5	2	0	1	0	NA	1	380	0
+1	Göt009b	Högsjön s strandäng	39	1	19,4	1	1	1	0	0	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	40	3	23,5	3	2,333333333	3	0	2	1	NA	1	580	0
+1	Göt009b	Högsjön s strandäng	41	11	15,2	2	2	3	0	1	0	NA	1	NA	0
+1	Göt009b	Högsjön s strandäng	42	1	16,4	1	4	4	0	0	0	NA	1	580	0
+1	Göt009b	Högsjön s strandäng	43	1	23,4	4	2,75	4	0	3	0	NA	1	290	0
+1	Göt009b	Högsjön s strandäng	44	1	19,5	3	2,333333333	3	0	0	0	NA	3	885	0
+1	Göt009b	Högsjön s strandäng	45	2	18,6	3	2,333333333	3	0	2	0	NA	2	450	0
+1	Göt009b	Högsjön s strandäng	46	4	19,2	5	2,6	4	0	0	0	NA	5	1900	0
+1	Göt009b	Högsjön s strandäng	47	2	17,6	3	1,333333333	2	0	0	0	NA	3	870	0
+1	Göt009b	Högsjön s strandäng	48	3	21,6	4	1,25	2	0	2	0	NA	1	400	0
+1	Göt009b	Högsjön s strandäng	49	8	8,8	15	2,133333333	4	0	0	2	NA	8	3800	0
+1	Göt009b	Högsjön s strandäng	50	2	25,8	5	2	3	0	0	0	NA	1	380	0
+1	Göt009b	Högsjön s strandäng	51	2	22,2	7	1,571428571	2	0	4	0	50	3	0	0
+1	Göt009b	Högsjön s strandäng	52	2	25,6	7	1,714285714	3	0	0	1	NA	6	3630	0
+1	Göt009b	Högsjön s strandäng	53	1	18,9	3	1	1	0	1	1	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	54	3	28,1	5	2,6	4	4	1	0	NA	4	1640	1
+1	Göt009b	Högsjön s strandäng	55	1	19,6	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	56	2	27,1	2	1,5	2	0	1	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	57	2	14,2	1	3	3	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	58	1	19,6	2	1,5	2	0	1	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	59	2	14,9	1	2	2	0	1	0	70	0	110	0
+1	Göt009b	Högsjön s strandäng	60	1	17,1	2	2	3	0	1	0	NA	1	490	0
+1	Göt009b	Högsjön s strandäng	61	2	23,6	3	3	4	3	2	0	NA	1	220	1
+1	Göt009b	Högsjön s strandäng	62	2	34,7	5	3,8	5	8	4	0	NA	1	660	1
+1	Göt009b	Högsjön s strandäng	63	4	22,5	4	1,5	3	0	3	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	64	2	18,3	2	1,5	2	0	0	1	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	65	2	21,2	5	1,2	2	0	0	2	NA	3	180	0
+1	Göt009b	Högsjön s strandäng	66	1	22	3	1,333333333	2	1	2	1	NA	0	NA	1
+1	Göt009b	Högsjön s strandäng	67	2	19,6	2	1,5	2	3	2	0	NA	0	NA	1
+1	Göt009b	Högsjön s strandäng	68	1	17	3	1,333333333	2	0	1	2	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	69	2	8,2	1	1	1	0	0	0	NA	1	NA	0
+1	Göt009b	Högsjön s strandäng	70	3	15,6	1	3	3	0	0	0	NA	1	190	0
+1	Göt009b	Högsjön s strandäng	71	2	17,5	7	1,857142857	4	3	1	0	NA	5	1650	1
+1	Göt009b	Högsjön s strandäng	72	3	14,1	1	1	1	0	0	1	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	73	4	12,6	2	3	4	0	0	0	NA	2	460	0
+1	Göt009b	Högsjön s strandäng	74	2	12	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	75	2	16,2	2	2	3	0	0	0	NA	2	710	0
+1	Göt009b	Högsjön s strandäng	76	2	17,2	4	1,75	3	0	2	1	NA	1	330	0
+1	Göt009b	Högsjön s strandäng	77	2	15,5	3	2,333333333	3	0	1	0	NA	2	830	0
+1	Göt009b	Högsjön s strandäng	78	5	23,4	5	2	3	0	4	0	NA	1	NA	0
+1	Göt009b	Högsjön s strandäng	79	3	13,1	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	80	2	12,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	81	1	10,7	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	82	1	26,4	2	1,5	2	0	1	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	83	3	11,5	1	1	1	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	84	1	18,6	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	85	1	20	6	1,166666667	2	0	1	0	NA	3	405	0
+1	Göt009b	Högsjön s strandäng	86	1	18,6	2	1,5	2	0	1	1	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	87	3	25,2	3	2,333333333	3	0	1	0	30	2	1030	0
+1	Göt009b	Högsjön s strandäng	88	1	24,6	3	2,666666667	4	1	3	0	NA	0	NA	1
+1	Göt009b	Högsjön s strandäng	89	2	19,4	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	90	2	24,1	2	1,5	2	0	1	0	NA	2	620	0
+1	Göt009b	Högsjön s strandäng	91	2	23,6	2	1,5	2	0	0	0	NA	2	410	0
+1	Göt009b	Högsjön s strandäng	92	1	24,9	4	2	3	0	1	0	NA	3	1230	0
+1	Göt009b	Högsjön s strandäng	93	3	19,1	3	1,333333333	2	0	0	2	NA	1	75	0
+1	Göt009b	Högsjön s strandäng	94	1	17,4	4	1,5	2	0	0	1	NA	3	180	0
+1	Göt009b	Högsjön s strandäng	95	2	8,9	1	1	1	0	0	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	96	2	9,7	2	1,5	2	0	1	0	NA	1	0	0
+1	Göt009b	Högsjön s strandäng	97	2	14,6	2	1	1	0	2	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	98	2	6,4	1	2	2	0	1	0	NA	0	NA	0
+1	Göt009b	Högsjön s strandäng	99	3	24,1	4	2,75	4	0	2	0	100	2	20	0
+1	Göt009b	Högsjön s strandäng	100	2	11,5	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	1	5	28,5	2	2	3	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	2	2	31,4	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	3	2	29,9	1	3	3	0	1	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	4	2	27,2	1	1	1	0	0	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	5	2	22,5	1	1	1	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	6	1	30	1	3	3	0	0	0	NA	1	730	0
+1	Göt016	Orremossen, Vättlefjäll	7	3	27,6	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	8	2	31,6	1	1	1	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	9	2	28,6	1	1	1	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	10	2	32,7	2	1,5	2	0	1	0	NA	1	60	0
+1	Göt016	Orremossen, Vättlefjäll	11	1	19,6	3	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	12	3	25,5	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	13	1	29,7	3	2,333333333	4	0	2	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	14	2	24,6	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	15	2	33,5	3	2,666666667	4	0	3	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	16	3	26,2	2	2	3	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	17	3	24	1	4	4	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	18	2	34,5	2	2,5	3	0	1	0	NA	1	290	0
+1	Göt016	Orremossen, Vättlefjäll	19	2	27,7	1	3	3	0	1	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	20	1	30,1	4	1,75	3	0	2	1	NA	1	160	0
+1	Göt016	Orremossen, Vättlefjäll	21	2	29	1	3	3	0	0	0	NA	1	NA	0
+1	Göt016	Orremossen, Vättlefjäll	22	2	21,2	2	1,5	2	0	2	0	0	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	23	3	15,7	1	4	4	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	24	2	11,5	1	4	4	0	0	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	25	2	15	2	3	4	0	1	0	NA	1	100	0
+1	Göt016	Orremossen, Vättlefjäll	26	3	17,5	2	2	3	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	27	2	17	3	2	4	0	0	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	28	2	13,1	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	29	8	23,3	3	3	4	0	3	0	60	0	220	0
+1	Göt016	Orremossen, Vättlefjäll	30	5	24,3	3	1,666666667	3	0	3	1	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	31	2	16,2	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	32	1	16,5	1	1	1	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	33	1	28	3	1,333333333	2	0	0	0	NA	3	10	0
+1	Göt016	Orremossen, Vättlefjäll	34	1	22,2	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	35	3	14,8	1	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	36	2	19,6	1	1	1	0	3	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	37	3	27,5	2	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	38	2	26,7	3	1	1	0	3	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	39	6	26,5	2	1,5	2	0	1	0	NA	1	440	0
+1	Göt016	Orremossen, Vättlefjäll	40	11	19,1	2	2	3	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	41	3	22,4	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	42	2	31,2	3	1,333333333	2	0	1	0	NA	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	43	4	31,6	3	1,333333333	2	0	2	0	0	1	370	0
+1	Göt016	Orremossen, Vättlefjäll	44	2	24	1	2	2	0	1	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	45	2	30,1	2	2,5	3	0	1	0	NA	1	750	0
+1	Göt016	Orremossen, Vättlefjäll	46	3	29,2	3	1,333333333	2	0	1	2	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	47	1	24,9	3	1,333333333	2	0	0	1	NA	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	48	2	24,2	3	1,333333333	2	0	0	2	NA	1	390	0
+1	Göt016	Orremossen, Vättlefjäll	49	2	15,7	2	1	1	0	0	0	NA	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	50	3	23,5	3	2,666666667	4	0	1	1	100	2	1240	0
+1	Göt016	Orremossen, Vättlefjäll	51	7	25,2	3	1,333333333	2	0	2	0	100	1	410	0
+1	Göt016	Orremossen, Vättlefjäll	52	1	24,3	2	1,5	2	0	1	0	0	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	53	1	25,2	3	1,333333333	2	0	0	1	NA	2	860	0
+1	Göt016	Orremossen, Vättlefjäll	54	1	22,2	2	1,5	2	0	1	0	100	1	390	0
+1	Göt016	Orremossen, Vättlefjäll	55	3	19,2	3	1,666666667	2	0	2	0	100	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	56	2	22,1	5	2,2	4	0	3	0	100	2	340	0
+1	Göt016	Orremossen, Vättlefjäll	57	1	25,1	3	2,666666667	4	0	3	0	60	0	270	0
+1	Göt016	Orremossen, Vättlefjäll	58	3	26,5	3	2	3	0	1	1	NA	1	420	0
+1	Göt016	Orremossen, Vättlefjäll	59	3	16,5	2	2	3	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	60	4	19,5	4	1,25	2	0	4	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	61	3	14,2	3	1,333333333	2	2	2	4	100	0	0	1
+1	Göt016	Orremossen, Vättlefjäll	62	4	20,5	3	1,666666667	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	63	5	22,5	3	3	5	0	3	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	64	3	26,4	3	2	3	0	2	0	100	1	370	0
+1	Göt016	Orremossen, Vättlefjäll	65	1	26,6	4	1,25	2	0	0	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	66	2	24	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	67	2	26,5	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	68	1	29,6	2	1,5	2	0	0	0	NA	2	90	0
+1	Göt016	Orremossen, Vättlefjäll	69	2	36,7	3	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	70	1	24,9	1	1	1	0	0	0	NA	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	71	1	18,1	5	1	1	0	0	5	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	72	3	33,2	4	1,25	2	0	3	0	NA	1	NA	0
+1	Göt016	Orremossen, Vättlefjäll	73	2	23,7	1	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	74	2	25,5	1	1	1	0	1	0	NA	1	10	0
+1	Göt016	Orremossen, Vättlefjäll	75	2	20,5	3	1	1	0	2	2	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	76	3	28,8	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	77	2	31,2	3	1	1	0	4	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	78	1	25	2	1	1	0	1	0	NA	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	79	2	23,5	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	80	1	22	1	1	1	0	1	1	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	81	1	29,8	3	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	82	2	40,2	2	1	1	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	83	2	18,1	1	1	1	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	84	2	27,8	5	1,2	2	0	4	0	NA	1	NA	0
+1	Göt016	Orremossen, Vättlefjäll	85	2	30,3	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	86	3	20,2	4	2,25	4	0	4	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	87	6	25,3	3	3	5	0	2	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	88	1	28,6	5	2,6	5	0	4	0	70	0	150	0
+1	Göt016	Orremossen, Vättlefjäll	89	4	19,1	3	2,333333333	3	0	2	0	NA	1	140	0
+1	Göt016	Orremossen, Vättlefjäll	90	3	26,5	5	3	5	0	4	0	80	1	780	0
+1	Göt016	Orremossen, Vättlefjäll	91	2	16	2	2,5	3	0	1	0	100	1	0	0
+1	Göt016	Orremossen, Vättlefjäll	92	2	20,8	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	93	2	18,3	3	1,333333333	2	0	2	0	NA	1	210	0
+1	Göt016	Orremossen, Vättlefjäll	94	2	13	1	2	2	0	1	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	95	1	16,1	3	1,333333333	2	0	2	1	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	96	2	19,8	3	1,333333333	2	0	4	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	97	1	27	4	2	4	0	4	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	98	2	23,2	3	2	3	0	3	0	100	0	0	0
+1	Göt016	Orremossen, Vättlefjäll	99	2	19	2	1,5	2	0	2	0	NA	0	NA	0
+1	Göt016	Orremossen, Vättlefjäll	100	1	22,5	4	2	3	0	4	0	100	0	0	0
+1	Göt016	Orremossen		NA	NA	NA	NA	NA	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	1	1	26,4	3	1,333333333	2	0	2	0	NA	1	410	0
+1	Her003	Remmene stor lokal vid björkarna	2	6	25,7	3	2	3	2	2	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	3	6	28,3	3	2,666666667	4	0	3	0	NA	0	30	0
+1	Her003	Remmene stor lokal vid björkarna	4	5	26,1	3	1,333333333	2	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	5	2	28,2	3	1,333333333	2	0	0	0	NA	1	480	0
+1	Her003	Remmene stor lokal vid björkarna	6	3	26,7	4	1,25	2	0	4	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	7	2	28,4	4	3,25	4	1	4	0	NA	1	450	1
+1	Her003	Remmene stor lokal vid björkarna	8	3	25,2	3	2	3	5	4	1	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	9	1	28,4	3	1,333333333	2	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	10	2	17,7	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	11	2	27,5	5	2,6	4	5	3	0	NA	1	400	1
+1	Her003	Remmene stor lokal vid björkarna	12	8	35,7	7	2,142857143	3	2	3	0	NA	4	1320	1
+1	Her003	Remmene stor lokal vid björkarna	13	6	18,7	1	1	1	0	1	0	NA	0	0	0
+1	Her003	Remmene stor lokal vid björkarna	14	6	23,2	2	1,5	2	0	2	0	NA	0	20	0
+1	Her003	Remmene stor lokal vid björkarna	15	5	24,4	3	3,666666667	5	2	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	16	5	27,1	6	2,666666667	3	5	5	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	17	4	17,5	3	2,666666667	4	1	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	18	2	17,5	1	1	1	0	0	0	NA	1	320	0
+1	Her003	Remmene stor lokal vid björkarna	19	1	12,8	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	20	3	19,6	2	2	3	1	1	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	21	2	22,1	4	1,75	3	0	2	1	NA	1	540	0
+1	Her003	Remmene stor lokal vid björkarna	22	2	17,7	2	2,5	3	1	1	0	NA	1	440	1
+1	Her003	Remmene stor lokal vid björkarna	23	4	23,9	3	2,333333333	3	3	2	0	NA	1	370	1
+1	Her003	Remmene stor lokal vid björkarna	24	4	19,1	3	1,333333333	2	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	25	2	17,6	2	1,5	2	0	2	0	NA	0	40	0
+1	Her003	Remmene stor lokal vid björkarna	26	1	20,1	2	1,5	2	0	0	0	NA	2	480	0
+1	Her003	Remmene stor lokal vid björkarna	27	6	18,2	3	2,666666667	4	4	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	28	5	20,1	3	2	3	1	2	0	NA	1	430	1
+1	Her003	Remmene stor lokal vid björkarna	29	2	19,1	2	1,5	2	0	1	1	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	30	2	22	1	4	4	2	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	31	5	19,8	2	1,5	2	0	1	1	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	32	3	21,6	3	3,333333333	4	0	3	0	NA	0	60	0
+1	Her003	Remmene stor lokal vid björkarna	33	2	16,3	1	4	4	1	0	0	NA	1	0	1
+1	Her003	Remmene stor lokal vid björkarna	34	2	24,6	5	4,8	5	4	5	0	NA	0	600	1
+1	Her003	Remmene stor lokal vid björkarna	35	7	23,3	3	2,333333333	4	0	2	0	NA	1	500	0
+1	Her003	Remmene stor lokal vid björkarna	36	3	19,7	1	2	2	1	1	0	NA	0	0	1
+1	Her003	Remmene stor lokal vid björkarna	37	2	13,9	1	1	1	0	0	0	NA	1	150	0
+1	Her003	Remmene stor lokal vid björkarna	38	3	19	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	39	2	17,9	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	40	2	17,7	3	3,333333333	4	2	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	41	2	16	1	3	3	0	1	0	NA	0	10	0
+1	Her003	Remmene stor lokal vid björkarna	42	3	14,3	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	43	2	25,5	4	1,75	3	0	4	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	44	9	19,1	1	2	2	0	0	0	NA	1	40	0
+1	Her003	Remmene stor lokal vid björkarna	45	3	13,6	1	2	2	0	0	0	NA	1	0	0
+1	Her003	Remmene stor lokal vid björkarna	46	7	18,5	1	2	2	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	47	2	21,2	2	2,5	3	5	2	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	48	2	18,8	3	3	4	2	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	49	4	25,5	4	2,5	4	1	2	0	NA	2	910	1
+1	Her003	Remmene stor lokal vid björkarna	50	2	20,3	3	2,666666667	3	7	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	51	2	15,2	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	52	4	19,9	3	2,333333333	3	4	3	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	53	1	15,4	1	1	1	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	54	1	18,3	1	2	2	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	55	4	23,2	2	1,5	2	2	2	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	56	3	30	4	4,75	5	2	3	0	NA	1	0	1
+1	Her003	Remmene stor lokal vid björkarna	57	2	18,4	3	1,333333333	2	0	2	0	NA	1	250	0
+1	Her003	Remmene stor lokal vid björkarna	58	2	14,3	2	3	4	0	0	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	59	2	24,1	5	4,2	5	4	4	0	NA	1	260	1
+1	Her003	Remmene stor lokal vid björkarna	60	6	25	7	3,571428571	5	2	6	0	NA	1	0	1
+1	Her003	Remmene stor lokal vid björkarna	61	1	18,2	1	3	3	0	0	0	NA	1	630	0
+1	Her003	Remmene stor lokal vid björkarna	62	1	17,8	1	2	2	0	0	0	NA	1	490	0
+1	Her003	Remmene stor lokal vid björkarna	63	1	17,8	1	1	1	0	0	0	NA	1	370	0
+1	Her003	Remmene stor lokal vid björkarna	64	3	27,3	6	3,166666667	5	0	6	0	NA	0	150	0
+1	Her003	Remmene stor lokal vid björkarna	65	2	25,7	6	3,333333333	5	0	4	0	NA	1	300	0
+1	Her003	Remmene stor lokal vid björkarna	66	4	19,2	4	3,5	5	0	4	0	NA	0	800	0
+1	Her003	Remmene stor lokal vid björkarna	67	12	28	5	3,2	5	3	4	0	NA	1	860	1
+1	Her003	Remmene stor lokal vid björkarna	68	1	20,4	1	3	3	0	0	0	NA	1	690	0
+1	Her003	Remmene stor lokal vid björkarna	69	6	27,2	7	3,142857143	5	0	4	0	NA	2	1140	0
+1	Her003	Remmene stor lokal vid björkarna	70	11	25,5	5	2,8	4	0	6	0	NA	0	0	0
+1	Her003	Remmene stor lokal vid björkarna	71	3	18,8	1	2	2	0	0	0	NA	1	90	0
+1	Her003	Remmene stor lokal vid björkarna	72	2	21,5	5	2,2	3	0	2	1	NA	2	220	0
+1	Her003	Remmene stor lokal vid björkarna	73	6	20	3	3,666666667	5	1	2	0	NA	1	NA	1
+1	Her003	Remmene stor lokal vid björkarna	74	2	14,3	1	3	3	0	1	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	75	3	19,5	3	3,333333333	5	1	2	0	NA	0	NA	1
+1	Her003	Remmene stor lokal vid björkarna	76	2	23,1	4	3,5	5	0	1	0	NA	3	1185	0
+1	Her003	Remmene stor lokal vid björkarna	77	10	19,3	3	1,666666667	3	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	78	5	21,1	6	3	5	0	6	0	NA	0	40	0
+1	Her003	Remmene stor lokal vid björkarna	79	17	34,3	12	2,916666667	5	0	9	0	NA	3	1890	0
+1	Her003	Remmene stor lokal vid björkarna	80	2	19,8	3	3	4	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	81	3	29	5	3,4	5	0	3	0	NA	3	2100	0
+1	Her003	Remmene stor lokal vid björkarna	82	2	21	3	2,333333333	3	0	2	1	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	83	2	24,1	6	3,166666667	5	6	6	1	NA	1	305	1
+1	Her003	Remmene stor lokal vid björkarna	84	1	25,1	3	2,333333333	3	1	2	0	NA	1	NA	1
+1	Her003	Remmene stor lokal vid björkarna	85	2	28,5	4	3,25	5	0	2	1	NA	0	0	0
+1	Her003	Remmene stor lokal vid björkarna	86	3	30,1	6	2,833333333	5	0	5	0	NA	1	0	0
+1	Her003	Remmene stor lokal vid björkarna	87	2	26,4	4	2,75	4	0	3	0	NA	1	90	0
+1	Her003	Remmene stor lokal vid björkarna	88	3	25,6	3	3,333333333	4	0	2	0	NA	1	670	0
+1	Her003	Remmene stor lokal vid björkarna	89	5	23,6	4	2	4	0	3	1	NA	0	0	0
+1	Her003	Remmene stor lokal vid björkarna	90	3	28,8	9	3,333333333	5	0	6	1	NA	2	250	0
+1	Her003	Remmene stor lokal vid björkarna	91	5	29,6	4	3	5	0	3	0	NA	0	0	0
+1	Her003	Remmene stor lokal vid björkarna	92	3	24,6	4	3	5	0	3	0	NA	1	350	0
+1	Her003	Remmene stor lokal vid björkarna	93	2	17,3	2	2	3	2	1	0	NA	1	360	1
+1	Her003	Remmene stor lokal vid björkarna	94	4	29,5	3	2,666666667	3	0	3	1	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	95	3	22,2	7	3,142857143	5	0	3	0	NA	1	730	0
+1	Her003	Remmene stor lokal vid björkarna	96	9	28,7	5	3	5	0	5	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	97	7	28,3	4	2,25	3	3	3	0	NA	1	340	1
+1	Her003	Remmene stor lokal vid björkarna	98	5	25,7	3	3,333333333	5	0	3	0	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	99	2	27	3	2,666666667	5	0	3	1	NA	0	NA	0
+1	Her003	Remmene stor lokal vid björkarna	100	6	26,3	6	2	3	5	6	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	1	2	15,1	1	1	1	0	0	0	NA	1	350	0
+1	Her004	Remmene skjutfält, V vägen	2	1	16,7	1	2	2	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	3	1	17	1	2	2	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	4	1	16,9	1	1	1	0	0	0	NA	1	320	0
+1	Her004	Remmene skjutfält, V vägen	5	1	22,2	2	1,5	2	0	0	0	NA	1	730	0
+1	Her004	Remmene skjutfält, V vägen	6	2	17,6	1	5	5	0	1	0	NA	0	40	0
+1	Her004	Remmene skjutfält, V vägen	7	4	20,4	2	3	4	2	1	0	NA	1	210	1
+1	Her004	Remmene skjutfält, V vägen	8	1	19	2	1,5	2	0	2	0	NA	0	0	0
+1	Her004	Remmene skjutfält, V vägen	9	3	17,3	1	1	1	0	0	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	10	4	25,3	3	2,666666667	5	8	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	11	6	15,3	1	2	2	0	0	0	NA	1	40	0
+1	Her004	Remmene skjutfält, V vägen	12	4	22	3	3	5	10	3	0	NA	0	0	1
+1	Her004	Remmene skjutfält, V vägen	13	2	11,5	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	14	4	25,2	4	2,5	5	8	3	0	NA	1	0	1
+1	Her004	Remmene skjutfält, V vägen	15	7	19,2	3	1	1	2	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	16	4	23,6	4	2,5	4	0	2	0	NA	2	860	0
+1	Her004	Remmene skjutfält, V vägen	17	1	13,7	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	18	5	19,4	5	2	3	16	6	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	19	2	12,6	1	1	1	0	0	0	NA	1	320	0
+1	Her004	Remmene skjutfält, V vägen	20	6	29,6	4	1,5	2	8	4	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	21	1	19,4	2	1,5	2	0	1	0	NA	1	560	0
+1	Her004	Remmene skjutfält, V vägen	22	2	9,6	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	23	4	12,2	1	2	2	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	24	2	17,1	2	2	2	5	2	0	NA	1	470	1
+1	Her004	Remmene skjutfält, V vägen	25	3	23,1	4	2,5	3	6	5	0	NA	0	0	1
+1	Her004	Remmene skjutfält, V vägen	26	2	27,3	6	2,833333333	5	4	6	0	NA	0	0	1
+1	Her004	Remmene skjutfält, V vägen	27	2	19,3	2	2,5	3	0	2	0	NA	0	0	0
+1	Her004	Remmene skjutfält, V vägen	28	2	20,8	4	1,75	2	1	1	0	NA	3	630	1
+1	Her004	Remmene skjutfält, V vägen	29	3	23,1	3	2	3	4	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	30	2	21	1	4	4	0	0	0	NA	1	230	0
+1	Her004	Remmene skjutfält, V vägen	31	5	16,5	1	2	2	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	32	2	15,7	1	4	4	4	1	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	33	3	18,7	3	2	4	2	2	1	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	34	1	17,1	3	2,666666667	4	1	2	0	NA	1	510	1
+1	Her004	Remmene skjutfält, V vägen	35	1	17	3	1,666666667	2	0	0	0	NA	3	930	0
+1	Her004	Remmene skjutfält, V vägen	36	2	25,2	4	3,25	5	8	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	37	3	18,5	4	2	4	0	1	0	NA	1	310	0
+1	Her004	Remmene skjutfält, V vägen	38	2	12,5	2	3	5	0	1	0	NA	0	0	0
+1	Her004	Remmene skjutfält, V vägen	39	2	20,9	4	1,75	4	21	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	40	1	12,1	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	41	1	19,3	2	2,5	3	3	1	0	NA	1	490	1
+1	Her004	Remmene skjutfält, V vägen	42	2	15,4	2	1,5	2	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	43	2	16,1	1	3	3	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	44	2	17,1	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	45	2	14,5	3	3	5	7	3	0	NA	0	20	1
+1	Her004	Remmene skjutfält, V vägen	46	1	10,9	1	2	2	0	0	0	NA	1	0	0
+1	Her004	Remmene skjutfält, V vägen	47	3	24,2	6	2,333333333	4	8	1	0	NA	4	880	1
+1	Her004	Remmene skjutfält, V vägen	48	4	23,5	6	3,333333333	5	3	5	0	NA	1	0	1
+1	Her004	Remmene skjutfält, V vägen	49	6	18,96	4	2,25	5	11	4	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	50	4	22,4	4	3	5	7	3	0	NA	1	0	1
+1	Her004	Remmene skjutfält, V vägen	51	1	11,6	1	1	1	0	0	0	NA	1	120	0
+1	Her004	Remmene skjutfält, V vägen	52	1	15,9	2	1,5	2	0	0	1	NA	1	0	0
+1	Her004	Remmene skjutfält, V vägen	53	1	17,7	2	1,5	2	2	2	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	54	3	25,5	2	3	4	0	1	0	NA	1	60	0
+1	Her004	Remmene skjutfält, V vägen	55	2	22,7	3	2,666666667	4	0	2	0	NA	1	70	0
+1	Her004	Remmene skjutfält, V vägen	56	15	25,2	6	2,833333333	5	7	3	0	NA	3	720	1
+1	Her004	Remmene skjutfält, V vägen	57	3	13,7	2	2	3	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	58	8	18,6	2	3	4	5	2	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	59	6	21,1	3	2	4	9	3	1	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	60	2	17,3	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	61	2	17,2	2	1,5	2	0	0	0	NA	2	370	0
+1	Her004	Remmene skjutfält, V vägen	62	2	14,2	2	1	1	1	2	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	63	2	23,3	2	1,5	2	1	2	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	64	3	21,8	6	2,5	5	19	6	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	65	4	22,2	2	2,5	3	3	0	0	NA	2	840	1
+1	Her004	Remmene skjutfält, V vägen	66	2	20	3	3	5	2	2	0	NA	1	200	1
+1	Her004	Remmene skjutfält, V vägen	67	3	20	4	2,25	4	15	4	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	68	1	23,3	3	1	1	1	2	0	NA	1	NA	1
+1	Her004	Remmene skjutfält, V vägen	69	4	21,2	2	2,5	3	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	70	1	14,7	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	71	4	12	1	3	3	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	72	3	15,5	1	3	3	1	1	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	73	3	17,5	1	2	2	0	0	0	NA	1	460	0
+1	Her004	Remmene skjutfält, V vägen	74	2	16,2	1	2	2	0	1	0	NA	0	0	0
+1	Her004	Remmene skjutfält, V vägen	75	5	18,1	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	76	1	21,2	3	1,333333333	2	0	1	1	NA	1	NA	0
+1	Her004	Remmene skjutfält, V vägen	77	3	26,83	3	2,333333333	4	7	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	78	1	26,5	3	2,333333333	4	7	2	0	NA	1	90	1
+1	Her004	Remmene skjutfält, V vägen	79	4	22,2	3	1,666666667	3	0	3	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	80	5	25,2	4	2,25	3	6	4	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	81	1	18,4	2	3,5	5	0	0	0	NA	1	345	0
+1	Her004	Remmene skjutfält, V vägen	82	4	25,7	4	1,75	3	7	4	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	83	3	24,6	3	1,333333333	2	0	3	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	84	5	18,5	2	1	1	0	0	1	NA	1	410	0
+1	Her004	Remmene skjutfält, V vägen	85	2	21,7	3	1,333333333	2	6	3	1	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	86	5	23	2	1,5	2	0	0	1	NA	1	450	0
+1	Her004	Remmene skjutfält, V vägen	87	2	17,6	2	1,5	2	1	1	0	NA	1	150	1
+1	Her004	Remmene skjutfält, V vägen	88	10	24,3	6	2,166666667	4	10	6	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	89	3	22,3	3	1,333333333	2	0	1	0	NA	2	290	0
+1	Her004	Remmene skjutfält, V vägen	90	3	16,5	1	1	1	0	0	1	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	91	1	20,1	3	1,333333333	2	0	2	0	NA	1	610	0
+1	Her004	Remmene skjutfält, V vägen	92	1	15,7	1	2	2	1	0	0	NA	1	0	1
+1	Her004	Remmene skjutfält, V vägen	93	4	17,1	2	1	1	0	1	0	NA	1	0	0
+1	Her004	Remmene skjutfält, V vägen	94	4	27,4	3	2,333333333	4	1	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	95	5	25,2	2	3,5	5	3	3	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	96	3	18,1	1	3	3	0	1	0	NA	0	290	0
+1	Her004	Remmene skjutfält, V vägen	97	3	19,3	1	4	4	0	1	0	NA	0	30	0
+1	Her004	Remmene skjutfält, V vägen	98	3	23,1	2	2	3	4	1	0	NA	0	NA	1
+1	Her004	Remmene skjutfält, V vägen	99	2	13	1	1	1	0	1	0	NA	0	NA	0
+1	Her004	Remmene skjutfält, V vägen	100	1	17,9	3	1	1	0	3	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	1	2	19,5	2	3	5	0	2	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	2	2	26,3	3	2,333333333	3	0	1	1	NA	1	270	0
+1	Her005	Remmene, vid vallen	3	3	16,6	3	1,333333333	2	0	1	0	NA	2	610	0
+1	Her005	Remmene, vid vallen	4	2	16,3	3	2	2	1	1	0	NA	2	440	1
+1	Her005	Remmene, vid vallen	5	3	16,5	1	2	2	0	1	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	6	3	18,7	3	1,333333333	2	6	2	0	NA	1	430	1
+1	Her005	Remmene, vid vallen	7	4	14,1	2	1	1	3	1	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	8	3	21,2	3	1,333333333	2	0	1	1	NA	0	NA	0
+1	Her005	Remmene, vid vallen	9	5	11,4	2	1,5	2	0	0	0	NA	1	320	0
+1	Her005	Remmene, vid vallen	10	6	20	3	1,333333333	2	0	2	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	11	7	16,5	1	4	4	0	1	1	NA	0	NA	0
+1	Her005	Remmene, vid vallen	12	3	15	2	2	3	0	1	0	NA	1	120	0
+1	Her005	Remmene, vid vallen	13	4	23,1	3	1,333333333	2	0	2	0	NA	1	540	0
+1	Her005	Remmene, vid vallen	14	2	18,6	1	1	1	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	15	3	16,5	1	2	2	0	0	0	NA	1	400	0
+1	Her005	Remmene, vid vallen	16	5	17,3	3	3,333333333	5	0	1	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	17	5	21,5	2	4	5	0	1	0	NA	1	730	0
+1	Her005	Remmene, vid vallen	18	3	18,8	2	4	5	0	2	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	19	5	14,2	3	2,333333333	3	0	2	1	NA	0	0	0
+1	Her005	Remmene, vid vallen	20	2	19,2	2	2,5	3	0	1	0	NA	1	445	0
+1	Her005	Remmene, vid vallen	21	2	22,9	3	1,666666667	3	0	3	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	22	2	17,7	1	2	2	0	0	0	NA	1	490	0
+1	Her005	Remmene, vid vallen	23	3	23,2	3	2,666666667	4	0	2	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	24	1	22	2	4	5	1	2	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	25	2	20	3	1,333333333	2	1	2	0	NA	1	0	1
+1	Her005	Remmene, vid vallen	26	3	13,6	2	1,5	2	0	1	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	27	2	18	1	1	1	0	0	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	28	3	29,5	5	2,8	4	3	4	0	NA	1	0	1
+1	Her005	Remmene, vid vallen	29	4	22,9	5	2,4	4	0	3	0	NA	2	930	0
+1	Her005	Remmene, vid vallen	30	5	16,7	2	3	4	0	2	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	31	2	18,6	1	3	3	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	32	4	20,4	3	2,666666667	4	0	2	0	NA	1	350	0
+1	Her005	Remmene, vid vallen	33	2	24,6	4	2,5	5	0	2	1	NA	2	800	0
+1	Her005	Remmene, vid vallen	34	1	12,1	1	1	1	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	35	4	17,4	3	1,666666667	3	0	3	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	36	2	14,6	1	2	2	0	0	0	NA	1	10	0
+1	Her005	Remmene, vid vallen	37	3	23,2	3	1,333333333	2	0	1	0	NA	2	400	0
+1	Her005	Remmene, vid vallen	38	1	16,1	3	1,333333333	2	0	1	0	NA	1	230	0
+1	Her005	Remmene, vid vallen	39	1	12,1	1	1	1	0	0	0	NA	1	NA	0
+1	Her005	Remmene, vid vallen	40	1	14,6	1	2	2	0	0	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	41	4	26,7	4	2,25	4	1	3	0	NA	1	770	1
+1	Her005	Remmene, vid vallen	42	3	20,5	4	1,25	2	0	3	0	NA	1	240	0
+1	Her005	Remmene, vid vallen	43	2	16	2	1,5	2	0	1	0	NA	1	480	0
+1	Her005	Remmene, vid vallen	44	5	14,3	1	4	4	0	1	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	45	3	12,5	1	2	2	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	46	2	16,2	1	2	2	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	47	2	19	3	1,333333333	2	0	1	0	NA	2	710	0
+1	Her005	Remmene, vid vallen	48	2	12,9	1	2	2	0	1	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	49	3	19,9	5	3	5	2	6	0	NA	0	15	1
+1	Her005	Remmene, vid vallen	50	3	16,6	1	2	2	0	0	0	NA	1	490	0
+1	Her005	Remmene, vid vallen	51	3	22,5	2	3,5	4	3	1	0	NA	1	130	1
+1	Her005	Remmene, vid vallen	52	2	16	1	2	2	0	1	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	53	1	26,4	9	3,666666667	5	7	9	0	NA	0	0	1
+1	Her005	Remmene, vid vallen	54	2	16,2	2	1,5	2	0	0	0	NA	2	390	0
+1	Her005	Remmene, vid vallen	55	3	18,2	6	3	5	9	6	0	NA	1	0	1
+1	Her005	Remmene, vid vallen	56	4	26	3	3,333333333	5	1	3	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	57	3	30,9	5	3,6	5	4	4	0	NA	1	0	1
+1	Her005	Remmene, vid vallen	58	3	16,4	2	2,5	4	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	59	2	24,5	3	2	3	3	2	0	NA	1	0	1
+1	Her005	Remmene, vid vallen	60	4	20,6	2	1,5	2	0	1	0	NA	1	310	0
+1	Her005	Remmene, vid vallen	61	4	27,5	4	4	5	5	4	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	62	10	24,1	3	3,666666667	5	4	2	0	NA	1	730	1
+1	Her005	Remmene, vid vallen	63	3	23,6	2	1,5	2	0	0	0	NA	2	660	0
+1	Her005	Remmene, vid vallen	64	1	26,1	2	2	3	0	1	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	65	8	27,5	4	3,25	5	0	1	0	NA	1	600	0
+1	Her005	Remmene, vid vallen	66	5	27,4	3	2,666666667	4	0	3	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	67	4	24	2	3	4	0	2	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	68	1	19,1	1	3	3	2	1	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	69	3	21,9	3	2,666666667	5	0	1	0	NA	0	0	0
+1	Her005	Remmene, vid vallen	70	3	25,8	3	1,333333333	2	0	1	0	NA	2	830	0
+1	Her005	Remmene, vid vallen	71	4	26,2	3	3	5	7	3	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	72	6	27,6	3	1,333333333	2	0	2	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	73	1	25	2	2,5	3	0	1	0	NA	1	520	0
+1	Her005	Remmene, vid vallen	74	2	31,1	3	2,333333333	3	0	2	0	NA	1	700	0
+1	Her005	Remmene, vid vallen	75	4	26,4	3	2,333333333	3	0	3	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	76	1	26	3	2	2	0	2	0	NA	1	100	0
+1	Her005	Remmene, vid vallen	77	4	26,1	3	2,333333333	3	0	2	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	78	2	28,5	5	1,8	3	2	1	0	NA	4	1000	1
+1	Her005	Remmene, vid vallen	79	1	28	4	1,75	2	4	5	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	80	2	21,4	1	1	1	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	81	5	25,8	3	2	3	0	2	0	NA	1	NA	0
+1	Her005	Remmene, vid vallen	82	2	22,7	3	1,333333333	2	0	0	0	NA	3	470	0
+1	Her005	Remmene, vid vallen	83	14	27,8	2	1,5	2	1	2	1	NA	0	NA	1
+1	Her005	Remmene, vid vallen	84	2	24,9	1	3	3	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	85	4	23,1	2	1,5	2	0	1	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	86	7	32,6	4	3	5	0	2	0	NA	1	0	0
+1	Her005	Remmene, vid vallen	87	2	34	3	1,333333333	2	0	4	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	88	12	22,3	1	3	3	0	1	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	89	3	27,1	3	2,666666667	3	4	3	0	NA	0	NA	1
+1	Her005	Remmene, vid vallen	90	4	36	5	3	4	0	4	0	NA	0	840	0
+1	Her005	Remmene, vid vallen	91	2	20,9	4	4,75	5	0	4	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	92	2	23,4	1	2	2	2	1	1	NA	0	NA	1
+1	Her005	Remmene, vid vallen	93	5	30	3	2	3	1	1	0	NA	2	190	1
+1	Her005	Remmene, vid vallen	94	3	24,9	2	2,5	3	0	2	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	95	3	30,2	4	2,75	5	0	3	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	96	3	21,2	3	2	3	0	1	0	NA	1	420	0
+1	Her005	Remmene, vid vallen	97	8	26	3	2,333333333	3	2	3	0	NA	1	500	1
+1	Her005	Remmene, vid vallen	98	7	21,6	2	3	4	3	1	0	NA	1	260	1
+1	Her005	Remmene, vid vallen	99	2	27,1	3	2,333333333	3	0	2	0	NA	0	NA	0
+1	Her005	Remmene, vid vallen	100	6	27	5	3	5	5	3	0	NA	2	920	1
+1	Ler010	Vite mosse NO	1	2	15,1	1	3	3	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	2	3	22,5	3	2,333333333	4	7	2	0	NA	1	0	1
+1	Ler010	Vite mosse NO	3	1	16,1	1	2	2	0	0	0	NA	1	170	0
+1	Ler010	Vite mosse NO	4	3	21,3	3	2,666666667	5	0	1	0	NA	1	0	0
+1	Ler010	Vite mosse NO	5	2	21,5	2	1,5	2	14	1	0	NA	1	140	1
+1	Ler010	Vite mosse NO	6	2	22,3	2	1,5	2	0	1	0	NA	1	310	0
+1	Ler010	Vite mosse NO	7	1	22	3	2,666666667	4	3	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	8	2	14,5	2	1	1	2	0	0	NA	1	0	1
+1	Ler010	Vite mosse NO	9	3	17,1	1	4	4	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	10	4	24,9	3	3	5	7	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	11	2	27,2	3	3	5	0	1	0	NA	1	0	0
+1	Ler010	Vite mosse NO	12	4	28,2	1	4	4	8	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	13	4	25,2	4	2,5	4	14	4	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	14	4	26	3	2	3	8	2	0	NA	0	0	1
+1	Ler010	Vite mosse NO	15	3	29,7	4	2,5	4	1	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	16	3	21,3	2	3	4	5	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	17	3	25,3	3	3,333333333	6	22	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	18	1	21,2	2	3,5	5	0	1	0	NA	1	40	0
+1	Ler010	Vite mosse NO	19	3	31,2	5	1,8	2	7	4	0	NA	1	190	1
+1	Ler010	Vite mosse NO	20	3	19,8	1	5	5	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	21	3	12,8	1	5	5	2	1	0	NA	0	14	1
+1	Ler010	Vite mosse NO	22	1	24,3	2	2	3	0	2	0	NA	0	20	0
+1	Ler010	Vite mosse NO	23	1	16,2	1	3	3	0	1	0	NA	0	20	0
+1	Ler010	Vite mosse NO	24	3	25	2	4	5	0	2	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	25	2	37	5	1,6	3	3	4	0	NA	1	130	1
+1	Ler010	Vite mosse NO	26	2	18,7	2	3	4	12	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	27	3	28,8	2	4,5	5	4	2	0	NA	0	0	1
+1	Ler010	Vite mosse NO	28	1	19,8	3	3,333333333	5	8	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	29	3	16	2	3,5	5	3	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	30	2	14,1	1	5	5	0	0	0	NA	1	380	0
+1	Ler010	Vite mosse NO	31	2	18,5	1	5	5	7	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	32	2	14,9	1	2	2	0	0	0	NA	1	410	0
+1	Ler010	Vite mosse NO	33	2	21,9	3	4,333333333	5	8	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	34	3	19	2	3,5	5	4	2	0	NA	0	0	1
+1	Ler010	Vite mosse NO	35	4	15,5	1	4	4	2	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	36	3	16,4	2	3,5	5	0	2	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	37	3	19,2	4	2,25	4	6	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	38	2	18,7	1	5	5	8	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	39	2	22,5	5	4,6	6	12	5	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	40	2	18,6	2	3	4	2	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	41	2	24,3	3	2,333333333	3	0	2	0	NA	1	470	0
+1	Ler010	Vite mosse NO	42	3	23,6	4	3,25	5	12	2	0	NA	2	220	1
+1	Ler010	Vite mosse NO	43	2	12	1	2	2	0	0	0	NA	1	0	0
+1	Ler010	Vite mosse NO	44	3	20,2	2	4	5	1	0	0	NA	2	80	1
+1	Ler010	Vite mosse NO	45	4	15,6	2	1,5	2	4	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	46	2	19,1	3	2,333333333	4	2	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	47	2	12,7	2	3	4	2	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	48	2	15	1	3	3	3	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	49	2	17,8	3	2,333333333	4	2	1	0	NA	2	580	1
+1	Ler010	Vite mosse NO	50	1	28	3	2	4	6	2	0	NA	1	510	1
+1	Ler010	Vite mosse NO	51	5	19,7	1	4	4	2	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	52	5	19,4	1	5	5	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	53	2	17,7	3	3,333333333	5	5	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	54	2	18,3	4	3,5	5	14	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	55	2	12,3	1	1	1	0	0	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	56	1	24,3	3	2,333333333	4	0	1	0	NA	1	NA	0
+1	Ler010	Vite mosse NO	57	2	27	1	4	4	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	58	1	17,8	2	3,5	5	5	0	0	NA	1	NA	1
+1	Ler010	Vite mosse NO	59	2	9,9	1	3	3	1	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	60	2	11,9	1	3	3	3	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	61	4	17,3	3	2	4	4	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	62	2	24,6	1	4	4	3	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	63	1	23,4	2	4	5	0	1	0	NA	1	270	0
+1	Ler010	Vite mosse NO	64	8	14,6	1	3	3	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	65	2	14	1	1	1	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	66	2	17	1	5	5	2	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	67	3	27,9	1	3	3	0	1	0	NA	0	0	0
+1	Ler010	Vite mosse NO	68	2	19,5	3	3,333333333	5	5	2	0	NA	1	NA	1
+1	Ler010	Vite mosse NO	69	2	26	3	1,333333333	2	4	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	70	4	17	1	4	4	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	71	3	15,6	1	3	3	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	72	2	16	1	2	2	0	0	0	NA	1	10	0
+1	Ler010	Vite mosse NO	73	7	29,8	2	4	5	4	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	74	1	28,1	2	2	3	0	0	0	NA	2	240	0
+1	Ler010	Vite mosse NO	75	2	17,2	1	2	2	0	0	0	NA	1	310	0
+1	Ler010	Vite mosse NO	76	1	25,7	3	3	5	7	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	77	2	34,3	5	2,6	4	6	4	0	NA	1	60	1
+1	Ler010	Vite mosse NO	78	2	21,5	3	1,333333333	2	1	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	79	2	24,8	5	3	5	0	5	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	80	4	32,1	2	2,5	4	1	0	1	NA	1	NA	1
+1	Ler010	Vite mosse NO	81	1	17,8	2	2	3	1	1	0	NA	1	240	1
+1	Ler010	Vite mosse NO	82	1	23,1	3	1,666666667	3	0	2	0	NA	0	0	0
+1	Ler010	Vite mosse NO	83	2	20,2	2	2,5	3	0	1	0	NA	1	50	0
+1	Ler010	Vite mosse NO	84	2	18,6	2	1,5	2	0	2	0	NA	0	0	0
+1	Ler010	Vite mosse NO	85	1	16	1	2	2	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	86	3	14,9	1	3	3	4	1	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	87	2	23,2	3	3,666666667	5	6	3	0	NA	0	0	1
+1	Ler010	Vite mosse NO	88	2	28,1	3	4	5	4	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	89	2	20,8	4	3,75	5	2	4	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	90	1	18,2	1	3	3	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	91	3	28,7	7	3,142857143	5	6	4	0	NA	3	735	1
+1	Ler010	Vite mosse NO	92	2	22,8	1	5	5	0	1	0	NA	0	NA	0
+1	Ler010	Vite mosse NO	93	2	26,2	3	3,666666667	5	0	1	0	NA	2	110	0
+1	Ler010	Vite mosse NO	94	2	21,8	3	3	4	6	1	0	NA	2	100	1
+1	Ler010	Vite mosse NO	95	2	24	3	3	4	8	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	96	3	17	2	3	4	4	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	97	2	16,5	2	1	1	2	2	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	98	4	17,7	3	1,333333333	2	1	3	0	NA	0	NA	1
+1	Ler010	Vite mosse NO	99	1	20,5	3	3	4	0	2	0	NA	1	310	0
+1	Ler010	Vite mosse NO	100	2	32,6	3	3,666666667	5	0	3	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	1	2	40,6	5	1,2	2	0	0	2	NA	3	570	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	2	4	14,8	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	3	3	12,4	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	4	1	25,7	2	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	5	2	19,4	1	1	1	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	6	4	17,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	7	2	15,5	1	1	1	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	8	2	29,5	1	3	3	0	0	0	NA	1	360	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	9	3	29	1	2	2	0	0	0	NA	1	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	10	1	31,2	1	3	3	0	0	0	NA	1	320	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	11	2	22,1	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	12	4	20,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	13	1	16,7	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	14	4	22,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	15	3	19,5	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	16	3	22,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	17	2	18,5	1	1	1	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	18	1	24,9	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	19	2	28,5	2	1,5	2	0	2	0	NA	0	310	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	20	2	22,3	1	2	2	0	0	0	NA	1	260	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	21	2	16,7	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	22	2	23	1	1	1	0	0	0	NA	1	210	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	23	2	20	1	1	1	0	0	0	NA	1	10	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	24	3	19,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	25	3	24	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	26	2	10,5	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	27	1	19	1	2	2	0	1	0	NA	0	0	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	28	2	15,4	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	29	3	17,2	1	1	1	0	0	0	NA	1	0	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	30	3	12,3	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	31	6	22,5	1	3	3	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	32	3	14,3	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	33	1	12,8	1	1	1	0	0	1	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	34	6	19,2	1	3	3	0	2	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	35	2	20	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	36	4	17,6	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	37	3	17,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	38	1	14,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	39	2	15	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	40	2	15,8	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	41	3	12,9	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	42	3	23,7	1	2	2	0	0	0	NA	1	10	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	43	2	33,5	2	2,5	3	0	0	0	NA	2	460	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	44	1	30,5	1	2	2	0	0	0	NA	1	170	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	45	2	24,3	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	46	3	26,2	1	2	2	0	0	0	NA	1	360	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	47	1	37,1	3	2,333333333	3	0	1	0	NA	2	710	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	48	2	40,4	4	2,5	4	0	1	0	NA	3	180	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	49	2	21,7	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	50	1	18,4	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	51	2	32,2	2	2,5	3	0	0	0	NA	2	790	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	52	3	24,5	1	1	1	0	0	0	NA	1	10	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	53	2	27,5	1	2	2	0	0	0	NA	1	70	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	54	2	19,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	55	3	20,3	1	2	2	0	0	0	NA	1	70	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	56	6	17,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	57	1	24,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	58	1	18,9	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	59	1	21,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	60	1	19	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	61	2	22,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	62	5	26,6	1	2	2	0	0	0	NA	1	180	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	63	2	20	1	1	1	0	0	0	NA	1	40	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	64	1	25,8	1	1	1	0	0	0	NA	1	250	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	65	2	25,3	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	66	3	23,3	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	67	1	21	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	68	3	27	1	2	2	0	0	0	NA	1	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	69	2	29,1	1	2	2	0	1	0	NA	0	270	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	70	2	21,7	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	71	4	22	1	3	3	0	0	0	NA	1	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	72	1	35,5	2	1,5	2	0	1	0	NA	1	520	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	73	1	26,5	2	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	74	1	25	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	75	1	37,7	3	2,333333333	3	0	2	0	NA	1	580	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	76	4	34	3	1,333333333	2	0	1	0	NA	2	1030	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	77	3	32,8	3	3	4	0	1	0	NA	2	1180	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	78	3	30	3	2	3	0	0	0	NA	2	1000	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	79	1	30,3	2	2	3	0	0	0	NA	1	670	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	80	2	38,3	1	2	2	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	81	2	38,3	1	2	2	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	82	1	14,8	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	83	2	9,2	1	1	1	0	0	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	84	2	10,1	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	85	3	19,9	2	1,5	2	0	1	0	NA	1	380	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	86	2	11,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	87	1	15	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	88	2	20,2	2	2,5	3	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	89	1	17,2	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	90	2	22,8	2	1,5	2	0	2	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	91	2	17,1	1	3	3	0	0	0	NA	1	0	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	92	2	14	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	93	7	16,2	1	3	3	0	0	0	NA	1	30	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	94	7	15,7	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	95	2	14,5	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	96	8	11,2	1	1	1	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	97	7	24,6	4	2,75	5	0	0	0	NA	4	2280	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	98	2	17,7	1	3	3	0	0	0	NA	1	270	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	99	2	19,5	1	2	2	0	1	0	NA	0	NA	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	100	12	29,1	3	2,666666667	4	0	0	1	NA	2	1640	0
+1	Par003	Maderna-Haketjärn NO	1	3	23,5	1	4	4	6	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	2	1	24,5	4	1,75	3	1	1	0	NA	1	290	1
+1	Par003	Maderna-Haketjärn NO	3	2	20,6	1	5	5	3	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	4	3	24,3	3	2,666666667	4	24	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	5	1	24,3	2	1,5	2	8	1	1	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	6	1	19,6	1	2	2	0	0	0	NA	1	350	0
+1	Par003	Maderna-Haketjärn NO	7	3	20,1	3	2,333333333	4	7	1	0	NA	1	0	1
+1	Par003	Maderna-Haketjärn NO	8	1	24	2	3	4	6	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	9	3	20,3	1	2	2	0	0	0	NA	1	510	0
+1	Par003	Maderna-Haketjärn NO	10	1	26,7	2	2	3	14	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	11	1	15,1	2	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	12	2	33,2	2	2	2	1	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	13	2	30,3	2	4	5	4	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	14	1	23,3	1	2	2	0	0	0	NA	1	610	0
+1	Par003	Maderna-Haketjärn NO	15	1	30,1	3	1,666666667	2	1	2	0	NA	1	100	1
+1	Par003	Maderna-Haketjärn NO	16	1	33,6	2	1,5	2	2	1	0	NA	1	390	1
+1	Par003	Maderna-Haketjärn NO	17	2	31,4	1	1	1	5	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	18	1	32,4	4	1,5	3	3	4	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	19	3	21,1	1	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	20	2	26,1	1	1	1	0	0	0	NA	1	45	0
+1	Par003	Maderna-Haketjärn NO	21	1	31	1	1	1	0	0	0	NA	1	300	0
+1	Par003	Maderna-Haketjärn NO	22	5	32,1	1	4	4	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	23	2	32,4	2	3	4	0	2	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	24	1	32,6	2	1	1	2	1	0	NA	1	390	1
+1	Par003	Maderna-Haketjärn NO	25	2	14,7	1	2	2	0	0	0	NA	1	410	0
+1	Par003	Maderna-Haketjärn NO	26	2	30,1	2	1,5	2	0	1	0	NA	1	650	0
+1	Par003	Maderna-Haketjärn NO	27	2	31,4	2	1,5	2	0	1	0	NA	1	0	0
+1	Par003	Maderna-Haketjärn NO	28	2	30,7	2	2	2	9	3	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	29	2	23	2	2	3	0	1	1	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	30	1	23,7	1	2	2	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	31	4	23,1	1	2	2	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	32	2	26,2	1	2	2	0	0	0	NA	1	70	0
+1	Par003	Maderna-Haketjärn NO	33	4	28,9	2	1,5	2	3	2	0	NA	1	NA	1
+1	Par003	Maderna-Haketjärn NO	34	1	29,7	2	2	3	4	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	35	2	29	5	2	4	2	3	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	36	2	26,2	1	2	2	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	37	2	27,9	1	3	3	1	0	0	NA	1	50	1
+1	Par003	Maderna-Haketjärn NO	38	2	17,8	1	3	3	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	39	3	24,2	5	3	3	1	1	0	NA	0	10	1
+1	Par003	Maderna-Haketjärn NO	40	3	17,6	1	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	41	1	23,6	1	2	2	2	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	42	1	19,6	1	4	4	7	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	43	2	23,4	2	1,5	2	3	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	44	2	24,6	1	3	3	8	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	45	2	28,2	1	2	2	3	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	46	3	22,1	1	3	3	3	0	0	NA	1	320	1
+1	Par003	Maderna-Haketjärn NO	47	3	20,7	6	1	1	12	5	1	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	48	3	19,3	1	3	3	5	0	0	NA	1	NA	1
+1	Par003	Maderna-Haketjärn NO	49	1	33,4	1	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	50	1	33,9	4	2,25	4	7	5	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	51	1	24,5	1	1	1	0	0	0	NA	1	200	0
+1	Par003	Maderna-Haketjärn NO	52	4	25,4	1	3	3	4	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	53	2	17,1	1	2	2	9	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	54	1	27,5	1	3	3	0	1	0	NA	0	40	0
+1	Par003	Maderna-Haketjärn NO	55	2	13,4	1	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	56	2	17,6	1	1	1	0	0	0	NA	1	20	0
+1	Par003	Maderna-Haketjärn NO	57	2	22,7	1	2	2	0	0	0	NA	1	590	0
+1	Par003	Maderna-Haketjärn NO	58	2	27,3	2	2	2	3	1	0	NA	1	NA	1
+1	Par003	Maderna-Haketjärn NO	59	2	19,1	1	3	3	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	60	1	28,1	2	2	3	9	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	61	5	31,5	1	1	1	1	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	62	2	24,3	1	3	3	6	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	63	4	25,1	1	5	5	3	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	64	2	21,6	1	2	2	1	0	0	NA	1	470	1
+1	Par003	Maderna-Haketjärn NO	65	2	19,6	2	2,5	4	13	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	66	2	15,3	1	2	2	2	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	67	2	22,3	1	2	2	4	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	68	1	20,9	1	1	1	0	0	0	NA	1	270	0
+1	Par003	Maderna-Haketjärn NO	69	3	22,2	1	1	1	2	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	70	2	21,9	1	2	2	0	1	0	NA	0	0	0
+1	Par003	Maderna-Haketjärn NO	71	2	25,7	3	1,333333333	2	1	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	72	1	22,1	1	1	1	0	0	0	NA	1	140	0
+1	Par003	Maderna-Haketjärn NO	73	3	21,7	1	2	2	0	0	0	NA	1	460	0
+1	Par003	Maderna-Haketjärn NO	74	1	28,6	2	3	4	0	2	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	75	1	16,9	1	1	1	0	0	0	NA	1	110	0
+1	Par003	Maderna-Haketjärn NO	76	2	15,9	1	1	1	0	1	0	NA	0	NA	0
+1	Par003	Maderna-Haketjärn NO	77	2	25,1	1	2	2	1	0	0	NA	1	0	1
+1	Par003	Maderna-Haketjärn NO	78	2	23,4	1	1	1	0	1	0	NA	0	380	0
+1	Par003	Maderna-Haketjärn NO	79	1	26,6	1	3	3	7	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	80	6	21,3	1	2	2	4	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	81	2	15,8	1	1	1	2	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	82	1	14,4	1	1	1	1	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	83	2	19,1	1	4	4	12	0	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	84	2	22,2	3	4	4	23	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	85	2	12,1	1	1	1	3	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	86	3	30,9	4	4	5	35	4	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	87	3	26,8	2	2,5	4	9	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	88	2	25,9	1	4	4	2	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	89	2	17,3	1	3	3	7	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	90	2	19,7	3	2,666666667	4	20	3	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	91	3	15,9	3	2	3	8	3	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	92	3	23,4	2	4	5	15	2	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	93	5	28,9	3	2,333333333	5	9	3	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	94	3	31,5	1	4	4	11	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	95	2	22,3	2	1,5	2	0	0	0	NA	1	20	0
+1	Par003	Maderna-Haketjärn NO	96	7	36	8	3,5	6	41	8	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	97	2	26,1	1	4	4	4	1	0	NA	0	NA	1
+1	Par003	Maderna-Haketjärn NO	98	2	39,6	2	4,5	5	25	2	2	NA	1	310	1
+1	Par003	Maderna-Haketjärn NO	99	1	22,1	1	2	2	6	1	0	NA	1	NA	1
+1	Par003	Maderna-Haketjärn NO	100	2	23,1	1	1	1	0	1	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	1	10	21,8	3	2,333333333	3	0	0	0	NA	3	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	2	3	14,3	1	1	1	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	3	5	20,9	3	2,333333333	3	0	0	0	NA	3	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	4	3	16,4	1	2	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	5	1	6,7	1	1	1	0	0	0	NA	1	50	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	6	3	26,6	3	2	3	0	0	0	NA	4	1940	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	7	3	13,1	1	1	1	0	0	1	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	8	5	25,8	3	2	3	0	1	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	9	4	28,6	3	1,333333333	2	0	0	2	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	10	3	20,6	2	1,5	2	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	11	6	27,8	3	2	3	0	0	0	NA	2	700	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	12	11	23,6	2	1,5	2	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	13	3	19	1	1	1	0	0	1	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	14	9	25,1	2	2	3	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	15	5	20,6	2	1,5	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	16	4	26,2	3	2,333333333	3	0	0	0	NA	3	690	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	17	7	29,2	2	3	4	0	0	0	NA	2	1160	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	18	3	14,1	1	1	1	0	0	1	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	19	1	17,6	2	1,5	2	0	0	1	NA	1	510	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	20	8	26,2	4	2,75	4	0	3	0	NA	1	610	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	21	3	23,8	2	2,5	3	0	0	0	NA	2	880	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	22	12	22,4	1	2	2	0	0	0	NA	1	420	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	23	1	16,3	1	1	1	0	1	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	24	4	24,8	4	2	3	0	0	0	NA	4	2200	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	25	5	24,6	2	2,5	4	0	0	1	NA	1	130	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	26	1	18,7	2	2	3	0	1	0	NA	0	330	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	27	5	20,7	3	1,333333333	2	0	0	1	NA	2	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	28	4	19,3	3	1,333333333	2	0	0	0	NA	3	1230	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	29	9	18,9	3	1,666666667	3	0	0	0	NA	3	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	30	5	22,3	3	1,333333333	2	0	0	1	NA	2	680	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	31	3	22,2	2	1,5	2	0	0	1	NA	1	320	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	32	12	25,5	4	2,5	4	0	1	0	NA	3	1875	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	33	5	22,2	1	2	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	34	4	23,7	2	3,5	4	0	0	0	NA	2	840	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	35	2	31,6	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	36	8	20,6	2	2	3	0	0	0	NA	2	820	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	37	4	25,6	5	2	3	0	0	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	38	6	29,6	6	2,166666667	4	0	0	0	NA	6	3480	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	39	2	21,3	3	2,333333333	3	0	1	0	NA	2	0	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	40	2	19,1	3	2,333333333	3	0	0	0	NA	3	540	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	41	9	24,6	4	2,5	4	0	0	0	NA	4	2000	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	42	3	16,7	3	1,666666667	3	0	1	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	43	4	18,1	1	1	1	0	1	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	44	3	12,3	1	1	1	0	0	1	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	45	4	12,7	1	1	1	0	1	0	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	46	17	34,2	5	2,6	4	0	0	0	NA	5	2500	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	47	4	25,2	2	3	4	0	2	0	NA	0	0	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	48	1	19,1	2	1	1	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	49	3	19,2	2	1,5	2	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	50	11	26,6	3	2,333333333	3	0	0	0	NA	3	2340	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	51	11	30,8	3	3,333333333	5	0	0	0	NA	3	1740	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	52	6	16,5	1	1	1	0	0	1	NA	0	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	53	10	33,2	5	2,6	4	0	0	0	NA	6	3720	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	54	5	25,6	2	3	4	0	1	0	NA	1	230	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	55	9	31,7	4	2,25	4	0	0	1	NA	3	2160	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	56	9	28,1	5	2,6	4	0	0	0	NA	5	2450	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	57	6	22,4	3	3	4	0	0	0	NA	3	1890	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	58	9	21,8	2	4	5	0	0	0	NA	2	930	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	59	8	25,9	2	1,5	2	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	60	20	27,9	1	3	3	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	61	5	19,5	1	2	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	62	3	26,2	2	2,5	3	0	0	0	NA	2	800	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	63	6	29,1	3	3	4	0	0	0	NA	3	1380	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	64	6	20,9	1	2	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	65	3	24	3	2,333333333	4	0	0	0	NA	2	1460	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	66	6	26,8	5	3	5	0	0	0	NA	5	2250	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	67	8	25,3	3	2,333333333	3	0	0	0	NA	3	2250	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	68	5	20,1	2	1,5	2	0	0	1	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	69	8	30,3	4	2	3	0	0	0	NA	4	2040	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	70	7	27,7	3	2	4	0	0	0	NA	3	1290	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	71	6	31,5	6	3	5	0	0	0	NA	6	4380	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	72	4	31,1	2	1,5	2	0	0	2	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	73	5	29,3	6	2,166666667	3	0	1	1	NA	4	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	74	5	26	3	1,666666667	3	0	0	1	NA	2	1300	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	75	7	28,1	4	2,25	4	0	0	1	NA	3	1830	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	76	5	21,5	2	3	5	0	1	0	NA	0	220	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	77	5	25,2	2	2,5	3	0	0	0	NA	2	560	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	78	24	22,1	2	4	5	0	0	0	NA	2	740	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	79	7	29	3	2,333333333	3	0	0	0	NA	3	1290	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	80	4	27,5	3	3,333333333	4	0	1	0	NA	2	1251	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	81	5	31,7	7	3,714285714	5	0	1	0	NA	6	2580	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	82	2	26,1	4	1,75	3	0	0	0	NA	3	1230	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	83	9	27,2	2	2,5	4	0	0	0	NA	1	400	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	84	2	29,2	7	2,571428571	5	0	0	0	NA	7	2450	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	85	3	22,9	2	2,5	3	0	0	0	NA	2	820	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	86	3	19,1	1	2	2	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	87	4	21,6	2	2	2	0	1	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	88	5	20,5	5	1,8	4	0	2	0	NA	3	1560	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	89	6	24,6	3	1,666666667	3	0	0	0	NA	3	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	90	2	15,6	1	1	1	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	91	4	24,3	3	2,333333333	3	0	0	0	NA	3	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	92	3	14,3	1	1	1	0	0	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	93	15	27,9	4	3,25	5	0	0	0	NA	4	2260	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	94	3	35,6	3	4,333333333	5	0	0	0	NA	3	1380	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	95	3	27,1	2	2,5	3	0	1	0	NA	1	630	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	96	5	31,5	4	3,25	4	0	0	0	NA	4	2520	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	97	6	29	3	3	4	0	1	0	NA	1	NA	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	98	3	29	3	2,333333333	4	0	0	0	NA	3	1980	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	99	4	22	3	3,666666667	5	0	1	0	NA	0	120	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	100	3	23	3	2,333333333	3	0	0	0	NA	3	1785	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	1	4	13,7	3	4	5	0	1	0	NA	2	1200	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	2	4	18,6	3	2	3	0	0	0	NA	3	2280	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	3	4	17,2	2	2,5	3	0	0	0	NA	2	1220	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	4	4	15,3	4	2,5	5	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	5	3	10	1	3	3	0	0	0	NA	1	650	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	6	4	10,4	1	4	4	0	0	0	NA	1	540	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	7	4	13,2	3	2	3	0	0	0	NA	3	1980	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	8	3	11	2	2,5	3	0	0	0	NA	2	1240	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	9	1	10,4	2	2	3	0	0	0	NA	2	880	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	10	2	13	2	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	11	1	10,7	2	1,5	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	12	4	11,8	4	1,25	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	13	5	14	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	14	4	12	2	3	4	0	0	0	NA	2	1480	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	15	3	12,8	2	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	16	2	17,5	5	1,6	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	17	4	14	2	2	3	0	0	0	NA	2	820	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	18	3	12,6	2	2	3	0	0	0	NA	1	540	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	19	5	11	1	4	4	0	0	0	NA	1	560	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	20	4	21,3	2	1,5	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	21	3	21,3	3	2,666666667	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	22	3	17,9	2	2,5	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	23	1	15,6	3	3,333333333	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	24	3	11,9	1	2	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	25	6	17,4	3	2,333333333	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	26	5	13,3	2	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	27	4	12	3	2	3	0	0	0	NA	3	1440	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	28	4	20	4	1,5	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	29	3	10,9	3	3	5	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	30	3	17,1	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	31	3	12,2	3	1,666666667	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	32	3	16,9	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	33	3	21,1	3	2,333333333	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	34	2	16	2	1,5	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	35	2	20,2	4	1,5	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	36	3	19,2	3	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	37	4	11,2	2	1,5	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	38	1	15,4	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	39	3	19,3	3	2,666666667	4	0	0	0	NA	3	1350	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	40	2	8	1	2	2	0	0	0	NA	1	480	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	41	2	7,7	1	1	1	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	42	4	10,6	3	1,666666667	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	43	7	10,3	2	2	3	0	0	0	NA	2	750	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	44	5	11,9	2	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	45	6	14,9	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	46	5	9,2	1	3	3	0	0	0	NA	1	580	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	47	3	10,1	2	1	1	0	0	0	NA	1	0	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	48	3	9,8	2	1	1	0	0	0	NA	1	230	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	49	6	15,9	2	2,5	3	0	2	0	NA	0	0	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	50	3	12,6	1	3	3	0	0	0	NA	1	590	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	51	6	10,2	3	1,333333333	2	0	0	0	NA	3	1140	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	52	7	12,3	1	4	4	0	0	0	NA	1	500	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	53	2	14,4	1	4	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	54	3	11,3	1	2	2	0	0	0	NA	1	510	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	55	3	9,9	3	1,333333333	2	0	0	0	NA	2	570	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	56	3	14,1	3	2	3	0	0	1	NA	4	1780	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	57	3	13,9	3	1,666666667	3	0	0	0	NA	3	940	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	58	3	14,5	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	59	1	9,6	2	1,5	2	0	0	0	NA	1	420	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	60	12	18	7	2,285714286	5	0	0	0	NA	7	3710	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	61	3	12,1	2	2	3	0	0	0	NA	1	560	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	62	9	13,5	3	2,666666667	4	0	2	0	NA	1	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	63	3	19,2	4	2,75	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	64	3	13,2	2	2	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	65	9	24,3	6	1,333333333	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	66	2	15,5	2	3	4	0	1	0	NA	1	670	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	67	6	14,7	2	2	3	0	0	0	NA	2	780	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	68	2	24,8	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	69	2	17,3	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	70	3	17,9	3	1,666666667	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	71	10	9,7	1	3	3	0	0	0	NA	1	580	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	72	4	25,5	3	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	73	9	23,8	5	1,6	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	74	3	14,5	3	1,666666667	3	0	1	0	NA	3	1210	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	75	4	18,9	4	2,75	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	76	4	15,1	2	1,5	2	0	0	0	NA	2	940	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	77	2	13,6	9	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	78	5	10	4	1,25	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	79	1	9,3	2	1	1	0	1	0	NA	1	20	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	80	3	17,4	5	1,2	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	81	5	17,7	2	3	4	0	1	0	NA	1	370	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	82	4	20,8	3	2,333333333	3	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	83	2	15,1	3	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	84	6	23,2	3	3	5	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	85	5	14,4	4	2,75	5	0	1	0	NA	3	1920	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	86	7	18,6	2	3	4	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	87	10	19	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	88	3	17,4	2	3	4	0	1	0	NA	1	580	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	89	3	7,8	1	3	3	0	0	0	NA	1	580	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	90	3	15,3	2	1,5	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	91	3	8,7	1	2	2	0	0	0	NA	0	NA	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	92	5	23,8	4	1,5	3	0	0	0	NA	4	1440	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	93	5	13,4	2	1,5	2	0	0	0	NA	2	840	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	94	5	21,8	4	2	3	0	0	1	NA	3	0	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	95	4	23,3	6	1,666666667	3	0	0	0	NA	5	2525	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	96	5	9,9	6	2,5	4	0	0	0	NA	6	3540	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	97	4	17,8	3	2,333333333	3	0	0	0	NA	3	1680	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	98	3	20,9	2	2,5	3	0	0	0	NA	2	880	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	99	3	20,6	3	1,666666667	3	0	1	0	NA	2	870	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	100	4	21,7	4	1,75	3	0	1	0	NA	3	1095	0
+0	Sve011	KALV CAMPING Ö	1	4	28	4	1,75	3	0	0	0	NA	4	1820	0
+0	Sve011	KALV CAMPING Ö	2	2	30,3	2	4	5	0	0	0	NA	2	1400	0
+0	Sve011	KALV CAMPING Ö	3	6	25,4	2	4	5	0	0	0	NA	2	840	0
+0	Sve011	KALV CAMPING Ö	4	3	13,4	1	2	2	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	5	2	23,3	1	3	3	0	0	0	NA	1	760	0
+0	Sve011	KALV CAMPING Ö	6	5	21,5	1	3	3	0	0	0	NA	1	780	0
+0	Sve011	KALV CAMPING Ö	7	3	16,5	1	2	2	0	0	0	NA	1	740	0
+0	Sve011	KALV CAMPING Ö	8	5	22,6	3	3	4	0	0	0	NA	3	2010	0
+0	Sve011	KALV CAMPING Ö	9	6	26,2	2	2,5	4	0	0	0	NA	2	NA	0
+0	Sve011	KALV CAMPING Ö	10	3	12,6	1	1	1	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	11	2	18,2	1	1	1	0	0	0	NA	1	160	0
+0	Sve011	KALV CAMPING Ö	12	3	23,2	2	4	5	0	0	0	NA	2	NA	0
+0	Sve011	KALV CAMPING Ö	13	10	24,7	2	4	5	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	14	3	12,2	1	1	1	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	15	9	21,3	1	1	1	0	0	0	NA	1	200	0
+0	Sve011	KALV CAMPING Ö	16	4	24,2	1	2	2	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	17	5	30,6	1	4	4	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	18	8	25	1	3	3	0	0	0	NA	1	630	0
+0	Sve011	KALV CAMPING Ö	19	3	28,1	1	2	2	0	0	0	NA	1	640	0
+0	Sve011	KALV CAMPING Ö	20	3	18,5	1	2	2	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	21	2	12	1	1	1	0	0	1	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	22	2	14,4	1	1	1	0	0	1	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	23	2	19,7	1	1	1	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	24	3	28,9	1	2	2	0	0	0	NA	1	370	0
+0	Sve011	KALV CAMPING Ö	25	6	20,3	1	4	4	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	26	4	25,2	2	2	3	0	0	0	NA	2	1220	0
+0	Sve011	KALV CAMPING Ö	27	5	27,2	4	1,75	4	0	3	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	28	1	25,2	1	1	1	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	29	2	23,1	1	3	3	0	0	0	NA	1	10	0
+0	Sve011	KALV CAMPING Ö	30	8	24,2	4	3,25	4	0	0	0	NA	4	2360	0
+0	Sve011	KALV CAMPING Ö	31	4	19,1	1	3	3	0	0	0	NA	1	720	0
+0	Sve011	KALV CAMPING Ö	32	14	33,7	5	3,2	5	0	0	0	NA	5	3000	0
+0	Sve011	KALV CAMPING Ö	33	3	22,1	3	2	3	0	0	2	NA	1	730	0
+0	Sve011	KALV CAMPING Ö	34	4	25	2	3,5	4	0	0	0	NA	2	NA	0
+0	Sve011	KALV CAMPING Ö	35	3	24,8	1	3	3	0	0	0	NA	1	690	0
+0	Sve011	KALV CAMPING Ö	36	7	26,7	3	3,666666667	5	0	0	0	NA	3	1755	0
+0	Sve011	KALV CAMPING Ö	37	7	23,7	1	5	5	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	38	4	24	1	3	3	0	0	0	NA	1	580	0
+0	Sve011	KALV CAMPING Ö	39	7	25,1	1	4	4	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	40	35	20,5	2	3,5	4	0	0	0	NA	2	1380	0
+0	Sve011	KALV CAMPING Ö	41	6	21,2	1	4	4	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	42	8	22,1	1	3	3	0	0	0	NA	1	770	0
+0	Sve011	KALV CAMPING Ö	43	5	25	1	3	3	0	0	0	NA	1	760	0
+0	Sve011	KALV CAMPING Ö	44	11	27,2	1	3	3	0	1	0	NA	0	640	0
+0	Sve011	KALV CAMPING Ö	45	4	26,5	1	2	2	0	0	0	NA	1	680	0
+0	Sve011	KALV CAMPING Ö	46	4	24,3	1	4	4	0	0	0	NA	1	730	0
+0	Sve011	KALV CAMPING Ö	47	13	19,3	1	3	3	0	0	0	NA	1	530	0
+0	Sve011	KALV CAMPING Ö	48	7	26,5	1	3	3	0	0	0	NA	1	700	0
+0	Sve011	KALV CAMPING Ö	49	5	26,4	2	2,5	3	0	0	0	NA	2	1250	0
+0	Sve011	KALV CAMPING Ö	50	2	31,3	4	3	4	0	0	0	NA	4	3340	0
+0	Sve011	KALV CAMPING Ö	51	11	27,1	2	3	4	0	0	0	NA	2	1160	0
+0	Sve011	KALV CAMPING Ö	52	7	29,8	3	3,666666667	5	0	2	0	NA	1	980	0
+0	Sve011	KALV CAMPING Ö	53	4	21,3	1	2	2	0	0	0	NA	1	570	0
+0	Sve011	KALV CAMPING Ö	54	24	19,2	1	3	3	0	0	0	NA	1	600	0
+0	Sve011	KALV CAMPING Ö	55	3	15,9	3	2	3	0	0	0	NA	2	1240	0
+0	Sve011	KALV CAMPING Ö	56	14	26,3	2	3,5	4	0	0	0	NA	2	1160	0
+0	Sve011	KALV CAMPING Ö	57	5	32	2	3,5	4	0	0	0	NA	2	NA	0
+0	Sve011	KALV CAMPING Ö	58	7	28	3	3,666666667	5	0	0	0	NA	3	1785	0
+0	Sve011	KALV CAMPING Ö	59	4	22,7	2	4	5	0	0	0	NA	2	1100	0
+0	Sve011	KALV CAMPING Ö	60	5	22,5	1	4	4	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	61	2	17,2	1	3	3	0	0	0	NA	1	660	0
+0	Sve011	KALV CAMPING Ö	62	37	31,2	4	3	4	0	2	0	NA	2	2220	0
+0	Sve011	KALV CAMPING Ö	63	8	22,22	2	3,5	5	0	0	0	NA	2	940	0
+0	Sve011	KALV CAMPING Ö	64	5	24,1	1	4	4	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	65	9	25,6	1	3	3	0	0	0	NA	1	710	0
+0	Sve011	KALV CAMPING Ö	66	6	35,4	1	1	1	0	0	0	NA	1	530	0
+0	Sve011	KALV CAMPING Ö	67	3	22	1	4	4	0	0	0	NA	1	400	0
+0	Sve011	KALV CAMPING Ö	68	10	24,6	1	2	2	0	0	1	NA	1	420	0
+0	Sve011	KALV CAMPING Ö	69	19	21,1	1	3	3	0	0	0	NA	1	500	0
+0	Sve011	KALV CAMPING Ö	70	4	16,4	1	2	2	0	0	0	NA	1	520	0
+0	Sve011	KALV CAMPING Ö	71	9	21,5	1	2	2	0	0	0	NA	1	630	0
+0	Sve011	KALV CAMPING Ö	72	5	15,5	1	2	2	0	0	0	NA	1	350	0
+0	Sve011	KALV CAMPING Ö	73	10	21,6	1	3	3	0	1	0	NA	0	0	0
+0	Sve011	KALV CAMPING Ö	74	5	20,2	1	1	1	0	0	0	NA	1	0	0
+0	Sve011	KALV CAMPING Ö	75	5	25,3	1	1	1	0	0	1	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	76	4	25,9	1	3	3	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	77	5	20,5	1	3	3	0	0	0	NA	1	680	0
+0	Sve011	KALV CAMPING Ö	78	3	26,2	1	2	2	0	0	0	NA	1	730	0
+0	Sve011	KALV CAMPING Ö	79	6	16,7	1	1	1	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	80	3	27,5	2	2	3	0	1	0	NA	1	650	0
+0	Sve011	KALV CAMPING Ö	81	2	25	1	1	1	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	82	3	18,5	1	1	1	0	0	0	NA	1	410	0
+0	Sve011	KALV CAMPING Ö	83	7	16,8	1	2	2	0	0	0	NA	1	530	0
+0	Sve011	KALV CAMPING Ö	84	2	27	1	3	3	0	1	0	NA	0	0	0
+0	Sve011	KALV CAMPING Ö	85	2	15,9	1	3	3	0	1	0	NA	0	380	0
+0	Sve011	KALV CAMPING Ö	86	1	24,6	1	1	1	0	0	0	NA	1	360	0
+0	Sve011	KALV CAMPING Ö	87	1	26,8	1	1	1	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	88	3	22,5	1	3	3	0	0	0	NA	1	770	0
+0	Sve011	KALV CAMPING Ö	89	3	18	1	1	1	0	0	0	NA	1	450	0
+0	Sve011	KALV CAMPING Ö	90	2	20,4	1	1	1	0	0	0	NA	1	600	0
+0	Sve011	KALV CAMPING Ö	91	4	20	2	2,5	3	0	0	0	NA	2	970	0
+0	Sve011	KALV CAMPING Ö	92	3	16,2	1	1	1	0	0	1	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	93	11	20,2	1	1	1	0	1	0	NA	0	0	0
+0	Sve011	KALV CAMPING Ö	94	4	22,7	1	2	2	0	0	0	NA	1	530	0
+0	Sve011	KALV CAMPING Ö	95	9	15,2	1	1	1	0	1	0	NA	0	NA	0
+0	Sve011	KALV CAMPING Ö	96	2	20,1	1	2	2	0	0	0	NA	1	670	0
+0	Sve011	KALV CAMPING Ö	97	6	21,2	1	4	4	0	0	0	NA	1	NA	0
+0	Sve011	KALV CAMPING Ö	98	2	31,1	2	2,5	3	0	0	0	NA	2	1620	0
+0	Sve011	KALV CAMPING Ö	99	2	16,5	1	1	1	0	0	0	NA	1	340	0
+0	Sve011	KALV CAMPING Ö	100	7	23,6	1	2	2	0	1	0	NA	0	770	0
+0	Sve013	OLSHULT. Strand, betesmark	1	13	18,6	3	3	4	0	2	1	NA	0	710	0
+0	Sve013	OLSHULT. Strand, betesmark	2	8	13,2	2	3,5	4	0	1	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	3	7	14,1	2	2,5	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	4	5	12,9	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	5	3	11,4	1	4	4	0	0	0	NA	1	690	0
+0	Sve013	OLSHULT. Strand, betesmark	6	4	12,1	1	4	4	0	1	0	NA	0	650	0
+0	Sve013	OLSHULT. Strand, betesmark	7	9	11,5	2	2,5	3	0	0	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	8	5	12,7	2	2	3	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	9	7	13,3	2	2	3	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	10	4	14,6	1	5	5	0	0	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	11	9	11,3	1	2	2	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	12	7	13,9	1	2	2	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	13	4	13,7	1	1	1	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	14	4	11,4	1	2	2	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	15	4	29,6	1	4	4	0	0	0	NA	1	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	16	5	13,1	2	3	4	0	0	0	NA	1	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	17	7	15,4	2	2	3	0	0	2	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	18	4	20,2	2	2	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	19	5	22,4	4	3,5	5	0	0	0	NA	1	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	20	7	21,3	2	3,5	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	21	3	11,2	1	1	1	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	22	3	17,2	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	23	4	15,4	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	24	1	25,4	4	4	5	0	0	0	NA	1	280	0
+0	Sve013	OLSHULT. Strand, betesmark	25	4	14,6	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	26	4	10,2	1	1	1	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	27	6	16	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	28	3	20,9	2	4	5	0	1	0	NA	0	540	0
+0	Sve013	OLSHULT. Strand, betesmark	29	2	10,8	3	3,666666667	5	0	2	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	30	3	17,3	3	1,666666667	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	31	4	14,6	2	4	5	0	0	0	NA	2	190	0
+0	Sve013	OLSHULT. Strand, betesmark	32	9	14,6	1	2	2	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	33	1	19,6	2	3,5	4	0	1	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	34	3	12,6	1	2	2	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	35	6	13,1	1	1	1	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	36	4	9,5	1	2	2	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	37	6	22,2	1	5	5	0	0	0	NA	1	670	0
+0	Sve013	OLSHULT. Strand, betesmark	38	1	24,7	2	3	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	39	2	20,3	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	40	4	24,2	2	3	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	41	7	24,9	2	3	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	42	2	30	2	4	5	0	0	0	NA	1	680	0
+0	Sve013	OLSHULT. Strand, betesmark	43	12	22	2	3	5	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	44	4	22,6	3	4	5	0	1	0	NA	1	240	0
+0	Sve013	OLSHULT. Strand, betesmark	45	4	15,6	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	46	3	18,7	1	4	4	0	0	0	NA	1	0	0
+0	Sve013	OLSHULT. Strand, betesmark	47	4	17,6	1	2	2	0	0	0	NA	1	630	0
+0	Sve013	OLSHULT. Strand, betesmark	48	2	17,6	1	2	2	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	49	4	15,1	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	50	4	16,4	2	1,5	2	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	51	5	14,7	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	52	2	10,2	1	1	1	0	0	1	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	53	4	22,2	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	54	3	17,2	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	55	4	15	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	56	4	15,3	2	3	4	0	2	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	57	4	15,6	2	3	4	0	1	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	58	4	30,5	2	4	5	0	1	0	NA	1	220	0
+0	Sve013	OLSHULT. Strand, betesmark	59	4	30,3	2	4,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	60	3	15,6	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	61	3	21,2	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	62	2	26,6	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	63	4	28,1	3	2,666666667	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	64	7	16,9	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	65	3	20,9	2	3,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	66	11	24	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	67	3	26	4	3,25	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	68	5	18	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	69	4	16,9	1	5	5	0	0	0	NA	0	0	0
+0	Sve013	OLSHULT. Strand, betesmark	70	2	22	2	3,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	71	3	27,5	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	72	3	30,5	4	3,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	73	9	18,6	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	74	2	20,3	2	3	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	75	2	20	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	76	9	21,1	1	5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	77	3	17,6	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	78	3	15,6	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	79	6	9,9	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	80	5	20,6	2	2,5	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	81	3	18,7	2	2,5	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	82	3	15,1	1	3	3	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	83	4	21,1	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	84	5	15,6	1	1	1	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	85	3	24,7	2	3,5	5	0	1	0	NA	1	660	0
+0	Sve013	OLSHULT. Strand, betesmark	86	6	22,5	2	4	5	0	0	0	NA	1	0	0
+0	Sve013	OLSHULT. Strand, betesmark	87	3	22,4	3	2,333333333	4	0	0	0	NA	1	0	0
+0	Sve013	OLSHULT. Strand, betesmark	88	4	17,7	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	89	2	28,3	2	3,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	90	13	21,7	1	4	4	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	91	4	17,6	1	2	2	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	92	2	18,6	2	3	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	93	14	20,1	2	3,5	5	0	0	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	94	13	12,6	1	2	2	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	95	4	15	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	96	3	16,4	1	3	3	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	97	4	18,3	1	4	4	0	1	0	NA	0	290	0
+0	Sve013	OLSHULT. Strand, betesmark	98	5	13	1	4	4	0	1	0	NA	0	NA	0
+0	Sve013	OLSHULT. Strand, betesmark	99	3	21,8	1	5	5	0	1	0	NA	0	260	0
+0	Sve013	OLSHULT. Strand, betesmark	100	6	12,3	1	2	2	0	0	1	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	1	2	34,5	6	2,166666667	3	0	0	0	NA	6	3600	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	2	2	25,6	4	3	5	0	1	0	NA	2	1140	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	3	2	22,6	1	2	2	0	1	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	4	3	28,5	2	2	3	0	1	0	NA	1	520	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	5	4	31,9	2	1,5	2	0	1	1	NA	1	240	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	6	3	26,2	2	1,5	2	0	2	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	7	1	23,7	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	8	4	25,6	2	1,5	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	9	2	23,3	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	10	2	28,6	3	2,666666667	4	0	1	0	NA	2	990	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	11	3	18,7	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	12	2	26,2	3	1,666666667	3	0	0	1	NA	1	600	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	13	3	18,9	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	14	3	37,5	4	3	5	0	1	0	NA	2	1140	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	15	6	24,4	2	3,5	5	0	0	0	NA	2	1300	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	16	3	23,9	1	4	4	0	0	0	NA	1	640	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	17	3	25,7	3	4	5	0	0	0	NA	3	1575	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	18	5	24,6	1	4	4	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	19	4	23,6	1	2	2	0	0	0	NA	1	50	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	20	5	21,2	1	2	2	0	0	0	NA	1	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	21	1	23,2	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	22	2	29,2	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	23	4	27,5	2	2,5	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	24	3	23,5	2	2	3	0	0	0	NA	2	930	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	25	3	23	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	26	3	28,7	1	3	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	27	2	24,5	1	4	4	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	28	3	21,4	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	29	3	22,4	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	30	1	28,1	2	3,5	5	0	0	0	NA	2	250	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	31	2	18,4	1	4	4	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	32	2	18,6	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	33	3	19,4	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	34	3	23,8	2	2,5	4	0	2	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	35	1	27	2	3	4	0	2	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	36	6	16,6	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	37	2	26,9	1	4	4	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	38	4	22,6	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	39	5	31	2	3	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	40	3	28,1	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	41	3	18,3	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	42	2	32,6	4	2,5	4	0	4	0	NA	0	1640	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	43	3	32,5	3	2	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	44	2	33,2	2	2	3	0	1	1	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	45	2	20	1	3	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	46	1	28,5	1	4	4	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	47	2	26,5	2	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	48	2	36,7	3	3,666666667	4	0	1	0	NA	1	600	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	49	2	27,4	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	50	3	27,1	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	51	3	24,9	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	52	3	35,4	1	1	1	0	0	0	NA	1	290	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	53	1	26,1	2	1,5	2	0	0	0	NA	2	350	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	54	4	36,5	3	2,666666667	4	0	2	0	NA	1	660	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	55	2	30,3	1	4	4	0	0	0	NA	1	490	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	56	4	25	2	3	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	57	3	30,2	1	5	5	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	58	1	33,2	2	1,5	2	0	1	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	59	2	26	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	60	3	28,6	3	1,333333333	2	0	2	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	61	4	30,9	2	2,5	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	62	3	40,1	6	1,833333333	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	63	5	17,7	1	4	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	64	3	21,3	3	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	65	3	17,8	1	4	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	66	6	27,6	1	2	2	0	0	0	NA	1	470	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	67	3	32,1	3	2,333333333	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	68	3	21,5	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	69	3	35,7	4	1,75	3	0	0	0	NA	3	1515	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	70	5	16,1	1	5	5	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	71	2	25,5	2	1,5	2	0	0	1	NA	1	220	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	72	1	14,4	1	1	1	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	73	1	34,4	6	2,833333333	5	0	4	0	NA	3	1110	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	74	3	20,6	1	5	5	0	0	0	NA	1	450	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	75	1	31,7	3	2,333333333	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	76	1	17,8	1	1	1	0	0	0	NA	1	40	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	77	2	29,3	3	1,333333333	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	78	1	28,9	1	3	3	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	79	1	12,6	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	80	2	8,5	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	81	4	13,5	1	2	2	0	1	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	82	3	22,9	1	2	2	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	83	2	21,7	2	1,5	2	0	0	0	NA	1	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	84	4	20,6	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	85	8	19,7	2	1,5	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	86	2	17,3	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	87	4	30	2	3	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	88	5	19,5	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	89	2	19,6	2	1,5	2	0	0	0	NA	1	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	90	2	18,6	1	3	3	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	91	3	24,8	3	3	5	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	92	3	33	4	2,5	4	0	1	0	NA	3	2130	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	93	2	18,7	1	1	1	0	1	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	94	1	26,1	3	2,333333333	4	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	95	3	26,7	3	2,333333333	3	0	2	0	NA	1	1150	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	96	2	19,9	1	3	3	0	0	0	NA	1	470	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	97	2	14,2	2	2	3	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	98	3	14,7	1	2	2	0	0	0	NA	0	NA	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	99	2	17	3	4	5	0	3	0	NA	0	0	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	100	2	21,1	4	3	5	0	0	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	1	3	25,2	3	3	4	0	3	0	NA	0	150	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	2	2	23,3	4	1,25	2	0	1	0	NA	3	1380	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	3	2	16,4	1	1	1	0	1	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	4	4	28,6	4	1,25	2	0	1	0	NA	3	375	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	5	9	21,8	4	1,5	2	0	1	0	NA	1	530	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	6	2	21	2	1,5	2	0	0	0	NA	2	650	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	7	4	23,5	1	1	1	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	8	2	19,7	2	2,5	3	0	0	0	NA	2	910	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	9	2	21,5	4	2	3	0	0	0	NA	4	2620	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	10	2	20,6	3	1,666666667	3	0	0	0	NA	2	1180	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	11	3	14,4	1	2	2	0	0	0	NA	1	710	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	12	2	11,4	1	1	1	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	13	3	31	6	3,166666667	5	0	3	0	NA	3	1350	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	14	3	21,5	2	1,5	2	0	2	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	15	1	22,8	3	3	4	0	2	0	NA	1	530	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	16	2	28,5	5	2,4	4	0	0	0	NA	5	3075	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	17	6	27	6	3,166666667	5	0	1	0	NA	5	2675	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	18	6	19,6	6	4,5	5	0	0	0	NA	6	3870	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	19	4	16,1	1	3	3	0	0	0	NA	1	540	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	20	3	18,6	1	3	3	0	0	0	NA	1	535	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	21	9	19,9	2	4	5	0	0	0	NA	2	1060	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	22	2	19,22	1	4	4	0	0	0	NA	1	480	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	23	1	16,4	1	2	2	0	0	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	24	4	24,1	1	3	3	0	0	0	NA	1	600	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	25	3	31,1	1	3	3	0	1	0	NA	0	0	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	26	1	14	1	4	4	0	0	0	NA	1	550	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	27	1	17,5	1	3	3	0	0	0	NA	1	420	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	28	1	29,3	3	2,666666667	4	0	0	0	NA	3	1395	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	29	4	13,9	1	1	1	0	0	0	NA	1	170	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	30	4	21,3	1	3	3	0	0	0	NA	1	320	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	31	3	16,2	2	3	4	0	1	0	NA	1	740	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	32	4	26,2	2	3,5	5	0	2	0	NA	0	1020	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	33	3	27,5	6	3,5	5	0	0	0	NA	6	4350	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	34	2	34,3	3	2	4	0	0	0	NA	3	1395	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	35	2	23,5	1	5	5	0	0	1	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	36	4	20,2	4	2,75	5	0	1	0	NA	3	1555	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	37	2	17,3	1	1	1	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	38	4	21	1	3	3	0	1	0	NA	0	0	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	39	2	24,6	1	3	3	0	1	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	40	3	32	4	3	5	0	4	0	NA	0	10	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	41	3	36,8	1	1	1	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	42	2	12,3	1	2	2	0	0	0	NA	1	390	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	43	2	20	2	4	5	0	1	0	NA	1	680	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	44	1	15,2	1	1	1	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	45	2	19,3	1	5	5	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	46	5	30,3	7	2,857142857	5	0	0	0	NA	7	4340	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	47	2	30	4	3	5	0	3	0	NA	1	1340	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	48	4	32,5	3	2,333333333	5	0	1	0	NA	1	570	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	49	5	23,3	3	2,666666667	5	0	2	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	50	7	29,7	4	3	5	0	2	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	51	3	34,6	5	3,2	4	0	4	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	52	6	35,3	4	3,5	5	0	2	0	NA	4	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	53	9	29,2	2	4	5	0	0	0	NA	2	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	54	3	31	3	3,333333333	4	0	0	0	NA	3	1785	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	55	1	16,3	1	3	3	0	1	0	NA	0	0	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	56	4	15,6	3	3	5	0	0	0	NA	3	1245	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	57	4	28,1	2	3	4	0	1	0	NA	1	740	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	58	3	26,5	1	2	2	0	0	0	NA	1	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	59	5	30	5	2	4	0	0	1	NA	3	1290	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	60	3	29,6	4	3,75	5	0	0	0	NA	4	2880	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	61	3	29,2	4	3,5	5	0	1	0	NA	3	210	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	62	5	31,7	4	3,25	5	0	0	1	NA	4	2400	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	63	5	31,5	4	2,75	5	0	3	0	NA	1	500	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	64	2	24,2	4	2	4	0	1	0	NA	3	1305	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	65	3	23,6	4	3	5	0	3	0	NA	1	850	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	66	3	24,8	2	2,5	4	0	0	0	NA	1	510	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	67	2	29	1	3	3	0	1	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	68	3	25,9	1	5	5	0	1	0	NA	0	540	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	69	2	23,9	1	4	4	0	1	0	NA	0	190	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	70	5	27,3	2	2,5	4	0	1	0	NA	1	620	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	71	4	24,2	2	3,5	5	0	1	0	NA	1	740	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	72	3	26,5	2	4	5	0	0	0	NA	2	1360	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	73	2	30,2	2	4	5	0	0	0	NA	2	740	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	74	5	32,2	4	3,75	5	0	1	0	NA	3	2370	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	75	8	25,1	2	3,5	5	0	1	1	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	76	4	28,1	6	3,333333333	5	0	0	0	NA	6	3180	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	77	4	24,3	1	5	5	0	0	0	NA	1	600	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	78	18	31,1	3	3	5	0	0	0	NA	3	1890	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	79	3	25,7	4	3,25	5	0	0	0	NA	4	2000	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	80	3	28,2	1	3	3	0	0	0	NA	1	630	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	81	5	32,2	6	2,666666667	5	0	4	0	NA	2	980	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	82	7	25,2	6	3,666666667	5	0	0	0	NA	7	3920	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	83	5	35,3	8	2,625	5	0	0	0	NA	8	4560	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	84	9	25,2	4	3,5	5	0	0	0	NA	4	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	85	7	24,2	3	2,333333333	5	0	0	1	NA	2	1170	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	86	5	35,6	5	2,2	4	0	0	0	NA	4	2920	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	87	7	29,5	5	3	5	0	2	1	NA	2	2240	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	88	11	30,5	7	3,714285714	5	0	1	0	NA	6	2070	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	89	8	15,9	1	4	4	0	0	0	NA	1	300	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	90	3	19,2	5	4,4	5	0	1	0	NA	4	1640	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	91	3	24,7	1	5	5	0	0	0	NA	1	600	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	92	2	32	4	2,75	4	0	0	0	NA	4	2220	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	93	11	27,2	6	2,333333333	4	0	1	1	NA	4	1840	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	94	8	28,2	4	3,5	5	0	0	0	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	95	6	23,5	1	5	5	0	0	0	NA	1	590	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	96	3	30,2	3	3,333333333	5	0	1	1	NA	1	1020	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	97	4	26,9	2	2,5	3	0	0	1	NA	1	585	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	98	3	19	2	1	1	0	1	2	NA	0	NA	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	99	6	16,6	2	2	2	0	1	0	NA	1	410	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	100	4	36,7	5	2,8	4	0	0	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	1	4	27,8	2	1	1	0	0	2	NA	1	0	0
+1	Vår004	Lida betesfållan	2	10	19,7	2	2,5	4	0	0	0	NA	1	260	0
+1	Vår004	Lida betesfållan	3	2	23,2	3	1,333333333	2	4	2	1	NA	0	NA	1
+1	Vår004	Lida betesfållan	4	2	23,6	5	2,8	5	6	6	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	5	2	22,5	1	1	1	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	6	1	25,6	4	2,25	4	8	2	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	7	3	21,3	3	2,666666667	4	4	2	0	NA	2	1100	1
+1	Vår004	Lida betesfållan	8	4	21,1	4	3,25	5	3	3	0	NA	1	620	1
+1	Vår004	Lida betesfållan	9	7	21,3	2	1,5	2	1	2	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	10	5	15,2	2	3,5	5	1	2	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	11	1	21,1	2	4	5	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	12	2	18,4	2	3	5	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	13	3	31	6	1,666666667	3	12	1	0	NA	5	2650	1
+1	Vår004	Lida betesfållan	14	3	16,7	1	4	4	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	15	1	26,5	5	1,8	3	2	4	0	NA	1	400	1
+1	Vår004	Lida betesfållan	16	4	25,2	6	1	1	1	3	1	NA	1	360	1
+1	Vår004	Lida betesfållan	17	3	25,5	3	2	3	0	0	1	NA	2	720	0
+1	Vår004	Lida betesfållan	18	2	23,4	4	3,5	5	17	2	0	NA	2	440	1
+1	Vår004	Lida betesfållan	19	4	20,4	3	1,333333333	2	0	2	1	NA	0	0	0
+1	Vår004	Lida betesfållan	20	3	17	1	1	1	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	21	2	27,2	4	2,5	4	0	2	0	NA	2	480	0
+1	Vår004	Lida betesfållan	22	3	17,2	1	5	5	0	0	0	NA	1	280	0
+1	Vår004	Lida betesfållan	23	3	25,8	2	2	3	0	0	0	NA	2	860	0
+1	Vår004	Lida betesfållan	24	2	31,7	5	2,4	4	5	4	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	25	1	25,2	6	1,166666667	2	7	5	0	NA	1	230	1
+1	Vår004	Lida betesfållan	26	2	25,1	3	2,333333333	4	8	0	0	NA	3	1485	1
+1	Vår004	Lida betesfållan	27	5	25	4	1,25	2	0	2	1	NA	0	0	0
+1	Vår004	Lida betesfållan	28	2	23,8	3	2,333333333	4	0	2	0	NA	1	NA	0
+1	Vår004	Lida betesfållan	29	2	15,1	1	1	1	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	30	2	19,5	3	1,333333333	2	0	3	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	31	2	18,4	1	2	2	2	1	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	32	2	16,2	1	1	1	0	1	1	NA	0	NA	0
+1	Vår004	Lida betesfållan	33	1	19,7	3	1,333333333	2	0	1	1	NA	1	0	0
+1	Vår004	Lida betesfållan	34	2	16,3	1	2	2	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	35	1	20,1	3	1,333333333	2	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	36	1	21,2	2	2	3	4	1	0	NA	1	260	1
+1	Vår004	Lida betesfållan	37	3	21,8	3	3	4	8	3	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	38	7	21,6	2	3	4	2	1	0	NA	1	430	1
+1	Vår004	Lida betesfållan	39	3	18,3	1	3	3	0	0	0	NA	1	630	0
+1	Vår004	Lida betesfållan	40	1	16,2	1	4	4	7	0	0	NA	1	510	1
+1	Vår004	Lida betesfållan	41	1	19,1	1	3	3	0	0	0	NA	1	530	0
+1	Vår004	Lida betesfållan	42	3	19,5	2	3,5	4	7	1	0	NA	1	80	1
+1	Vår004	Lida betesfållan	43	1	21,6	2	2	3	0	1	0	NA	1	170	0
+1	Vår004	Lida betesfållan	44	2	28,9	5	2,8	4	8	5	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	45	2	28,6	5	1,2	2	5	1	0	NA	4	2140	1
+1	Vår004	Lida betesfållan	46	1	23	3	2	3	6	2	0	NA	1	490	1
+1	Vår004	Lida betesfållan	47	2	22,1	4	3,25	4	18	4	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	48	2	23,5	3	2	3	3	2	0	NA	1	0	1
+1	Vår004	Lida betesfållan	49	1	21,1	3	2,666666667	4	0	1	0	NA	2	720	0
+1	Vår004	Lida betesfållan	50	2	19,2	2	1	1	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	51	4	22,6	2	1,5	2	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	52	1	28,7	5	1,2	2	6	0	1	NA	4	1440	1
+1	Vår004	Lida betesfållan	53	4	18,3	3	2	3	2	2	0	NA	1	300	1
+1	Vår004	Lida betesfållan	54	1	18,3	3	1	1	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	55	2	19,6	3	2,333333333	3	0	3	0	NA	0	80	0
+1	Vår004	Lida betesfållan	56	2	32	3	2	3	4	1	1	NA	1	560	1
+1	Vår004	Lida betesfållan	57	1	25,2	2	2,5	4	7	1	0	NA	1	340	1
+1	Vår004	Lida betesfållan	58	2	20,6	3	2	4	5	3	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	59	3	19,3	1	4	4	1	1	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	60	2	24,4	3	2,333333333	3	0	3	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	61	5	22	3	3,333333333	4	1	3	0	NA	0	670	1
+1	Vår004	Lida betesfållan	62	6	27,5	6	2,666666667	4	9	5	0	NA	1	230	1
+1	Vår004	Lida betesfållan	63	5	19,1	4	2,75	5	6	3	1	NA	0	490	1
+1	Vår004	Lida betesfållan	64	1	23,1	3	2	3	0	0	0	NA	3	1695	0
+1	Vår004	Lida betesfållan	65	6	22,2	4	3,25	5	8	1	0	NA	3	1110	1
+1	Vår004	Lida betesfållan	66	1	22	2	1,5	2	0	1	1	NA	0	NA	0
+1	Vår004	Lida betesfållan	67	6	12,6	1	3	3	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	68	4	21,5	3	3,666666667	5	14	1	0	NA	3	1130	1
+1	Vår004	Lida betesfållan	69	3	29,1	6	2,833333333	4	9	2	0	NA	3	1510	1
+1	Vår004	Lida betesfållan	70	1	21	3	2	3	3	1	1	NA	1	680	1
+1	Vår004	Lida betesfållan	71	5	19,6	1	1	1	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	72	2	25,7	3	2,666666667	3	0	0	0	NA	3	1785	0
+1	Vår004	Lida betesfållan	73	1	15,3	1	2	2	0	1	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	74	1	18,4	2	1,5	2	0	2	0	NA	0	620	0
+1	Vår004	Lida betesfållan	75	3	31,7	3	3,333333333	4	5	2	0	NA	1	560	1
+1	Vår004	Lida betesfållan	76	2	16,7	6	1,5	3	0	4	0	NA	1	20	0
+1	Vår004	Lida betesfållan	77	5	26,5	5	3,2	5	12	2	1	NA	2	440	1
+1	Vår004	Lida betesfållan	78	3	28,1	5	3,2	5	14	4	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	79	2	20,9	5	3,4	5	15	4	0	NA	1	NA	1
+1	Vår004	Lida betesfållan	80	3	24,1	7	3,142857143	5	0	0	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	81	5	23,5	7	2,428571429	4	24	5	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	82	2	30,3	4	3,5	5	18	1	0	NA	3	1485	1
+1	Vår004	Lida betesfållan	83	5	20,1	5	3,2	5	12	2	0	NA	3	1710	1
+1	Vår004	Lida betesfållan	84	6	24,7	3	1,666666667	3	1	2	0	NA	1	650	1
+1	Vår004	Lida betesfållan	85	1	20,6	3	2	3	6	3	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	86	2	19,9	1	3	3	0	1	0	NA	0	0	0
+1	Vår004	Lida betesfållan	87	1	21,8	2	3,5	4	0	2	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	88	1	21,1	6	1,166666667	2	2	2	0	NA	2	680	1
+1	Vår004	Lida betesfållan	89	5	19,7	2	3,5	4	6	2	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	90	10	25,3	2	2,5	4	0	1	0	NA	1	20	0
+1	Vår004	Lida betesfållan	91	2	16,8	3	1,666666667	3	1	2	0	NA	1	450	1
+1	Vår004	Lida betesfållan	92	4	15,9	2	3,5	4	1	2	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	93	1	13,7	2	4	5	9	1	0	NA	1	0	1
+1	Vår004	Lida betesfållan	94	4	17	3	1,333333333	2	2	0	1	NA	2	760	1
+1	Vår004	Lida betesfållan	95	6	19,2	3	4	5	22	0	0	NA	3	1185	1
+1	Vår004	Lida betesfållan	96	2	25,6	4	2	3	1	0	0	NA	3	1995	1
+1	Vår004	Lida betesfållan	97	3	23,3	5	2,4	5	0	3	0	NA	0	NA	0
+1	Vår004	Lida betesfållan	98	5	16,2	1	3	3	0	0	0	NA	1	540	0
+1	Vår004	Lida betesfållan	99	2	21,5	3	2	3	14	3	0	NA	0	NA	1
+1	Vår004	Lida betesfållan	100	1	16,7	2	3,5	5	10	0	0	NA	2	400	1
+1	Vår009	Tånga hed	1	2	23,5	6	3,666666667	5	25	6	0	NA	0	NA	1
+1	Vår009	Tånga hed	2	2	27,1	4	2,75	4	1	1	0	NA	3	1195	1
+1	Vår009	Tånga hed	3	4	28,8	9	4,333333333	5	0	2	0	NA	6	5330	0
+1	Vår009	Tånga hed	4	3	32,9	5	3,6	5	10	3	1	NA	1	NA	1
+1	Vår009	Tånga hed	5	2	21,1	3	3,666666667	5	5	2	0	NA	1	210	1
+1	Vår009	Tånga hed	6	1	19,3	3	2,333333333	3	2	1	0	NA	2	800	1
+1	Vår009	Tånga hed	7	3	29,4	9	3,444444444	5	2	2	0	NA	6	3180	1
+1	Vår009	Tånga hed	8	4	24,7	4	2,25	4	4	3	0	NA	1	440	1
+1	Vår009	Tånga hed	9	2	22,5	2	2	3	1	1	0	NA	0	NA	1
+1	Vår009	Tånga hed	10	2	16,16	1	3	3	1	1	0	NA	0	NA	1
+1	Vår009	Tånga hed	11	2	12,4	1	2	2	0	0	0	NA	1	500	0
+1	Vår009	Tånga hed	12	2	19,8	4	1,75	3	0	2	0	NA	1	470	0
+1	Vår009	Tånga hed	13	3	16,2	3	2,666666667	4	2	3	0	NA	0	100	1
+1	Vår009	Tånga hed	14	2	18,4	1	3	3	2	1	0	NA	0	20	1
+1	Vår009	Tånga hed	15	2	21,2	1	3	3	0	1	0	NA	0	NA	0
+1	Vår009	Tånga hed	16	4	26,1	7	3,285714286	5	1	2	0	NA	5	2715	1
+1	Vår009	Tånga hed	17	1	30,2	5	2,2	4	0	1	1	NA	3	960	0
+1	Vår009	Tånga hed	18	1	13,3	1	3	3	0	0	0	NA	1	730	0
+1	Vår009	Tånga hed	19	2	13,4	2	1,5	2	0	0	0	NA	2	600	0
+1	Vår009	Tånga hed	20	2	23,9	3	2,333333333	3	0	0	0	NA	3	1950	0
+1	Vår009	Tånga hed	21	2	17,4	6	2,5	4	0	0	2	NA	3	1800	0
+1	Vår009	Tånga hed	22	2	13,6	2	2,5	3	0	0	0	NA	2	1070	0
+1	Vår009	Tånga hed	23	5	19,9	5	4,4	5	1	0	0	NA	5	2575	1
+1	Vår009	Tånga hed	24	2	28,4	5	3,2	4	1	3	0	NA	2	2350	1
+1	Vår009	Tånga hed	25	2	19,4	3	2	3	1	1	0	NA	2	370	1
+1	Vår009	Tånga hed	26	2	24,1	4	2,75	4	0	0	0	NA	4	1960	0
+1	Vår009	Tånga hed	27	5	18,3	3	3	4	0	0	0	NA	3	1740	0
+1	Vår009	Tånga hed	28	2	20,3	5	1,6	3	0	1	1	NA	3	1110	0
+1	Vår009	Tånga hed	29	2	23,2	2	3,5	4	0	0	0	NA	2	1240	0
+1	Vår009	Tånga hed	30	2	21,1	5	3	4	0	0	3	NA	2	820	0
+1	Vår009	Tånga hed	31	3	12,5	2	3	4	0	1	0	NA	1	570	0
+1	Vår009	Tånga hed	32	5	20,6	4	2,25	3	0	0	0	NA	4	1940	0
+1	Vår009	Tånga hed	33	4	25,3	5	3,4	5	0	1	0	NA	4	3240	0
+1	Vår009	Tånga hed	34	1	26,3	4	2,25	3	0	0	0	NA	4	1626,666667	0
+1	Vår009	Tånga hed	35	2	22,2	4	3,75	5	0	0	0	NA	5	4500	0
+1	Vår009	Tånga hed	36	1	15,9	3	1,666666667	2	0	0	0	NA	3	1350	0
+1	Vår009	Tånga hed	37	1	19,1	2	1,5	2	0	0	0	NA	2	1010	0
+1	Vår009	Tånga hed	38	2	19,8	4	3,75	5	0	0	0	NA	4	2360	0
+1	Vår009	Tånga hed	39	3	22,4	5	2,8	4	0	0	0	NA	5	775	0
+1	Vår009	Tånga hed	40	2	25,4	11	3	5	0	1	0	NA	9	6525	0
+1	Vår009	Tånga hed	41	3	25,5	6	2,833333333	5	0	5	0	NA	1	350	0
+1	Vår009	Tånga hed	42	2	28,1	7	2,714285714	4	0	0	0	NA	7	4130	0
+1	Vår009	Tånga hed	43	1	23	5	3,2	4	0	0	0	NA	5	3125	0
+1	Vår009	Tånga hed	44	4	17,4	2	2	3	0	0	0	NA	1	630	0
+1	Vår009	Tånga hed	45	2	18,7	2	3	4	0	1	0	NA	1	600	0
+1	Vår009	Tånga hed	46	3	12,8	3	1,333333333	2	0	0	2	NA	1	510	0
+1	Vår009	Tånga hed	47	3	21,3	3	2	3	0	0	0	NA	3	1785	0
+1	Vår009	Tånga hed	48	3	25,5	4	3,5	5	2	1	0	NA	2	1400	1
+1	Vår009	Tånga hed	49	2	25	3	3,666666667	5	0	0	0	NA	3	1935	0
+1	Vår009	Tånga hed	50	7	23,6	5	4	5	0	0	0	NA	5	2600	0
+1	Vår009	Tånga hed	51	3	32	9	2,555555556	5	0	2	0	NA	4	2880	0
+1	Vår009	Tånga hed	52	1	25,6	5	2,4	4	2	1	1	NA	3	NA	1
+1	Vår009	Tånga hed	53	2	23	5	2,4	4	4	1	0	NA	4	NA	1
+1	Vår009	Tånga hed	54	4	27,3	5	2,8	4	0	0	0	NA	5	2950	0
+1	Vår009	Tånga hed	55	3	30,9	6	2,666666667	4	0	1	0	NA	5	260	0
+1	Vår009	Tånga hed	56	2	18,6	4	2	3	0	1	0	NA	3	1875	0
+1	Vår009	Tånga hed	57	4	19,2	3	3,666666667	5	0	0	0	NA	3	645	0
+1	Vår009	Tånga hed	58	2	14,6	1	3	3	3	1	0	NA	0	NA	1
+1	Vår009	Tånga hed	59	5	17,2	1	1	1	0	0	0	NA	1	10	0
+1	Vår009	Tånga hed	60	3	17	2	1,5	2	0	0	1	NA	1	630	0
+1	Vår009	Tånga hed	61	1	20,7	2	3,5	4	0	1	0	NA	1	680	0
+1	Vår009	Tånga hed	62	6	25,4	5	1,8	3	0	1	0	NA	4	1800	0
+1	Vår009	Tånga hed	63	3	32,1	5	2	4	0	3	0	NA	1	725	0
+1	Vår009	Tånga hed	64	2	27,1	13	2,076923077	4	0	1	3	NA	7	4830	0
+1	Vår009	Tånga hed	65	1	24,3	6	2,333333333	4	0	0	1	NA	5	3350	0
+1	Vår009	Tånga hed	66	4	30,2	7	2,571428571	4	0	1	0	NA	5	3675	0
+1	Vår009	Tånga hed	67	2	18,4	2	2,5	3	0	1	0	NA	1	630	0
+1	Vår009	Tånga hed	68	2	24,4	5	2,8	4	9	3	1	NA	2	480	1
+1	Vår009	Tånga hed	69	1	15,2	3	1,666666667	3	0	2	1	NA	0	NA	0
+1	Vår009	Tånga hed	70	1	15,9	1	1	1	0	0	0	NA	1	540	0
+1	Vår009	Tånga hed	71	1	15,4	2	2,5	3	3	2	0	NA	0	NA	1
+1	Vår009	Tånga hed	72	2	17,6	3	2,666666667	4	0	2	0	NA	1	460	0
+1	Vår009	Tånga hed	73	2	25,2	4	3,5	5	3	1	0	NA	3	1350	1
+1	Vår009	Tånga hed	74	1	16,6	1	3	3	0	1	0	NA	0	NA	0
+1	Vår009	Tånga hed	75	2	20,8	1	3	3	0	1	0	NA	0	NA	0
+1	Vår009	Tånga hed	76	1	31,1	3	2,666666667	4	4	1	0	NA	2	1090	1
+1	Vår009	Tånga hed	77	2	20,7	3	1,666666667	3	0	2	0	NA	0	0	0
+1	Vår009	Tånga hed	78	1	19,2	3	1	1	0	0	2	NA	1	440	0
+1	Vår009	Tånga hed	79	4	19,5	2	2	3	0	0	0	NA	2	1040	0
+1	Vår009	Tånga hed	80	4	26,7	4	3,75	5	4	2	0	NA	2	620	1
+1	Vår009	Tånga hed	81	4	19,8	3	2,666666667	4	0	2	0	NA	1	0	0
+1	Vår009	Tånga hed	82	4	30,1	11	3,181818182	5	0	3	0	NA	8	6440	0
+1	Vår009	Tånga hed	83	40	37	13	3,615384615	5	0	2	2	NA	9	1980	0
+1	Vår009	Tånga hed	84	1	16,6	2	2,5	3	1	1	0	NA	1	NA	1
+1	Vår009	Tånga hed	85	1	12,9	1	2	2	0	0	0	NA	1	NA	0
+1	Vår009	Tånga hed	86	3	23,6	8	3,25	5	1	4	0	NA	4	2520	1
+1	Vår009	Tånga hed	87	2	20,3	1	2	2	0	0	0	NA	1	650	0
+1	Vår009	Tånga hed	88	1	28,2	4	3,5	5	3	1	0	NA	3	1185	1
+1	Vår009	Tånga hed	89	2	15,5	4	3,25	5	0	2	0	NA	2	610	0
+1	Vår009	Tånga hed	90	2	25,2	5	2	3	4	1	0	NA	4	NA	1
+1	Vår009	Tånga hed	91	1	26,7	5	3	4	6	4	0	NA	1	600	1
+1	Vår009	Tånga hed	92	2	26,7	6	2,833333333	5	1	1	0	NA	5	2250	1
+1	Vår009	Tånga hed	93	3	18,8	3	2,666666667	4	1	2	0	NA	2	120	1
+1	Vår009	Tånga hed	94	2	21,4	4	2,5	4	4	3	1	NA	0	NA	1
+1	Vår009	Tånga hed	95	3	17,7	4	2,75	5	1	1	0	NA	2	1790	1
+1	Vår009	Tånga hed	96	2	23,4	6	1,833333333	3	0	0	1	NA	5	3200	0
+1	Vår009	Tånga hed	97	2	25,7	8	3,375	5	3	2	0	NA	6	4920	1
+1	Vår009	Tånga hed	98	3	29,9	5	3	5	0	3	0	NA	2	1430	0
+1	Vår009	Tånga hed	99	1	29	5	2,8	4	0	2	0	NA	3	2280	0
+1	Vår009	Tånga hed	100	1	23,3	4	2	3	0	0	0	NA	4	3120	0

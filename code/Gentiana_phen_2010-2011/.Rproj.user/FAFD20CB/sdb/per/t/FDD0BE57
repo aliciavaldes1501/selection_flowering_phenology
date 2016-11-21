@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\npar(mfrow=c(1,1),\n    pch=20,family=\"serif\",bty=\"l\",cex=2.5,cex.axis=0.6,cex.lab=0.6,mgp=c(2, 1, 0),\n    mar=c(4, 4, 0.5, 0.5) )\nplot(ants_mean_max$logants,ants_mean_max$pred,xlab=expression(italic(Myrmica)~\"abundance (log)\"),\n     ylab=expression(italic(P.alcon)~presence),bty=\"l\",pch=19,xlim=c(-4, 4),col=adjustcolor(\"black\", alpha=0.2))\ncurve(predict(logistic, data.frame(logants=x), type=\"resp\"), add=TRUE,col =\"black\",lwd=3) \n\npres_theme <- theme_bw(base_family = \"\")+theme(panel.grid.major = element_line(size = 0, color = \"white\"),\n            axis.line = element_line(size=.7, color = \"black\"), text = element_text(size=18),\n            axis.title.x = element_text(vjust=-0.50,size=18),axis.title.y = element_text(vjust=0.70,size=18),\n            axis.text.x=element_text(size=18),axis.text.y=element_text(size=18))+\n            theme( plot.background = element_blank() ,panel.grid.major = element_blank() ,\n            panel.grid.minor = element_blank() , panel.border = element_blank() ,\n            panel.background = element_blank() ) +  theme(axis.line = element_line(color = 'black'))\n\ncbbPalette <- c(\"#000000\", \"#E69F00\", \"#56B4E9\", \"#009E73\", \"#F0E442\", \"#0072B2\", \"#D55E00\", \"#CC79A7\",\"#CC6666\", \"#9999CC\", \"#66CC99\")\n\nggplot(data10_pred, aes(x=most_adv, y=attack,color=LokalID)) +\n  geom_smooth(method=lm, se=FALSE, size=0.7,fullrange=T)+ \n  scale_x_continuous(breaks=c(0,1,2,3,4,5,6))+\n  labs(x = \"Most advanced bud\", y = \"Number of eggs\")+\n  pres_theme+scale_colour_manual(values=cbbPalette)\n\n",
+    "created" : 1445188906289.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4155897597",
+    "id" : "FDD0BE57",
+    "lastKnownWriteTime" : 1476783114,
+    "last_content_update" : 1476783114456,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011/graphs_SCAPE.R",
+    "project_path" : "graphs_SCAPE.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

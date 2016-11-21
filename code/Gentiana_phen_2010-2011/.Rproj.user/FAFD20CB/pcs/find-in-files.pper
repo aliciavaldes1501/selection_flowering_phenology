@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011",
+        "query" : "poisson",
+        "regex" : false
+    }
+}

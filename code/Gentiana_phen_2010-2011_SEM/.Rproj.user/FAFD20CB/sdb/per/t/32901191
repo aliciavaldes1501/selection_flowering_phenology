@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "trybinom <- read.table(\n  \"trybinom.txt\",\n  header=TRUE, sep=\"\\t\", na.strings=\"NA\", dec=\",\", strip.white=TRUE)\ntrybinom\nsummary(glm(cbind(attacked, not_attacked)~mean_phen,family=\"binomial\",data=trybinom))\n\nplot()summary(glm(cbind(attacked, not_attacked)~mean_phen,family=\"binomial\",data=subset(trybinom,year==2010)))\nsummary(glm(cbind(attacked, not_attacked)~mean_phen,family=\"binomial\",data=subset(trybinom,year==2011)))\n\nsummary(lm(log(mean_n_eggs)~mean_phen,data=trybinom)) ##\nplot(lm(log(mean_n_eggs)~mean_phen,data=trybinom))\ntrybinom$sum_n_eggs<-(trybinom$mean_n_eggs)*100\nsummary(glm(sum_n_eggs~mean_phen,family=\"poisson\",data=trybinom)) #Signif, but highly overdisp\nsummary(glm(sum_n_eggs~mean_phen,family=\"quasipoisson\",data=trybinom)) #Not signif\n",
+    "created" : 1463141316584.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3453485847",
+    "id" : "32901191",
+    "lastKnownWriteTime" : 1463143210,
+    "last_content_update" : 1463143210039,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011_SEM/trybinom.R",
+    "project_path" : "trybinom.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

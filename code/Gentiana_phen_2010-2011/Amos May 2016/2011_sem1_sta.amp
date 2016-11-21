@@ -1,0 +1,400 @@
+$AmpVersion=6
+$DateTime1=2016-5-17-14-33-50-923
+$DateTime2=2016-5-17-14-33-50-923
+$DateTime3=2016-5-17-14-33-50-923
+$group=Group number 1
+$group=Group number 1
+$vnames
+5
+n_fl_sta
+most_adv_sta
+h_shoot_sta
+n_eggs_sta
+n_intact_fruits_sta
+$allnames
+7
+n_fl_sta
+most_adv_sta
+h_shoot_sta
+n_eggs_sta
+n_intact_fruits_sta
+e1
+e2
+$map
+7
+1
+2
+3
+6
+7
+0
+0
+$model=All different
+$Convergence=Minimum was achieved
+$ModelNote
+Chi-square = 0,558
+Probability level = 0,757
+$EndNote
+$cmin=0,5578493228
+$df=2
+$p=0,756596902
+$group=Group number 1
+$Regression Weights:
+$p
+n_eggs_sta
+most_adv_sta
+0,18883661
+0,029517107
+6,397531
+
+$p
+n_eggs_sta
+n_fl_sta
+0,45217186
+0,029539925
+15,307143
+
+$p
+n_intact_fruits_sta
+n_eggs_sta
+-0,29349153
+0,033702475
+-8,7083078
+
+$p
+n_intact_fruits_sta
+h_shoot_sta
+-0,068883229
+0,034873853
+-1,9752113
+
+$p
+n_intact_fruits_sta
+n_fl_sta
+0,47883923
+0,039554299
+12,105871
+
+$x
+
+
+
+
+
+
+$Standardized Regression Weights:
+$p
+n_eggs_sta
+most_adv_sta
+0,18881858
+
+
+
+$p
+n_eggs_sta
+n_fl_sta
+0,45177945
+
+
+
+$p
+n_intact_fruits_sta
+n_eggs_sta
+-0,29350643
+
+
+
+$p
+n_intact_fruits_sta
+h_shoot_sta
+-0,068860041
+
+
+
+$p
+n_intact_fruits_sta
+n_fl_sta
+0,47844797
+
+
+
+$x
+
+
+
+
+
+
+$Covariances:
+$p
+h_shoot_sta
+most_adv_sta
+0,34374255
+0,031634487
+10,86607
+
+$p
+h_shoot_sta
+n_fl_sta
+0,58877656
+0,034748615
+16,943886
+
+$p
+most_adv_sta
+n_fl_sta
+0,5452034
+0,034102583
+15,987159
+
+$x
+
+
+
+
+
+
+$Correlations:
+$p
+h_shoot_sta
+most_adv_sta
+0,34711653
+
+
+
+$p
+h_shoot_sta
+n_fl_sta
+0,59501526
+
+
+
+$p
+most_adv_sta
+n_fl_sta
+0,55081953
+
+
+
+$x
+
+
+
+
+
+
+$Variances:
+$p
+h_shoot_sta
+
+0,98999087
+0,042251781
+23,430749
+
+$p
+most_adv_sta
+
+0,99056918
+0,042276463
+23,430749
+
+$p
+n_fl_sta
+
+0,98903949
+0,042211177
+23,430749
+
+$p
+e1
+
+0,66011084
+0,028172844
+23,430749
+
+$p
+e2
+
+0,85393316
+0,036444979
+23,430749
+
+$x
+
+
+
+
+
+
+$Squared Multiple Correlations:
+$p
+n_eggs_sta
+
+0,33373174
+
+
+
+$p
+n_intact_fruits_sta
+
+0,13801394
+
+
+
+$x
+
+
+
+
+
+
+$Parameter Names
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+$model=All different
+$npar=13
+$cmin=0,5578493228
+$df=2
+$p=0,756596902
+$cmindf=0,2789246614
+$model=Saturated model
+$npar=15
+$cmin=0
+$df=0
+$model=Independence model
+$npar=5
+$cmin=1487,411155
+$df=10
+$p=0
+$cmindf=148,7411155
+$model=All different
+$rmr=0,004352972433
+$gfi=0,9997968497
+$agfi=0,9984763727
+$pgfi=0,1333062466
+$model=Saturated model
+$rmr=0
+$gfi=1
+$agfi=-1,797693135e+308
+$pgfi=-1,797693135e+308
+$model=Independence model
+$rmr=0,3131209766
+$gfi=0,6249027948
+$agfi=0,4373541922
+$pgfi=0,4166018632
+$model=All different
+$nfi=0,9996249528
+$rfi=0,9981247642
+$ifi=1,000970876
+$tli=1,004880668
+$cfi=1
+$model=Saturated model
+$nfi=1
+$rfi=-1,797693135e+308
+$ifi=1
+$tli=-1,797693135e+308
+$cfi=1
+$model=Independence model
+$nfi=0
+$rfi=0
+$ifi=0
+$tli=0
+$cfi=0
+$model=All different
+$pratio=0,2
+$pnfi=0,1999249906
+$pcfi=0,2
+$model=Saturated model
+$pratio=0
+$pnfi=0
+$pcfi=0
+$model=Independence model
+$pratio=1
+$pnfi=0
+$pcfi=0
+$model=All different
+$ncp=0
+$ncplo=0
+$ncphi=3,631080627
+$model=Saturated model
+$ncp=0
+$ncplo=0
+$ncphi=0
+$model=Independence model
+$ncp=1477,411155
+$ncplo=1354,387794
+$ncphi=1607,797035
+$model=All different
+$fmin=0,0005080594925
+$f0=0
+$f0lo=0
+$f0hi=0,003306995107
+$model=Saturated model
+$fmin=0
+$f0=0
+$f0lo=0
+$f0hi=0
+$model=Independence model
+$fmin=1,354654969
+$f0=1,3455475
+$f0lo=1,233504367
+$f0hi=1,464296025
+$model=All different
+$rmsea=0
+$rmsealo=0
+$rmseahi=0,04066322114
+$pclose=0,977895303
+$model=Independence model
+$rmsea=0,3668170526
+$rmsealo=0,3512128082
+$rmseahi=0,3826612111
+$pclose=2,858473713e-006
+$model=All different
+$aic=26,55784932
+$bcc=26,70070647
+$bic=91,58587673
+$caic=104,5858767
+$model=Saturated model
+$aic=30
+$bcc=30,16483516
+$bic=105,0323393
+$caic=120,0323393
+$model=Independence model
+$aic=1497,411155
+$bcc=1497,466101
+$bic=1522,421935
+$caic=1527,421935
+$model=All different
+$ecvi=0,02418747661
+$ecvilo=0,02550091075
+$ecvihi=0,02880790585
+$mecvi=0,0243175833
+$model=Saturated model
+$ecvi=0,02732240437
+$ecvilo=0,02732240437
+$ecvihi=0,02732240437
+$mecvi=0,02747252747
+$model=Independence model
+$ecvi=1,363762437
+$ecvilo=1,251719303
+$ecvihi=1,482510961
+$mecvi=1,363812478
+$model=All different
+$hfive=11793
+$hone=18129
+$model=Independence model
+$hfive=14
+$hone=18
+$EndFile

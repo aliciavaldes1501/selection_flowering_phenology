@@ -1,0 +1,18 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:CDataView id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ClassLibrary1/ClassLibrary1%2C%20Version%3D1.0.2803.33573%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<m_numberOfVariableGroups>0</m_numberOfVariableGroups>
+<m_VariableGroups href="#ref-3"/>
+<m_SelectionVariable xsi:null="1"/>
+<m_SelectionValue xsi:null="1"/>
+<m_dbaseName id="ref-4">Amos May 2016</m_dbaseName>
+<m_dbaseType>1</m_dbaseType>
+<m_connectionString id="ref-5">Text</m_connectionString>
+<m_fileName id="ref-6">data10pred_Amos.txt</m_fileName>
+<m_tableName id="ref-7">data10pred_Amos#txt</m_tableName>
+<originalRawDataDirectory id="ref-8"></originalRawDataDirectory>
+</a1:CDataView>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:CDataView+CVariableGroup[0]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ClassLibrary1/ClassLibrary1%2C%20Version%3D1.0.2803.33573%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

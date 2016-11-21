@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "multifactorglm <- function(x){\n  glm(n_intact_fruits ~ n_pred_all, data=data10, family=\"poisson\")\n}\napply(data10, data10$LokalID, multifactorglm)\n\n\n\nby(subset(data10,predator==1),subset(data10,predator==1)$LokalID,function(x)  r.squaredLR(glm(n_intact_fruits ~ n_pred_all, family=\"poisson\",data = x)))\nby(subset(data11,Predator==1),subset(data11,Predator==1)$LokalID,function(x)  r.squaredLR(glm(n_intact_fruits ~ n_pred_all, family=\"poisson\",data = x)))\n\n\n\nr.squaredLR(glm(n_intact_fruits ~ n_pred_all, family=\"poisson\",data =data10))\n",
+    "created" : 1475247263910.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1767559452",
+    "id" : "99AA60C3",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1475248998895,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,901 @@
+predator	LokalID	Lokal	Individ	n_shoots	h_shoot	n_fl	phen_index	most_adv	n_intact_fruits
+0	Ale010	Stora Kroksjön Ö stranden	1	1	27,6	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	2	2	15,6	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	3	1	19,8	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	4	1	20,6	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	5	1	30,2	3	2,666666667	4	0
+0	Ale010	Stora Kroksjön Ö stranden	6	3	20,6	2	2	3	1
+0	Ale010	Stora Kroksjön Ö stranden	7	1	20,5	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	8	3	18,2	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	9	1	22	2	1,5	2	0
+0	Ale010	Stora Kroksjön Ö stranden	10	1	31,7	5	3	5	0
+0	Ale010	Stora Kroksjön Ö stranden	11	1	35,1	3	3,333333333	4	3
+0	Ale010	Stora Kroksjön Ö stranden	12	1	19,2	2	3,5	5	0
+0	Ale010	Stora Kroksjön Ö stranden	13	1	20,3	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	14	1	18,6	3	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	15	1	15,4	1	3	3	1
+0	Ale010	Stora Kroksjön Ö stranden	16	1	22,9	2	2,5	4	1
+0	Ale010	Stora Kroksjön Ö stranden	17	2	12	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	18	2	15,3	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	19	1	13,5	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	20	2	19,7	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	21	1	17,6	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	22	1	29,2	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	23	1	22	1	3	3	2
+0	Ale010	Stora Kroksjön Ö stranden	24	1	25,6	3	2,666666667	4	3
+0	Ale010	Stora Kroksjön Ö stranden	25	2	16,4	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	26	1	28,5	2	3	4	0
+0	Ale010	Stora Kroksjön Ö stranden	27	2	30,2	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	28	2	31,5	2	2	3	1
+0	Ale010	Stora Kroksjön Ö stranden	29	1	22,8	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	30	1	31,1	2	1,5	2	1
+0	Ale010	Stora Kroksjön Ö stranden	31	4	24,1	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	32	2	24	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	33	1	18,3	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	34	2	13,3	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	35	1	15,7	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	36	3	26,6	4	1,25	2	2
+0	Ale010	Stora Kroksjön Ö stranden	37	1	16,5	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	38	1	15,2	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	39	2	18,5	2	1,5	2	0
+0	Ale010	Stora Kroksjön Ö stranden	40	1	26,9	2	3	4	2
+0	Ale010	Stora Kroksjön Ö stranden	41	1	27,1	3	3,333333333	5	0
+0	Ale010	Stora Kroksjön Ö stranden	42	2	23	2	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	43	1	33,2	3	2,333333333	3	0
+0	Ale010	Stora Kroksjön Ö stranden	44	3	22,1	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	45	8	27,8	1	3	3	0
+0	Ale010	Stora Kroksjön Ö stranden	46	3	14,3	1	3	3	0
+0	Ale010	Stora Kroksjön Ö stranden	47	1	21,3	3	2	2	2
+0	Ale010	Stora Kroksjön Ö stranden	48	2	19,6	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	49	1	32,7	2	3	4	0
+0	Ale010	Stora Kroksjön Ö stranden	50	2	27	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	51	3	18,4	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	52	2	33,9	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	53	2	27,1	4	2,5	4	0
+0	Ale010	Stora Kroksjön Ö stranden	54	2	17	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	55	1	30,5	2	2,5	4	1
+0	Ale010	Stora Kroksjön Ö stranden	56	3	21	2	3	4	0
+0	Ale010	Stora Kroksjön Ö stranden	57	1	26,2	3	2	3	0
+0	Ale010	Stora Kroksjön Ö stranden	58	3	15,1	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	59	3	23,9	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	60	2	21,4	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	61	2	23,2	2	2,5	4	1
+0	Ale010	Stora Kroksjön Ö stranden	62	1	20,5	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	63	3	32,5	2	2,5	3	1
+0	Ale010	Stora Kroksjön Ö stranden	64	2	24,6	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	65	1	16,9	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	66	3	19,2	1	4	4	1
+0	Ale010	Stora Kroksjön Ö stranden	67	3	27,4	2	1,5	2	2
+0	Ale010	Stora Kroksjön Ö stranden	68	1	25,8	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	69	2	28,3	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	70	2	30,6	3	2,666666667	4	3
+0	Ale010	Stora Kroksjön Ö stranden	71	3	34,7	3	2	3	4
+0	Ale010	Stora Kroksjön Ö stranden	72	1	16,2	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	73	2	14	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	74	1	19,2	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	75	1	17,2	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	76	3	15,2	2	1,5	2	0
+0	Ale010	Stora Kroksjön Ö stranden	77	1	16,6	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	78	1	19,3	2	2,5	3	1
+0	Ale010	Stora Kroksjön Ö stranden	79	2	20,2	2	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	80	3	21	2	1,5	2	0
+0	Ale010	Stora Kroksjön Ö stranden	81	3	30	3	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	82	2	25	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	83	2	14	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	84	1	19,2	2	1,5	2	0
+0	Ale010	Stora Kroksjön Ö stranden	85	1	18,5	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	86	2	15,6	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	87	5	22,7	1	3	3	0
+0	Ale010	Stora Kroksjön Ö stranden	88	2	24,3	1	2	2	1
+0	Ale010	Stora Kroksjön Ö stranden	89	2	24,7	2	1,5	2	1
+0	Ale010	Stora Kroksjön Ö stranden	90	2	29,9	3	1,666666667	3	0
+0	Ale010	Stora Kroksjön Ö stranden	91	1	26	2	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	92	1	17,2	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	93	2	25,7	2	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	94	4	21,2	1	2	2	0
+0	Ale010	Stora Kroksjön Ö stranden	95	1	15,4	3	2	3	0
+0	Ale010	Stora Kroksjön Ö stranden	96	2	26,8	3	1,666666667	3	0
+0	Ale010	Stora Kroksjön Ö stranden	97	1	12,7	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	98	2	12,9	1	1	1	1
+0	Ale010	Stora Kroksjön Ö stranden	99	2	12,9	1	1	1	0
+0	Ale010	Stora Kroksjön Ö stranden	100	1	17,4	2	2,5	3	1
+0	Bor012	Strand på Näsudden i Frisjön	1	3	16,1	2	3,5	5	0
+0	Bor012	Strand på Näsudden i Frisjön	2	4	14,1	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	3	4	17,2	3	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	4	2	31	2	2,5	3	1
+0	Bor012	Strand på Näsudden i Frisjön	5	4	12,1	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	6	2	14,1	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	7	2	28,5	3	3	5	1
+0	Bor012	Strand på Näsudden i Frisjön	8	5	25	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	9	3	17,2	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	10	2	12,1	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	11	8	25,4	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	12	4	24,7	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	13	2	26,5	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	14	6	22,5	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	15	2	22,6	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	16	8	22,9	1	5	5	1
+0	Bor012	Strand på Näsudden i Frisjön	17	4	16,5	1	2	2	0
+0	Bor012	Strand på Näsudden i Frisjön	18	6	22,5	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	19	5	40,6	2	2,5	3	2
+0	Bor012	Strand på Näsudden i Frisjön	20	4	30,5	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	21	9	28	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	22	6	31	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	23	4	15,3	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	24	8	25,6	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	25	1	31,1	2	3,5	5	2
+0	Bor012	Strand på Näsudden i Frisjön	26	2	37,5	2	3	4	1
+0	Bor012	Strand på Näsudden i Frisjön	27	6	33,7	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	28	4	30,5	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	29	6	24,7	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	30	12	30	2	4	5	2
+0	Bor012	Strand på Näsudden i Frisjön	31	10	22,7	1	1	1	1
+0	Bor012	Strand på Näsudden i Frisjön	32	3	17,6	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	33	3	26,5	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	34	6	29,8	2	3	5	1
+0	Bor012	Strand på Näsudden i Frisjön	35	4	24,1	3	3	5	2
+0	Bor012	Strand på Näsudden i Frisjön	36	8	26,6	3	2	4	0
+0	Bor012	Strand på Näsudden i Frisjön	37	2	9,4	1	2	2	0
+0	Bor012	Strand på Näsudden i Frisjön	38	3	14,6	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	39	4	29,6	4	2,5	4	2
+0	Bor012	Strand på Näsudden i Frisjön	40	2	27,7	2	3	4	1
+0	Bor012	Strand på Näsudden i Frisjön	41	2	25,5	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	42	3	22,1	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	43	2	15,2	1	2	2	0
+0	Bor012	Strand på Näsudden i Frisjön	44	5	24,3	3	2,333333333	3	1
+0	Bor012	Strand på Näsudden i Frisjön	45	4	21	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	46	3	17,7	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	47	2	21,1	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	48	3	11,2	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	49	4	21,2	2	3,5	5	1
+0	Bor012	Strand på Näsudden i Frisjön	50	2	13,2	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	51	2	16,8	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	52	1	10,1	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	53	6	15,5	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	54	1	22	2	3,5	5	0
+0	Bor012	Strand på Näsudden i Frisjön	55	2	15,9	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	56	2	21,6	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	57	2	10,5	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	58	2	14,4	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	59	5	10,9	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	60	2	18,4	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	61	2	16,1	2	3	4	2
+0	Bor012	Strand på Näsudden i Frisjön	62	5	19,2	2	2,5	4	1
+0	Bor012	Strand på Näsudden i Frisjön	63	1	13,8	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	64	3	15,2	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	65	2	13,3	1	1	1	1
+0	Bor012	Strand på Näsudden i Frisjön	66	3	17,2	1	4	4	0
+0	Bor012	Strand på Näsudden i Frisjön	67	2	18	2	3	4	2
+0	Bor012	Strand på Näsudden i Frisjön	68	8	15,5	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	69	3	19,3	2	3	4	1
+0	Bor012	Strand på Näsudden i Frisjön	70	2	25,7	2	3	4	1
+0	Bor012	Strand på Näsudden i Frisjön	71	2	27,2	4	2,5	4	0
+0	Bor012	Strand på Näsudden i Frisjön	72	3	24,5	2	3	4	0
+0	Bor012	Strand på Näsudden i Frisjön	73	3	17	1	3	3	0
+0	Bor012	Strand på Näsudden i Frisjön	74	3	23	1	4	4	1
+0	Bor012	Strand på Näsudden i Frisjön	75	1	20,7	3	2,666666667	4	0
+0	Bor012	Strand på Näsudden i Frisjön	76	3	19	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	77	3	11,9	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	78	3	17,3	2	3	4	2
+0	Bor012	Strand på Näsudden i Frisjön	79	4	11,6	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	80	4	16,5	2	3	4	1
+0	Bor012	Strand på Näsudden i Frisjön	81	2	15	1	4	4	0
+0	Bor012	Strand på Näsudden i Frisjön	82	4	16,8	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	83	4	17,2	3	2,333333333	4	1
+0	Bor012	Strand på Näsudden i Frisjön	84	1	8,7	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	85	2	17,7	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	86	4	13,8	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	87	4	13	1	2	2	0
+0	Bor012	Strand på Näsudden i Frisjön	88	3	10,3	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	89	1	22,3	2	2	3	0
+0	Bor012	Strand på Näsudden i Frisjön	90	2	7,7	2	1,5	2	0
+0	Bor012	Strand på Näsudden i Frisjön	91	2	14,1	1	3	3	1
+0	Bor012	Strand på Näsudden i Frisjön	92	4	6,3	1	2	2	0
+0	Bor012	Strand på Näsudden i Frisjön	93	2	16,7	2	2	3	2
+0	Bor012	Strand på Näsudden i Frisjön	94	3	26,5	1	2	2	1
+0	Bor012	Strand på Näsudden i Frisjön	95	5	11,3	1	5	5	0
+0	Bor012	Strand på Näsudden i Frisjön	96	4	15,1	1	5	5	1
+0	Bor012	Strand på Näsudden i Frisjön	97	5	17,8	1	1	1	0
+0	Bor012	Strand på Näsudden i Frisjön	98	7	19,7	1	1	1	1
+0	Bor012	Strand på Näsudden i Frisjön	99	1	14,9	2	1,5	2	1
+0	Bor012	Strand på Näsudden i Frisjön	100	2	19,6	3	2,333333333	3	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	1	2	40,6	5	1,2	2	3
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	2	4	14,8	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	3	3	12,4	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	4	1	25,7	2	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	5	2	19,4	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	6	4	17,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	7	2	15,5	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	8	2	29,5	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	9	3	29	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	10	1	31,2	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	11	2	22,1	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	12	4	20,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	13	1	16,7	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	14	4	22,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	15	3	19,5	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	16	3	22,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	17	2	18,5	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	18	1	24,9	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	19	2	28,5	2	1,5	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	20	2	22,3	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	21	2	16,7	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	22	2	23	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	23	2	20	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	24	3	19,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	25	3	24	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	26	2	10,5	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	27	1	19	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	28	2	15,4	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	29	3	17,2	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	30	3	12,3	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	31	6	22,5	1	3	3	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	32	3	14,3	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	33	1	12,8	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	34	6	19,2	1	3	3	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	35	2	20	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	36	4	17,6	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	37	3	17,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	38	1	14,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	39	2	15	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	40	2	15,8	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	41	3	12,9	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	42	3	23,7	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	43	2	33,5	2	2,5	3	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	44	1	30,5	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	45	2	24,3	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	46	3	26,2	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	47	1	37,1	3	2,333333333	3	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	48	2	40,4	4	2,5	4	3
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	49	2	21,7	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	50	1	18,4	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	51	2	32,2	2	2,5	3	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	52	3	24,5	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	53	2	27,5	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	54	2	19,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	55	3	20,3	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	56	6	17,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	57	1	24,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	58	1	18,9	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	59	1	21,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	60	1	19	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	61	2	22,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	62	5	26,6	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	63	2	20	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	64	1	25,8	1	1	1	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	65	2	25,3	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	66	3	23,3	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	67	1	21	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	68	3	27	1	2	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	69	2	29,1	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	70	2	21,7	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	71	4	22	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	72	1	35,5	2	1,5	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	73	1	26,5	2	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	74	1	25	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	75	1	37,7	3	2,333333333	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	76	4	34	3	1,333333333	2	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	77	3	32,8	3	3	4	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	78	3	30	3	2	3	2
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	79	1	30,3	2	2	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	80	2	38,3	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	81	2	38,3	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	82	1	14,8	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	83	2	9,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	84	2	10,1	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	85	3	19,9	2	1,5	2	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	86	2	11,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	87	1	15	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	88	2	20,2	2	2,5	3	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	89	1	17,2	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	90	2	22,8	2	1,5	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	91	2	17,1	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	92	2	14	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	93	7	16,2	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	94	7	15,7	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	95	2	14,5	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	96	8	11,2	1	1	1	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	97	7	24,6	4	2,75	5	4
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	98	2	17,7	1	3	3	1
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	99	2	19,5	1	2	2	0
+0	Mar001	400 m norr om Härsnäs, Härsjön vid utloppet	100	12	29,1	3	2,666666667	4	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	1	10	21,8	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	2	3	14,3	1	1	1	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	3	5	20,9	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	4	3	16,4	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	5	1	6,7	1	1	1	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	6	3	26,6	3	2	3	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	7	3	13,1	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	8	5	25,8	3	2	3	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	9	4	28,6	3	1,333333333	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	10	3	20,6	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	11	6	27,8	3	2	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	12	11	23,6	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	13	3	19	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	14	9	25,1	2	2	3	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	15	5	20,6	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	16	4	26,2	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	17	7	29,2	2	3	4	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	18	3	14,1	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	19	1	17,6	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	20	8	26,2	4	2,75	4	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	21	3	23,8	2	2,5	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	22	12	22,4	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	23	1	16,3	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	24	4	24,8	4	2	3	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	25	5	24,6	2	2,5	4	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	26	1	18,7	2	2	3	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	27	5	20,7	3	1,333333333	2	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	28	4	19,3	3	1,333333333	2	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	29	9	18,9	3	1,666666667	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	30	5	22,3	3	1,333333333	2	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	31	3	22,2	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	32	12	25,5	4	2,5	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	33	5	22,2	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	34	4	23,7	2	3,5	4	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	35	2	31,6	3	1,333333333	2	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	36	8	20,6	2	2	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	37	4	25,6	5	2	3	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	38	6	29,6	6	2,166666667	4	6
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	39	2	21,3	3	2,333333333	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	40	2	19,1	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	41	9	24,6	4	2,5	4	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	42	3	16,7	3	1,666666667	3	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	43	4	18,1	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	44	3	12,3	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	45	4	12,7	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	46	17	34,2	5	2,6	4	5
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	47	4	25,2	2	3	4	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	48	1	19,1	2	1	1	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	49	3	19,2	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	50	11	26,6	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	51	11	30,8	3	3,333333333	5	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	52	6	16,5	1	1	1	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	53	10	33,2	5	2,6	4	6
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	54	5	25,6	2	3	4	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	55	9	31,7	4	2,25	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	56	9	28,1	5	2,6	4	5
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	57	6	22,4	3	3	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	58	9	21,8	2	4	5	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	59	8	25,9	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	60	20	27,9	1	3	3	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	61	5	19,5	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	62	3	26,2	2	2,5	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	63	6	29,1	3	3	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	64	6	20,9	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	65	3	24	3	2,333333333	4	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	66	6	26,8	5	3	5	5
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	67	8	25,3	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	68	5	20,1	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	69	8	30,3	4	2	3	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	70	7	27,7	3	2	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	71	6	31,5	6	3	5	6
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	72	4	31,1	2	1,5	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	73	5	29,3	6	2,166666667	3	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	74	5	26	3	1,666666667	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	75	7	28,1	4	2,25	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	76	5	21,5	2	3	5	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	77	5	25,2	2	2,5	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	78	24	22,1	2	4	5	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	79	7	29	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	80	4	27,5	3	3,333333333	4	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	81	5	31,7	7	3,714285714	5	6
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	82	2	26,1	4	1,75	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	83	9	27,2	2	2,5	4	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	84	2	29,2	7	2,571428571	5	7
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	85	3	22,9	2	2,5	3	2
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	86	3	19,1	1	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	87	4	21,6	2	2	2	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	88	5	20,5	5	1,8	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	89	6	24,6	3	1,666666667	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	90	2	15,6	1	1	1	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	91	4	24,3	3	2,333333333	3	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	92	3	14,3	1	1	1	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	93	15	27,9	4	3,25	5	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	94	3	35,6	3	4,333333333	5	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	95	3	27,1	2	2,5	3	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	96	5	31,5	4	3,25	4	4
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	97	6	29	3	3	4	1
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	98	3	29	3	2,333333333	4	3
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	99	4	22	3	3,666666667	5	0
+0	Sve001	150 m nordnordväst om HJORTÅS. Strand	100	3	23	3	2,333333333	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	1	4	13,7	3	4	5	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	2	4	18,6	3	2	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	3	4	17,2	2	2,5	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	4	4	15,3	4	2,5	5	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	5	3	10	1	3	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	6	4	10,4	1	4	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	7	4	13,2	3	2	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	8	3	11	2	2,5	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	9	1	10,4	2	2	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	10	2	13	2	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	11	1	10,7	2	1,5	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	12	4	11,8	4	1,25	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	13	5	14	3	1,333333333	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	14	4	12	2	3	4	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	15	3	12,8	2	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	16	2	17,5	5	1,6	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	17	4	14	2	2	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	18	3	12,6	2	2	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	19	5	11	1	4	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	20	4	21,3	2	1,5	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	21	3	21,3	3	2,666666667	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	22	3	17,9	2	2,5	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	23	1	15,6	3	3,333333333	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	24	3	11,9	1	2	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	25	6	17,4	3	2,333333333	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	26	5	13,3	2	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	27	4	12	3	2	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	28	4	20	4	1,5	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	29	3	10,9	3	3	5	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	30	3	17,1	3	1,333333333	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	31	3	12,2	3	1,666666667	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	32	3	16,9	3	1,333333333	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	33	3	21,1	3	2,333333333	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	34	2	16	2	1,5	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	35	2	20,2	4	1,5	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	36	3	19,2	3	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	37	4	11,2	2	1,5	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	38	1	15,4	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	39	3	19,3	3	2,666666667	4	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	40	2	8	1	2	2	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	41	2	7,7	1	1	1	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	42	4	10,6	3	1,666666667	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	43	7	10,3	2	2	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	44	5	11,9	2	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	45	6	14,9	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	46	5	9,2	1	3	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	47	3	10,1	2	1	1	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	48	3	9,8	2	1	1	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	49	6	15,9	2	2,5	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	50	3	12,6	1	3	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	51	6	10,2	3	1,333333333	2	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	52	7	12,3	1	4	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	53	2	14,4	1	4	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	54	3	11,3	1	2	2	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	55	3	9,9	3	1,333333333	2	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	56	3	14,1	3	2	3	4
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	57	3	13,9	3	1,666666667	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	58	3	14,5	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	59	1	9,6	2	1,5	2	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	60	12	18	7	2,285714286	5	7
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	61	3	12,1	2	2	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	62	9	13,5	3	2,666666667	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	63	3	19,2	4	2,75	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	64	3	13,2	2	2	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	65	9	24,3	6	1,333333333	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	66	2	15,5	2	3	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	67	6	14,7	2	2	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	68	2	24,8	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	69	2	17,3	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	70	3	17,9	3	1,666666667	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	71	10	9,7	1	3	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	72	4	25,5	3	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	73	9	23,8	5	1,6	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	74	3	14,5	3	1,666666667	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	75	4	18,9	4	2,75	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	76	4	15,1	2	1,5	2	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	77	2	13,6	9	1,333333333	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	78	5	10	4	1,25	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	79	1	9,3	2	1	1	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	80	3	17,4	5	1,2	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	81	5	17,7	2	3	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	82	4	20,8	3	2,333333333	3	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	83	2	15,1	3	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	84	6	23,2	3	3	5	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	85	5	14,4	4	2,75	5	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	86	7	18,6	2	3	4	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	87	10	19	3	1,333333333	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	88	3	17,4	2	3	4	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	89	3	7,8	1	3	3	1
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	90	3	15,3	2	1,5	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	91	3	8,7	1	2	2	0
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	92	5	23,8	4	1,5	3	4
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	93	5	13,4	2	1,5	2	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	94	5	21,8	4	2	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	95	4	23,3	6	1,666666667	3	5
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	96	5	9,9	6	2,5	4	6
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	97	4	17,8	3	2,333333333	3	3
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	98	3	20,9	2	2,5	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	99	3	20,6	3	1,666666667	3	2
+0	Sve005	500 m östsydöst om TOVHULT. Strand (Kalvsjön)	100	4	21,7	4	1,75	3	3
+0	Sve011	KALV CAMPING Ö	1	4	28	4	1,75	3	4
+0	Sve011	KALV CAMPING Ö	2	2	30,3	2	4	5	2
+0	Sve011	KALV CAMPING Ö	3	6	25,4	2	4	5	2
+0	Sve011	KALV CAMPING Ö	4	3	13,4	1	2	2	0
+0	Sve011	KALV CAMPING Ö	5	2	23,3	1	3	3	1
+0	Sve011	KALV CAMPING Ö	6	5	21,5	1	3	3	1
+0	Sve011	KALV CAMPING Ö	7	3	16,5	1	2	2	1
+0	Sve011	KALV CAMPING Ö	8	5	22,6	3	3	4	3
+0	Sve011	KALV CAMPING Ö	9	6	26,2	2	2,5	4	2
+0	Sve011	KALV CAMPING Ö	10	3	12,6	1	1	1	1
+0	Sve011	KALV CAMPING Ö	11	2	18,2	1	1	1	1
+0	Sve011	KALV CAMPING Ö	12	3	23,2	2	4	5	2
+0	Sve011	KALV CAMPING Ö	13	10	24,7	2	4	5	1
+0	Sve011	KALV CAMPING Ö	14	3	12,2	1	1	1	1
+0	Sve011	KALV CAMPING Ö	15	9	21,3	1	1	1	1
+0	Sve011	KALV CAMPING Ö	16	4	24,2	1	2	2	1
+0	Sve011	KALV CAMPING Ö	17	5	30,6	1	4	4	1
+0	Sve011	KALV CAMPING Ö	18	8	25	1	3	3	1
+0	Sve011	KALV CAMPING Ö	19	3	28,1	1	2	2	1
+0	Sve011	KALV CAMPING Ö	20	3	18,5	1	2	2	0
+0	Sve011	KALV CAMPING Ö	21	2	12	1	1	1	0
+0	Sve011	KALV CAMPING Ö	22	2	14,4	1	1	1	0
+0	Sve011	KALV CAMPING Ö	23	2	19,7	1	1	1	0
+0	Sve011	KALV CAMPING Ö	24	3	28,9	1	2	2	1
+0	Sve011	KALV CAMPING Ö	25	6	20,3	1	4	4	1
+0	Sve011	KALV CAMPING Ö	26	4	25,2	2	2	3	2
+0	Sve011	KALV CAMPING Ö	27	5	27,2	4	1,75	4	1
+0	Sve011	KALV CAMPING Ö	28	1	25,2	1	1	1	0
+0	Sve011	KALV CAMPING Ö	29	2	23,1	1	3	3	1
+0	Sve011	KALV CAMPING Ö	30	8	24,2	4	3,25	4	4
+0	Sve011	KALV CAMPING Ö	31	4	19,1	1	3	3	1
+0	Sve011	KALV CAMPING Ö	32	14	33,7	5	3,2	5	5
+0	Sve011	KALV CAMPING Ö	33	3	22,1	3	2	3	1
+0	Sve011	KALV CAMPING Ö	34	4	25	2	3,5	4	2
+0	Sve011	KALV CAMPING Ö	35	3	24,8	1	3	3	1
+0	Sve011	KALV CAMPING Ö	36	7	26,7	3	3,666666667	5	3
+0	Sve011	KALV CAMPING Ö	37	7	23,7	1	5	5	1
+0	Sve011	KALV CAMPING Ö	38	4	24	1	3	3	1
+0	Sve011	KALV CAMPING Ö	39	7	25,1	1	4	4	1
+0	Sve011	KALV CAMPING Ö	40	35	20,5	2	3,5	4	2
+0	Sve011	KALV CAMPING Ö	41	6	21,2	1	4	4	1
+0	Sve011	KALV CAMPING Ö	42	8	22,1	1	3	3	1
+0	Sve011	KALV CAMPING Ö	43	5	25	1	3	3	1
+0	Sve011	KALV CAMPING Ö	44	11	27,2	1	3	3	0
+0	Sve011	KALV CAMPING Ö	45	4	26,5	1	2	2	1
+0	Sve011	KALV CAMPING Ö	46	4	24,3	1	4	4	1
+0	Sve011	KALV CAMPING Ö	47	13	19,3	1	3	3	1
+0	Sve011	KALV CAMPING Ö	48	7	26,5	1	3	3	1
+0	Sve011	KALV CAMPING Ö	49	5	26,4	2	2,5	3	2
+0	Sve011	KALV CAMPING Ö	50	2	31,3	4	3	4	4
+0	Sve011	KALV CAMPING Ö	51	11	27,1	2	3	4	2
+0	Sve011	KALV CAMPING Ö	52	7	29,8	3	3,666666667	5	1
+0	Sve011	KALV CAMPING Ö	53	4	21,3	1	2	2	1
+0	Sve011	KALV CAMPING Ö	54	24	19,2	1	3	3	1
+0	Sve011	KALV CAMPING Ö	55	3	15,9	3	2	3	2
+0	Sve011	KALV CAMPING Ö	56	14	26,3	2	3,5	4	2
+0	Sve011	KALV CAMPING Ö	57	5	32	2	3,5	4	2
+0	Sve011	KALV CAMPING Ö	58	7	28	3	3,666666667	5	3
+0	Sve011	KALV CAMPING Ö	59	4	22,7	2	4	5	2
+0	Sve011	KALV CAMPING Ö	60	5	22,5	1	4	4	0
+0	Sve011	KALV CAMPING Ö	61	2	17,2	1	3	3	1
+0	Sve011	KALV CAMPING Ö	62	37	31,2	4	3	4	2
+0	Sve011	KALV CAMPING Ö	63	8	22,22	2	3,5	5	2
+0	Sve011	KALV CAMPING Ö	64	5	24,1	1	4	4	0
+0	Sve011	KALV CAMPING Ö	65	9	25,6	1	3	3	1
+0	Sve011	KALV CAMPING Ö	66	6	35,4	1	1	1	1
+0	Sve011	KALV CAMPING Ö	67	3	22	1	4	4	1
+0	Sve011	KALV CAMPING Ö	68	10	24,6	1	2	2	1
+0	Sve011	KALV CAMPING Ö	69	19	21,1	1	3	3	1
+0	Sve011	KALV CAMPING Ö	70	4	16,4	1	2	2	1
+0	Sve011	KALV CAMPING Ö	71	9	21,5	1	2	2	1
+0	Sve011	KALV CAMPING Ö	72	5	15,5	1	2	2	1
+0	Sve011	KALV CAMPING Ö	73	10	21,6	1	3	3	0
+0	Sve011	KALV CAMPING Ö	74	5	20,2	1	1	1	1
+0	Sve011	KALV CAMPING Ö	75	5	25,3	1	1	1	0
+0	Sve011	KALV CAMPING Ö	76	4	25,9	1	3	3	1
+0	Sve011	KALV CAMPING Ö	77	5	20,5	1	3	3	1
+0	Sve011	KALV CAMPING Ö	78	3	26,2	1	2	2	1
+0	Sve011	KALV CAMPING Ö	79	6	16,7	1	1	1	1
+0	Sve011	KALV CAMPING Ö	80	3	27,5	2	2	3	1
+0	Sve011	KALV CAMPING Ö	81	2	25	1	1	1	1
+0	Sve011	KALV CAMPING Ö	82	3	18,5	1	1	1	1
+0	Sve011	KALV CAMPING Ö	83	7	16,8	1	2	2	1
+0	Sve011	KALV CAMPING Ö	84	2	27	1	3	3	0
+0	Sve011	KALV CAMPING Ö	85	2	15,9	1	3	3	0
+0	Sve011	KALV CAMPING Ö	86	1	24,6	1	1	1	1
+0	Sve011	KALV CAMPING Ö	87	1	26,8	1	1	1	1
+0	Sve011	KALV CAMPING Ö	88	3	22,5	1	3	3	1
+0	Sve011	KALV CAMPING Ö	89	3	18	1	1	1	1
+0	Sve011	KALV CAMPING Ö	90	2	20,4	1	1	1	1
+0	Sve011	KALV CAMPING Ö	91	4	20	2	2,5	3	2
+0	Sve011	KALV CAMPING Ö	92	3	16,2	1	1	1	0
+0	Sve011	KALV CAMPING Ö	93	11	20,2	1	1	1	0
+0	Sve011	KALV CAMPING Ö	94	4	22,7	1	2	2	1
+0	Sve011	KALV CAMPING Ö	95	9	15,2	1	1	1	0
+0	Sve011	KALV CAMPING Ö	96	2	20,1	1	2	2	1
+0	Sve011	KALV CAMPING Ö	97	6	21,2	1	4	4	1
+0	Sve011	KALV CAMPING Ö	98	2	31,1	2	2,5	3	2
+0	Sve011	KALV CAMPING Ö	99	2	16,5	1	1	1	1
+0	Sve011	KALV CAMPING Ö	100	7	23,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	1	13	18,6	3	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	2	8	13,2	2	3,5	4	0
+0	Sve013	OLSHULT. Strand, betesmark	3	7	14,1	2	2,5	3	0
+0	Sve013	OLSHULT. Strand, betesmark	4	5	12,9	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	5	3	11,4	1	4	4	1
+0	Sve013	OLSHULT. Strand, betesmark	6	4	12,1	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	7	9	11,5	2	2,5	3	0
+0	Sve013	OLSHULT. Strand, betesmark	8	5	12,7	2	2	3	0
+0	Sve013	OLSHULT. Strand, betesmark	9	7	13,3	2	2	3	0
+0	Sve013	OLSHULT. Strand, betesmark	10	4	14,6	1	5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	11	9	11,3	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	12	7	13,9	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	13	4	13,7	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	14	4	11,4	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	15	4	29,6	1	4	4	1
+0	Sve013	OLSHULT. Strand, betesmark	16	5	13,1	2	3	4	1
+0	Sve013	OLSHULT. Strand, betesmark	17	7	15,4	2	2	3	0
+0	Sve013	OLSHULT. Strand, betesmark	18	4	20,2	2	2	3	0
+0	Sve013	OLSHULT. Strand, betesmark	19	5	22,4	4	3,5	5	1
+0	Sve013	OLSHULT. Strand, betesmark	20	7	21,3	2	3,5	4	0
+0	Sve013	OLSHULT. Strand, betesmark	21	3	11,2	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	22	3	17,2	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	23	4	15,4	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	24	1	25,4	4	4	5	1
+0	Sve013	OLSHULT. Strand, betesmark	25	4	14,6	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	26	4	10,2	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	27	6	16	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	28	3	20,9	2	4	5	0
+0	Sve013	OLSHULT. Strand, betesmark	29	2	10,8	3	3,666666667	5	0
+0	Sve013	OLSHULT. Strand, betesmark	30	3	17,3	3	1,666666667	3	0
+0	Sve013	OLSHULT. Strand, betesmark	31	4	14,6	2	4	5	2
+0	Sve013	OLSHULT. Strand, betesmark	32	9	14,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	33	1	19,6	2	3,5	4	0
+0	Sve013	OLSHULT. Strand, betesmark	34	3	12,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	35	6	13,1	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	36	4	9,5	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	37	6	22,2	1	5	5	1
+0	Sve013	OLSHULT. Strand, betesmark	38	1	24,7	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	39	2	20,3	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	40	4	24,2	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	41	7	24,9	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	42	2	30	2	4	5	1
+0	Sve013	OLSHULT. Strand, betesmark	43	12	22	2	3	5	0
+0	Sve013	OLSHULT. Strand, betesmark	44	4	22,6	3	4	5	1
+0	Sve013	OLSHULT. Strand, betesmark	45	4	15,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	46	3	18,7	1	4	4	1
+0	Sve013	OLSHULT. Strand, betesmark	47	4	17,6	1	2	2	1
+0	Sve013	OLSHULT. Strand, betesmark	48	2	17,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	49	4	15,1	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	50	4	16,4	2	1,5	2	0
+0	Sve013	OLSHULT. Strand, betesmark	51	5	14,7	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	52	2	10,2	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	53	4	22,2	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	54	3	17,2	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	55	4	15	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	56	4	15,3	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	57	4	15,6	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	58	4	30,5	2	4	5	1
+0	Sve013	OLSHULT. Strand, betesmark	59	4	30,3	2	4,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	60	3	15,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	61	3	21,2	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	62	2	26,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	63	4	28,1	3	2,666666667	4	0
+0	Sve013	OLSHULT. Strand, betesmark	64	7	16,9	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	65	3	20,9	2	3,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	66	11	24	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	67	3	26	4	3,25	5	0
+0	Sve013	OLSHULT. Strand, betesmark	68	5	18	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	69	4	16,9	1	5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	70	2	22	2	3,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	71	3	27,5	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	72	3	30,5	4	3,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	73	9	18,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	74	2	20,3	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	75	2	20	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	76	9	21,1	1	5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	77	3	17,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	78	3	15,6	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	79	6	9,9	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	80	5	20,6	2	2,5	3	0
+0	Sve013	OLSHULT. Strand, betesmark	81	3	18,7	2	2,5	3	0
+0	Sve013	OLSHULT. Strand, betesmark	82	3	15,1	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	83	4	21,1	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	84	5	15,6	1	1	1	0
+0	Sve013	OLSHULT. Strand, betesmark	85	3	24,7	2	3,5	5	1
+0	Sve013	OLSHULT. Strand, betesmark	86	6	22,5	2	4	5	1
+0	Sve013	OLSHULT. Strand, betesmark	87	3	22,4	3	2,333333333	4	1
+0	Sve013	OLSHULT. Strand, betesmark	88	4	17,7	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	89	2	28,3	2	3,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	90	13	21,7	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	91	4	17,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	92	2	18,6	2	3	4	0
+0	Sve013	OLSHULT. Strand, betesmark	93	14	20,1	2	3,5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	94	13	12,6	1	2	2	0
+0	Sve013	OLSHULT. Strand, betesmark	95	4	15	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	96	3	16,4	1	3	3	0
+0	Sve013	OLSHULT. Strand, betesmark	97	4	18,3	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	98	5	13	1	4	4	0
+0	Sve013	OLSHULT. Strand, betesmark	99	3	21,8	1	5	5	0
+0	Sve013	OLSHULT. Strand, betesmark	100	6	12,3	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	1	2	34,5	6	2,166666667	3	6
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	2	2	25,6	4	3	5	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	3	2	22,6	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	4	3	28,5	2	2	3	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	5	4	31,9	2	1,5	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	6	3	26,2	2	1,5	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	7	1	23,7	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	8	4	25,6	2	1,5	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	9	2	23,3	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	10	2	28,6	3	2,666666667	4	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	11	3	18,7	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	12	2	26,2	3	1,666666667	3	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	13	3	18,9	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	14	3	37,5	4	3	5	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	15	6	24,4	2	3,5	5	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	16	3	23,9	1	4	4	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	17	3	25,7	3	4	5	3
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	18	5	24,6	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	19	4	23,6	1	2	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	20	5	21,2	1	2	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	21	1	23,2	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	22	2	29,2	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	23	4	27,5	2	2,5	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	24	3	23,5	2	2	3	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	25	3	23	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	26	3	28,7	1	3	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	27	2	24,5	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	28	3	21,4	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	29	3	22,4	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	30	1	28,1	2	3,5	5	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	31	2	18,4	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	32	2	18,6	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	33	3	19,4	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	34	3	23,8	2	2,5	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	35	1	27	2	3	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	36	6	16,6	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	37	2	26,9	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	38	4	22,6	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	39	5	31	2	3	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	40	3	28,1	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	41	3	18,3	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	42	2	32,6	4	2,5	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	43	3	32,5	3	2	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	44	2	33,2	2	2	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	45	2	20	1	3	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	46	1	28,5	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	47	2	26,5	2	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	48	2	36,7	3	3,666666667	4	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	49	2	27,4	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	50	3	27,1	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	51	3	24,9	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	52	3	35,4	1	1	1	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	53	1	26,1	2	1,5	2	2
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	54	4	36,5	3	2,666666667	4	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	55	2	30,3	1	4	4	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	56	4	25	2	3	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	57	3	30,2	1	5	5	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	58	1	33,2	2	1,5	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	59	2	26	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	60	3	28,6	3	1,333333333	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	61	4	30,9	2	2,5	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	62	3	40,1	6	1,833333333	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	63	5	17,7	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	64	3	21,3	3	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	65	3	17,8	1	4	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	66	6	27,6	1	2	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	67	3	32,1	3	2,333333333	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	68	3	21,5	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	69	3	35,7	4	1,75	3	3
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	70	5	16,1	1	5	5	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	71	2	25,5	2	1,5	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	72	1	14,4	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	73	1	34,4	6	2,833333333	5	3
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	74	3	20,6	1	5	5	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	75	1	31,7	3	2,333333333	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	76	1	17,8	1	1	1	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	77	2	29,3	3	1,333333333	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	78	1	28,9	1	3	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	79	1	12,6	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	80	2	8,5	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	81	4	13,5	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	82	3	22,9	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	83	2	21,7	2	1,5	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	84	4	20,6	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	85	8	19,7	2	1,5	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	86	2	17,3	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	87	4	30	2	3	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	88	5	19,5	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	89	2	19,6	2	1,5	2	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	90	2	18,6	1	3	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	91	3	24,8	3	3	5	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	92	3	33	4	2,5	4	3
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	93	2	18,7	1	1	1	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	94	1	26,1	3	2,333333333	4	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	95	3	26,7	3	2,333333333	3	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	96	2	19,9	1	3	3	1
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	97	2	14,2	2	2	3	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	98	3	14,7	1	2	2	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	99	2	17	3	4	5	0
+0	Tra001	400 m sydväst om BLÅBO. Strand, sjö (Marjebosjön)	100	2	21,1	4	3	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	1	3	25,2	3	3	4	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	2	2	23,3	4	1,25	2	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	3	2	16,4	1	1	1	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	4	4	28,6	4	1,25	2	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	5	9	21,8	4	1,5	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	6	2	21	2	1,5	2	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	7	4	23,5	1	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	8	2	19,7	2	2,5	3	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	9	2	21,5	4	2	3	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	10	2	20,6	3	1,666666667	3	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	11	3	14,4	1	2	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	12	2	11,4	1	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	13	3	31	6	3,166666667	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	14	3	21,5	2	1,5	2	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	15	1	22,8	3	3	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	16	2	28,5	5	2,4	4	5
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	17	6	27	6	3,166666667	5	5
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	18	6	19,6	6	4,5	5	6
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	19	4	16,1	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	20	3	18,6	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	21	9	19,9	2	4	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	22	2	19,22	1	4	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	23	1	16,4	1	2	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	24	4	24,1	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	25	3	31,1	1	3	3	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	26	1	14	1	4	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	27	1	17,5	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	28	1	29,3	3	2,666666667	4	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	29	4	13,9	1	1	1	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	30	4	21,3	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	31	3	16,2	2	3	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	32	4	26,2	2	3,5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	33	3	27,5	6	3,5	5	6
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	34	2	34,3	3	2	4	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	35	2	23,5	1	5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	36	4	20,2	4	2,75	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	37	2	17,3	1	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	38	4	21	1	3	3	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	39	2	24,6	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	40	3	32	4	3	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	41	3	36,8	1	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	42	2	12,3	1	2	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	43	2	20	2	4	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	44	1	15,2	1	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	45	2	19,3	1	5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	46	5	30,3	7	2,857142857	5	7
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	47	2	30	4	3	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	48	4	32,5	3	2,333333333	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	49	5	23,3	3	2,666666667	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	50	7	29,7	4	3	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	51	3	34,6	5	3,2	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	52	6	35,3	4	3,5	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	53	9	29,2	2	4	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	54	3	31	3	3,333333333	4	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	55	1	16,3	1	3	3	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	56	4	15,6	3	3	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	57	4	28,1	2	3	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	58	3	26,5	1	2	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	59	5	30	5	2	4	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	60	3	29,6	4	3,75	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	61	3	29,2	4	3,5	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	62	5	31,7	4	3,25	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	63	5	31,5	4	2,75	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	64	2	24,2	4	2	4	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	65	3	23,6	4	3	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	66	3	24,8	2	2,5	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	67	2	29	1	3	3	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	68	3	25,9	1	5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	69	2	23,9	1	4	4	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	70	5	27,3	2	2,5	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	71	4	24,2	2	3,5	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	72	3	26,5	2	4	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	73	2	30,2	2	4	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	74	5	32,2	4	3,75	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	75	8	25,1	2	3,5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	76	4	28,1	6	3,333333333	5	6
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	77	4	24,3	1	5	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	78	18	31,1	3	3	5	3
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	79	3	25,7	4	3,25	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	80	3	28,2	1	3	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	81	5	32,2	6	2,666666667	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	82	7	25,2	6	3,666666667	5	7
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	83	5	35,3	8	2,625	5	8
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	84	9	25,2	4	3,5	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	85	7	24,2	3	2,333333333	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	86	5	35,6	5	2,2	4	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	87	7	29,5	5	3	5	2
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	88	11	30,5	7	3,714285714	5	6
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	89	8	15,9	1	4	4	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	90	3	19,2	5	4,4	5	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	91	3	24,7	1	5	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	92	2	32	4	2,75	4	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	93	11	27,2	6	2,333333333	4	4
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	94	8	28,2	4	3,5	5	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	95	6	23,5	1	5	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	96	3	30,2	3	3,333333333	5	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	97	4	26,9	2	2,5	3	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	98	3	19	2	1	1	0
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	99	6	16,6	2	2	2	1
+0	Tra002	ALGUTSTORPASJÖN. Sjöstrand	100	4	36,7	5	2,8	4	0

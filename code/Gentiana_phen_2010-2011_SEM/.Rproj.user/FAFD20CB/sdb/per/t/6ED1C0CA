@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(ggplot2)\n\ncbbPalette <- c(\"#000000\", \"#E69F00\", \"#56B4E9\", \"#F0E442\", \"#0072B2\", \n                \"#D55E00\", \"#CC79A7\",\"#CC6666\", \"#9999CC\", \"#66CC99\")\n\nggplot(data10_pred, aes(x=most_adv, y=n_eggs,color=LokalID)) +\n  geom_smooth(method=lm, se=FALSE, size=0.7,fullrange=T)+ \n  scale_x_continuous(breaks=c(0,1,2,3,4,5,6))+\n  labs(x = \"Phenology (early flowering)\", y = \"Number of eggs\")+\n  theme_bw(base_family = \"serif\")+scale_colour_manual(values=cbbPalette)\n\ncbbPalette <- c(\"#000000\", \"#E69F00\", \"#56B4E9\", \"#009E73\", \"#F0E442\", \"#0072B2\", \n                \"#D55E00\", \"#CC79A7\",\"#CC6666\", \"#9999CC\", \"#66CC99\")\n\nggplot(data11_pred, aes(x=most_adv, y=n_eggs,color=LokalID)) +\n  geom_smooth(method=lm, se=FALSE, size=0.7,fullrange=T)+ \n  scale_x_continuous(breaks=c(0,1,2,3,4,5,6))+\n    labs(x = \"Phenology (early flowering)\", y = \"Number of eggs\")+\n  theme_bw(base_family = \"serif\")+scale_colour_manual(values=cbbPalette)\n\ncbbPalette <- c(\"#000000\", \"#E69F00\", \"#56B4E9\", \"#F0E442\", \"#0072B2\", \n                \"#D55E00\", \"#CC79A7\",\"#CC6666\", \"#9999CC\", \"#66CC99\")\n\nggplot(data10_pred, aes(x=phen_corr, y=n_eggs,color=LokalID)) +\n  geom_smooth(method=lm, se=FALSE, size=0.7,fullrange=T)+ \n  scale_x_continuous(breaks=c(0,1,2,3,4,5,6,7,8))+\n  labs(x = \"Phenology (early flowering)\", y = \"Number of eggs\")+\n  theme_bw(base_family = \"serif\")+scale_colour_manual(values=cbbPalette)\n\ncbbPalette <- c(\"#000000\", \"#E69F00\", \"#56B4E9\", \"#009E73\", \"#F0E442\", \"#0072B2\", \n                \"#D55E00\", \"#CC79A7\",\"#CC6666\", \"#9999CC\", \"#66CC99\")\n\nggplot(data11_pred, aes(x=phen_corr, y=n_eggs,color=LokalID)) +\n  geom_smooth(method=lm, se=FALSE, size=0.7,fullrange=T)+ \n  scale_x_continuous(breaks=c(0,1,2,3,4,5,6,7,8))+\n  labs(x = \"Phenology (early flowering)\", y = \"Number of eggs\")+\n  theme_bw(base_family = \"serif\")+scale_colour_manual(values=cbbPalette)\n\n\n\n\n",
+    "created" : 1462878000890.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1119346533",
+    "id" : "6ED1C0CA",
+    "lastKnownWriteTime" : 1462895029,
+    "last_content_update" : 1462895029695,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011_SEM/Graph Appendix S4.R",
+    "project_path" : "Graph Appendix S4.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

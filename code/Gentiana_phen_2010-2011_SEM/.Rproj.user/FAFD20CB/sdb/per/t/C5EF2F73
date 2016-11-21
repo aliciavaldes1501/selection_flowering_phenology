@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#SEM with standardized reproductive traits\n\n#2010\n\ndata10 <- read.table(\n  \"data1_2010.txt\",\n  header=TRUE, sep=\"\\t\", na.strings=\"NA\", dec=\",\", strip.white=TRUE)\nhead(data10)\nstr(data10)\n\n#Standardize  reproductive traits\n\nmean_h_shoot<-aggregate(h_shoot~LokalID, data10, mean )\nmean_n_fl<-aggregate(n_fl~LokalID, data10, mean )\nmean_most_adv<-aggregate(most_adv~LokalID, data10, mean )\n\nsd_h_shoot<-aggregate(h_shoot~LokalID, data10, sd )\nsd_n_fl<-aggregate(n_fl~LokalID, data10, sd )\nsd_most_adv<-aggregate(most_adv~LokalID, data10, sd )\n\ndata10<-merge(data10,mean_h_shoot, by=\"LokalID\")\ndata10<-merge(data10,mean_n_fl, by=\"LokalID\")\ndata10<-merge(data10,mean_most_adv, by=\"LokalID\")\n\nhead(data10)\nnames(data10)\n\nnames(data10)[6:7]<-c(\"h_shoot\",\"n_fl\")\nnames(data10)[9]<-c(\"most_adv\")\nnames(data10)[17:19]<-c(\"h_shoot_mean\",\"n_fl_mean\",\"most_adv_mean\")\n\ndata10<-merge(data10,sd_h_shoot, by=\"LokalID\")\ndata10<-merge(data10,sd_n_fl, by=\"LokalID\")\ndata10<-merge(data10,sd_most_adv, by=\"LokalID\")\n\nnames(data10)\nnames(data10)[6:7]<-c(\"h_shoot\",\"n_fl\")\nnames(data10)[9]<-c(\"most_adv\")\nnames(data10)[20:22]<-c(\"h_shoot_sd\",\"n_fl_sd\",\"most_adv_sd\")\n\nnames(data10)\n\ndata10$h_shoot_sta<-(data10$h_shoot-data10$h_shoot_mean)/data10$h_shoot_sd\ndata10$n_fl_sta<-(data10$n_fl-data10$n_fl_mean)/data10$n_fl_sd\ndata10$most_adv_sta<-(data10$most_adv-data10$most_adv_mean)/data10$most_adv_sd\n\nsummary(data10,by=\"LokalID\")\naggregate(h_shoot_sta~LokalID, data10, sd )\naggregate(n_fl_sta~LokalID, data10, sd )\naggregate(most_adv_sta~LokalID, data10, sd )\n\n# Model 2010, eggs\n\ndata10_pred<-subset(data10,predator==1&LokalID!=\"Göt016\")\ndata10_pred$LokalID<-droplevels(data10_pred$LokalID)\ndata10_pred<-data10_pred[complete.cases(data10_pred[6:10]),]\n#Construct new variable: observation-level random effect\ndata10_pred$id<-1:1000\n\nlibrary(lmerTest)\n\nmodeleg10<-glmer.nb(n_eggs~most_adv_sta+n_fl_sta+h_shoot_sta+(1|LokalID),data=data10_pred)\nsummary(modeleg10)\nr.squaredGLMM(modeleg10)\n\nmodeleg10p<-glmer(n_eggs~most_adv_sta+n_fl_sta+h_shoot_sta+(1|LokalID)+(1|id),data=data10_pred,family=\"poisson\")\nsummary(modeleg10p)\nr.squaredGLMM(modeleg10p)\noverdisp.glmer(modeleg10p) #OK!\n\nmodelfr10<-glmer(n_intact_fruits~most_adv_sta+n_fl_sta+h_shoot_sta+n_eggs+(1|LokalID),data=data10_pred,family=\"poisson\")\nsummary(modelfr10)\nr.squaredGLMM(modelfr10)\noverdisp.glmer(modelfr10) #OK!\n\nlibrary(piecewiseSEM)\nmodel10<-list(\n  glmer(n_eggs~most_adv+n_fl+h_shoot+(1|LokalID)+(1|id),data=data10_pred,family=\"poisson\"),\n  glmer(n_intact_fruits~n_fl+h_shoot+n_eggs+(1|LokalID),data=data10_pred,family=\"poisson\")\n)\n\nsem.fit(model10,data=data10_pred,conditional=T,\n        corr.errors=c(\"most_adv_sta~~n_fl_sta\",\"most_adv_sta~~h_shoot_sta\",\"n_fl_sta~~h_shoot_sta\"))\nsem.model.fits(model10)\nsem.coefs(model10,data=data10_pred,\n          corr.errors=c(\"most_adv_sta~~n_fl_sta\",\"most_adv_sta~~h_shoot_sta\",\"n_fl_sta~~h_shoot_sta\"))\n\n#lmer for standardized coefs\nmodel10l<-list(\n  lmer(scale(n_eggs)~scale(most_adv)+scale(n_fl)+scale(h_shoot)+(1|LokalID),data=data10_pred),\n  lmer(scale(n_intact_fruits)~scale(n_fl)+scale(h_shoot)+scale(n_eggs)+(1|LokalID),data=data10_pred)\n)\nsem.fit(model10l,data=data10_pred,conditional=T,\n        corr.errors=c(\"most_adv~~n_fl\",\"most_adv~~h_shoot\",\"n_fl~~h_shoot\"))\nsem.model.fits(model10l)\nsem.coefs(model10l,data=data10_pred,\n          corr.errors=c(\"most_adv~~n_fl\",\"most_adv~~h_shoot\",\"n_fl~~h_shoot\"))\n\n",
+    "created" : 1462968455616.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3966642984",
+    "id" : "C5EF2F73",
+    "lastKnownWriteTime" : 1462983617,
+    "last_content_update" : 1463063900831,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011_SEM/SEM with std repr traits.R",
+    "project_path" : "SEM with std repr traits.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

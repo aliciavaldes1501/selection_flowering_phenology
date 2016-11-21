@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "diffphen <- read.table(\n  \"diffphen.txt\",\n  header=TRUE, sep=\"\\t\", na.strings=\"NA\", dec=\",\", strip.white=TRUE)\nhead(diffphen)\ntail(diffphen)\nsummary(diffphen)\nstr(diffphen)\n\ndiffphen$predator<-as.factor(diffphen$predator)\ndiffphen$most_adv<-as.integer(diffphen$most_adv)\n\nattach(diffphen)\n\nwith(subset(diffphen,year==2010),summary(lm(most_adv~predator+Individ%in%LokalID)))\nwith(subset(diffphen,year==2010),Anova(lm(most_adv~predator+Individ%in%LokalID),type=\"II\"))\nwith(subset(diffphen,year==2010),summary(lmer(most_adv~predator+Individ%in%LokalID+(1|Datum))))\nwith(subset(diffphen,year==2010),Anova(lmer(most_adv~predator+Individ%in%LokalID+(1|Datum)),type=\"II\"))\n\nwith(subset(diffphen,year==2011),summary(lm(most_adv~predator+Individ%in%LokalID)))\nwith(subset(diffphen,year==2011),Anova(lm(most_adv~predator+Individ%in%LokalID),type=\"II\"))\nwith(subset(diffphen,year==2011),summary(lmer(most_adv~predator+Individ%in%LokalID+(1|Datum))))\nwith(subset(diffphen,year==2011),Anova(lmer(most_adv~predator+Individ%in%LokalID+(1|Datum)),type=\"II\"))\n\n\n",
+    "created" : 1450270160562.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4068389325",
+    "id" : "B8FD967D",
+    "lastKnownWriteTime" : 1450279494,
+    "last_content_update" : 0,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011/diffphen.R",
+    "project_path" : "diffphen.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

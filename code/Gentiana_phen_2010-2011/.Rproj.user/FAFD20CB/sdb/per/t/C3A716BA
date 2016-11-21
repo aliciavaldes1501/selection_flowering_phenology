@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#glmmADMB\nlibrary(glmmADMB)\n\nmodel2eg.zi<-glmmadmb(n_eggs_max~z.shoot_h+z.diff_veg_h_mean_shoot_h+z.most_adv+\n                        z.n_fl_corrected+z.n_redants+z.avg_d_mean,random=~1|population,\n                      data=data1comp,family=\"poisson\",zeroInflation=T)\nmodel2eg.zi1<-glmmadmb(n_eggs_max~z.shoot_h+z.diff_veg_h_mean_shoot_h+z.most_adv+\n                         z.n_fl_corrected+z.n_redants+z.avg_d_mean,random=~1|population,\n                       data=data1comp,family=\"nbinom\",zeroInflation=T)\nmodel2eg.zi_f<-glmmadmb(n_eggs_max~z.shoot_h+z.diff_veg_h_mean_shoot_h+z.most_adv+\n                          z.n_fl_corrected+z.n_redants+z.avg_d_mean,random=~1|population,\n                        data=data1comp,family=\"poisson\",zeroInflation=F)\nmodel2eg.zi_f1<-glmmadmb(n_eggs_max~z.shoot_h+z.diff_veg_h_mean_shoot_h+z.most_adv+\n                           z.n_fl_corrected+z.n_redants+z.avg_d_mean,random=~1|population,\n                         data=data1comp,family=\"nbinom\",zeroInflation=F)\nsummary(model2eg.zi)\nsummary(model2eg.zi1)\nsummary(model2eg.zi_f)\nsummary(model2eg.zi_f1)\nAIC(model2eg,model2eg.zi,model2eg.zi1,model2eg.zi_f,model2eg.zi_f1)\n\n#Keep model2eg.zi1\nsummary(model2eg.zi1)\nplot(fitted(model2eg.zi1),residuals(model2eg.zi1))\nplot.glmmADMB(model2eg.zi1) #ERROR!\nqqnorm(resid(model2eg.zi1))\n",
+    "created" : 1456485284508.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "366361438",
+    "id" : "C3A716BA",
+    "lastKnownWriteTime" : 1447948866,
+    "last_content_update" : 0,
+    "path" : "D:/SU/Analyses/Field data 2015/extra_code.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

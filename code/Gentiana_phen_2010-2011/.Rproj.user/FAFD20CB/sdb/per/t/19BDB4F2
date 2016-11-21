@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#Read data\ndates <- read.table(\n  \"dates.txt\",\n  header=TRUE, sep=\"\\t\", na.strings=\"NA\", dec=\",\", strip.white=TRUE)\nhead(dates)\nsummary(dates)\nstr(dates)\ndates$year<-as.factor(dates$year)\n\nattach(dates)\n\nplot(LokalID,most_adv)\nplot(LokalID,phen_corr)\n\nlibrary(Rcmdr)\n\nplotMeans(most_adv,LokalID)\nplotMeans(phen_corr,LokalID)\n\nsummary(aov(phen_corr~LokalID))\nTukeyHSD(aov(phen_corr~LokalID))\n\ndetach(dates)\n\n\ndfc <- summarySE(dates, measurevar=\"phen_corr\", groupvars=c(\"year\",\"LokalID\"))\nlibrary(ggplot2)\n\n## set the levels in order we want\ndfc <- within(dfc,phen_corr <- factor(phen_corr, levels=names(sort(table(phen_corr), decreasing=TRUE))))\n\nggplot(dfc, aes(x=LokalID, y=phen_corr, colour=year)) + \n  geom_errorbar(aes(ymin=phen_corr-se, ymax=phen_corr+se), width=.1) +\n  geom_line() +\n  geom_point()\n\npd <- position_dodge(.1) # move them .05 to the left and right\n\ncbPalette <- c(\"#999999\",\"#000000\")\n\nggplot(dfc, aes(x=LokalID, y=phen_corr, colour=year, group=year)) + \n  geom_errorbar(aes(ymin=phen_corr-se, ymax=phen_corr+se), width=.5, position=pd) +\n  geom_line(position=pd,width=150) +\n  geom_point(position=pd, size=7, shape=20) + \n  xlab(\"LokalID\") +\n  ylab(\"Phenology (most_adv divided by Julian day)\") +\n  scale_colour_manual(values=cbPalette)+\n  theme_bw() +\n  theme(legend.justification=c(1,0), legend.position=c(1,0)) # Position legend in bottom right\n\n\n\n\n\n",
+    "created" : 1462436846101.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1355340379",
+    "id" : "19BDB4F2",
+    "lastKnownWriteTime" : 1424790515,
+    "last_content_update" : 1424790515,
+    "path" : "D:/SU/Analyses/Gentiana_phen_2010-2011/dates.R",
+    "project_path" : "dates.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

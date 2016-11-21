@@ -1,0 +1,340 @@
+$AmpVersion=6
+$DateTime1=2015-2-6-14-46-18-116
+$DateTime2=2015-2-6-14-46-18-116
+$DateTime3=2015-2-6-14-46-18-116
+$group=Group number 1
+$group=Group number 1
+$vnames
+5
+most_adv
+h_shoot
+n_fl
+n_eggs
+n_intact_fruits
+$allnames
+7
+most_adv
+h_shoot
+n_fl
+n_eggs
+n_intact_fruits
+e2
+e1
+$map
+7
+1
+2
+3
+7
+6
+0
+0
+$model=Default model
+$Convergence=Minimum was achieved
+$ModelNote
+Chi-square = 3,769
+Probability level = 0,708
+$EndNote
+$cmin=3,768610922
+$df=6
+$p=0,7079555832
+$group=Group number 1
+$Regression Weights:
+$p
+n_intact_fruits
+n_fl
+0,13136132
+0,053374991
+2,4611025
+
+$p
+n_eggs
+h_shoot
+-0,0062934518
+0,0034951172
+-1,8006411
+
+$x
+
+
+
+
+
+
+$Standardized Regression Weights:
+$p
+n_intact_fruits
+n_fl
+0,24011382
+
+
+
+$p
+n_eggs
+h_shoot
+-0,17807865
+
+
+
+$x
+
+
+
+
+
+
+$Covariances:
+$p
+n_fl
+h_shoot
+0,88588313
+0,6041388
+1,466357
+
+$p
+n_fl
+most_adv
+0,41874899
+0,12878053
+3,2516483
+
+$x
+
+
+
+
+
+
+$Correlations:
+$p
+n_fl
+h_shoot
+0,13999577
+
+
+
+$p
+n_fl
+most_adv
+0,34238409
+
+
+
+$x
+
+
+
+
+
+
+$Variances:
+$p
+n_fl
+
+1,2629379
+0,17909329
+7,051844
+
+$p
+h_shoot
+
+31,705971
+4,5064905
+7,0356236
+
+$p
+most_adv
+
+1,1844
+0,16834328
+7,0356236
+
+$p
+e1
+
+0,038344205
+0,0054500079
+7,0356236
+
+$p
+e2
+
+0,35619911
+0,050627937
+7,0356236
+
+$x
+
+
+
+
+
+
+$Squared Multiple Correlations:
+$p
+n_eggs
+
+0,031712004
+
+
+
+$p
+n_intact_fruits
+
+0,057654645
+
+
+
+$x
+
+
+
+
+
+
+$Parameter Names
+9
+
+
+
+
+
+
+
+
+
+$model=Default model
+$npar=9
+$cmin=3,768610922
+$df=6
+$p=0,7079555832
+$cmindf=0,6281018203
+$model=Saturated model
+$npar=15
+$cmin=0
+$df=0
+$model=Independence model
+$npar=5
+$cmin=26,96119252
+$df=10
+$p=0,002641408491
+$cmindf=2,696119252
+$model=Default model
+$rmr=0,1397719289
+$gfi=0,9850485135
+$agfi=0,9626212839
+$pgfi=0,3940194054
+$model=Saturated model
+$rmr=0
+$gfi=1
+$agfi=-1,797693135e+308
+$pgfi=-1,797693135e+308
+$model=Independence model
+$rmr=0,2906301377
+$gfi=0,9052586295
+$agfi=0,8578879442
+$pgfi=0,603505753
+$model=Default model
+$nfi=0,8602209113
+$rfi=0,7670348521
+$ifi=1,106453346
+$tli=1,21926417
+$cfi=1
+$model=Saturated model
+$nfi=1
+$rfi=-1,797693135e+308
+$ifi=1
+$tli=-1,797693135e+308
+$cfi=1
+$model=Independence model
+$nfi=0
+$rfi=0
+$ifi=0
+$tli=0
+$cfi=0
+$model=Default model
+$pratio=0,6
+$pnfi=0,5161325468
+$pcfi=0,6
+$model=Saturated model
+$pratio=0
+$pnfi=0
+$pcfi=0
+$model=Independence model
+$pratio=1
+$pnfi=0
+$pcfi=0
+$model=Default model
+$ncp=0
+$ncplo=0
+$ncphi=5,737678528
+$model=Saturated model
+$ncp=0
+$ncplo=0
+$ncphi=0
+$model=Independence model
+$ncp=16,96119252
+$ncplo=5,209739685
+$ncphi=36,35378265
+$model=Default model
+$fmin=0,03806677699
+$f0=0
+$f0lo=0
+$f0hi=0,05795634877
+$model=Saturated model
+$fmin=0
+$f0=0
+$f0lo=0
+$f0hi=0
+$model=Independence model
+$fmin=0,272335278
+$f0=0,171325177
+$f0lo=0,05262363318
+$f0hi=0,3672099258
+$model=Default model
+$rmsea=0
+$rmsealo=0
+$rmseahi=0,09828220318
+$pclose=0,8116251237
+$model=Independence model
+$rmsea=0,1308912438
+$rmsealo=0,07254214856
+$rmseahi=0,191627223
+$pclose=0,0153669794
+$model=Default model
+$aic=21,76861092
+$bcc=22,92990124
+$bic=45,2151426
+$caic=54,2151426
+$model=Saturated model
+$aic=30
+$bcc=31,93548387
+$bic=69,07755279
+$caic=84,07755279
+$model=Independence model
+$aic=36,96119252
+$bcc=37,60635381
+$bic=49,98704345
+$caic=54,98704345
+$model=Default model
+$ecvi=0,2198849588
+$ecvilo=0,2424242424
+$ecvihi=0,3003805912
+$mecvi=0,2316151641
+$model=Saturated model
+$ecvi=0,303030303
+$ecvilo=0,303030303
+$ecvihi=0,303030303
+$mecvi=0,3225806452
+$model=Independence model
+$ecvi=0,373345379
+$ecvilo=0,2546438352
+$ecvihi=0,5692301278
+$mecvi=0,3798621597
+$model=Default model
+$hfive=331
+$hone=442
+$model=Independence model
+$hfive=68
+$hone=86
+$EndFile

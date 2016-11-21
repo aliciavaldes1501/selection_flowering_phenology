@@ -1,0 +1,518 @@
+#N eggs
+#2010
+data10_A<-subset(data10_pred,LokalID=="Ale001")
+data10_B<-subset(data10_pred,LokalID=="Göt009a")
+data10_C<-subset(data10_pred,LokalID=="Göt009b")
+data10_E<-subset(data10_pred,LokalID=="Her003")
+data10_F<-subset(data10_pred,LokalID=="Her004")
+data10_G<-subset(data10_pred,LokalID=="Her005")
+data10_H<-subset(data10_pred,LokalID=="Ler010")
+data10_I<-subset(data10_pred,LokalID=="Par003")
+data10_J<-subset(data10_pred,LokalID=="Vår004")
+data10_K<-subset(data10_pred,LokalID=="Vår009")
+
+data10_pred_sc<-data10_pred
+data10_pred_sc$h_shoot<-scale(data10_pred_sc$h_shoot)
+data10_pred_sc$n_fl<-scale(data10_pred_sc$n_fl)
+data10_pred_sc$phen_corr<-scale(data10_pred_sc$phen_corr)
+data10_pred_sc$n_eggs<-scale(data10_pred_sc$n_eggs)
+data10_pred_sc$n_intact_fruits<-scale(data10_pred_sc$n_intact_fruits)
+data10_pred_sc$attack<-scale(data10_pred_sc$attack)
+
+data10_A_sc<-subset(data10_pred_sc,LokalID=="Ale001")
+data10_B_sc<-subset(data10_pred_sc,LokalID=="Göt009a")
+data10_C_sc<-subset(data10_pred_sc,LokalID=="Göt009b")
+data10_E_sc<-subset(data10_pred_sc,LokalID=="Her003")
+data10_F_sc<-subset(data10_pred_sc,LokalID=="Her004")
+data10_G_sc<-subset(data10_pred_sc,LokalID=="Her005")
+data10_H_sc<-subset(data10_pred_sc,LokalID=="Ler010")
+data10_I_sc<-subset(data10_pred_sc,LokalID=="Par003")
+data10_J_sc<-subset(data10_pred_sc,LokalID=="Vår004")
+data10_K_sc<-subset(data10_pred_sc,LokalID=="Vår009")
+
+#Saturated models, non-normal
+model10_A<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_A,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_A,family="poisson")
+)
+model10_B<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_B,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_B,family="poisson")
+)
+model10_C<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_C,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_C,family="poisson")
+)
+model10_E<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_E,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_E,family="poisson")
+)
+model10_F<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_F,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_F,family="poisson")
+)
+model10_G<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_G,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_G,family="poisson")
+)
+model10_H<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_H,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_H,family="poisson")
+)
+model10_I<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_I,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_I,family="poisson")
+)
+model10_J<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_J,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_J,family="poisson")
+)
+model10_K<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data10_K,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_K,family="poisson")
+)
+
+sem.coefs(model10_A,data=data10_A,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_B,data=data10_B,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_C,data=data10_C,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_E,data=data10_E,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_F,data=data10_F,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_G,data=data10_G,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_H,data=data10_H,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_I,data=data10_I,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_J,data=data10_J,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_K,data=data10_K,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+#Saturated models, normal
+model10_Al<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_A_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_A_sc)
+)
+
+model10_Bl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_B_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_B_sc)
+)
+model10_Cl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_C_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_C_sc)
+)
+model10_El<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_E_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_E_sc)
+)
+model10_Fl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_F_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_F_sc)
+)
+model10_Gl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_G_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_G_sc)
+)
+model10_Hl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_H_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_H_sc)
+)
+model10_Il<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_I_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_I_sc)
+)
+model10_Jl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_J_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_J_sc)
+)
+model10_Kl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data10_K_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data10_K_sc)
+)
+sem.coefs(model10_Al,data=data10_A_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Bl,data=data10_B_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Cl,data=data10_C_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_El,data=data10_E_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Fl,data=data10_F_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Gl,data=data10_G_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Hl,data=data10_H_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Il,data=data10_I_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Jl,data=data10_J_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Kl,data=data10_K_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+
+#2011
+data11_A<-subset(data11_pred,LokalID=="Ale001")
+data11_B<-subset(data11_pred,LokalID=="Göt009a")
+data11_C<-subset(data11_pred,LokalID=="Göt009b")
+data11_D<-subset(data11_pred,LokalID=="Göt016")
+data11_E<-subset(data11_pred,LokalID=="Her003")
+data11_F<-subset(data11_pred,LokalID=="Her004")
+data11_G<-subset(data11_pred,LokalID=="Her005")
+data11_H<-subset(data11_pred,LokalID=="Ler010")
+data11_I<-subset(data11_pred,LokalID=="Par003")
+data11_J<-subset(data11_pred,LokalID=="Vår004")
+data11_K<-subset(data11_pred,LokalID=="Vår009")
+
+data11_pred_sc<-data11_pred
+data11_pred_sc$h_shoot<-scale(data11_pred_sc$h_shoot)
+data11_pred_sc$n_fl<-scale(data11_pred_sc$n_fl)
+data11_pred_sc$phen_corr<-scale(data11_pred_sc$phen_corr)
+data11_pred_sc$n_eggs<-scale(data11_pred_sc$n_eggs)
+data11_pred_sc$n_intact_fruits<-scale(data11_pred_sc$n_intact_fruits)
+data11_pred_sc$attack<-scale(data11_pred_sc$attack)
+
+data11_A_sc<-subset(data11_pred_sc,LokalID=="Ale001")
+data11_B_sc<-subset(data11_pred_sc,LokalID=="Göt009a")
+data11_C_sc<-subset(data11_pred_sc,LokalID=="Göt009b")
+data11_D_sc<-subset(data11_pred_sc,LokalID=="Göt016")
+data11_E_sc<-subset(data11_pred_sc,LokalID=="Her003")
+data11_F_sc<-subset(data11_pred_sc,LokalID=="Her004")
+data11_G_sc<-subset(data11_pred_sc,LokalID=="Her005")
+data11_H_sc<-subset(data11_pred_sc,LokalID=="Ler010")
+data11_I_sc<-subset(data11_pred_sc,LokalID=="Par003")
+data11_J_sc<-subset(data11_pred_sc,LokalID=="Vår004")
+data11_K_sc<-subset(data11_pred_sc,LokalID=="Vår009")
+
+#Saturated models, non-normal
+model11_A<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_A,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_A,family="poisson")
+)
+model11_B<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_B,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_B,family="poisson")
+)
+model11_C<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_C,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_C,family="poisson")
+)
+model11_D<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_D,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_D,family="poisson")
+)
+model11_E<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_E,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_E,family="poisson")
+)
+model11_F<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_F,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_F,family="poisson")
+)
+model11_G<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_G,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_G,family="poisson")
+)
+model11_H<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_H,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_H,family="poisson")
+)
+model11_I<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_I,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_I,family="poisson")
+)
+model11_J<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_J,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_J,family="poisson")
+)
+model11_K<-list(
+  glmer(n_eggs~phen_corr+n_fl+h_shoot+(1|id),data=data11_K,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_K,family="poisson")
+)
+
+sem.coefs(model11_A,data=data11_A,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_B,data=data11_B,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_C,data=data11_C,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_D,data=data11_D,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_E,data=data11_E,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_F,data=data11_F,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_G,data=data11_G,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_H,data=data11_H,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_I,data=data11_I,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_J,data=data11_J,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_K,data=data11_K,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+#Saturated models, normal
+model11_Al<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_A_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_A_sc)
+)
+model11_Bl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_B_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_B_sc)
+)
+model11_Cl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_C_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_C_sc)
+)
+model11_Dl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_D_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_D_sc)
+)
+model11_El<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_E_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_E_sc)
+)
+model11_Fl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_F_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_F_sc)
+)
+model11_Gl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_G_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_G_sc)
+)
+model11_Hl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_H_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_H_sc)
+)
+model11_Il<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_I_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_I_sc)
+)
+model11_Jl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_J_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_J_sc)
+)
+model11_Kl<-list(
+  lm(n_eggs~phen_corr+n_fl+h_shoot,data=data11_K_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+n_eggs,data=data11_K_sc)
+)
+
+sem.coefs(model11_Al,data=data11_A_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Bl,data=data11_B_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Cl,data=data11_C_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Dl,data=data11_D_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_El,data=data11_E_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Fl,data=data11_F_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Gl,data=data11_G_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Hl,data=data11_H_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Il,data=data11_I_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Jl,data=data11_J_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Kl,data=data11_K_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+
+#Attack
+#2010
+
+#Saturated models, non-normal
+model10_Aa<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_A,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_A,family="poisson")
+)
+model10_Ba<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_B,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_B,family="poisson")
+)
+model10_Ca<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_C,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_C,family="poisson")
+)
+model10_Ea<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_E,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_E,family="poisson")
+)
+model10_Fa<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_F,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_F,family="poisson")
+)
+model10_Ga<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_G,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_G,family="poisson")
+)
+model10_Ha<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_H,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_H,family="poisson")
+)
+model10_Ia<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_I,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_I,family="poisson")
+)
+model10_Ja<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_J,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_J,family="poisson")
+)
+model10_Ka<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data10_K,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_K,family="poisson")
+)
+
+sem.coefs(model10_Aa,data=data10_A,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ba,data=data10_B,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ca,data=data10_C,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ea,data=data10_E,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Fa,data=data10_F,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ga,data=data10_G,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ha,data=data10_H,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ia,data=data10_I,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ja,data=data10_J,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ka,data=data10_K,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+#Saturated models, normal
+model10_Aal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_A_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_A_sc)
+)
+model10_Bal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_B_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_B_sc)
+)
+model10_Cal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_C_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_C_sc)
+)
+model10_Eal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_E_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_E_sc)
+)
+model10_Fal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_F_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_F_sc)
+)
+model10_Gal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_G_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_G_sc)
+)
+model10_Hal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_H_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_H_sc)
+)
+model10_Ial<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_I_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_I_sc)
+)
+model10_Jal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_J_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_J_sc)
+)
+model10_Kal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data10_K_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data10_K_sc)
+)
+
+sem.coefs(model10_Aal,data=data10_A_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Bal,data=data10_B_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Cal,data=data10_C_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Eal,data=data10_E_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Fal,data=data10_F_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Gal,data=data10_G_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Hal,data=data10_H_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Ial,data=data10_I_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Jal,data=data10_J_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model10_Kal,data=data10_K_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+
+#2011
+
+#Saturated models, non-normal
+model11_Aa<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_A,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_A,family="poisson")
+)
+model11_Ba<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_B,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_B,family="poisson")
+)
+model11_Ca<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_C,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_C,family="poisson")
+)
+model11_Da<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_D,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_D,family="poisson")
+)
+model11_Ea<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_E,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_E,family="poisson")
+)
+model11_Fa<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_F,family="poisson"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_F,family="poisson")
+)
+model11_Ga<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_G,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_G,family="poisson")
+)
+model11_Ha<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_H,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_H,family="poisson")
+)
+model11_Ia<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_I,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_I,family="poisson")
+)
+model11_Ja<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_J,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_J,family="poisson")
+)
+model11_Ka<-list(
+  glm(attack~phen_corr+n_fl+h_shoot,data=data11_K,family="binomial"),
+  glm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_K,family="poisson")
+)
+
+sem.coefs(model11_Aa,data=data11_A,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ba,data=data11_B,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ca,data=data11_C,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Da,data=data11_D,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ea,data=data11_E,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Fa,data=data11_F,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ga,data=data11_G,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ha,data=data11_H,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ia,data=data11_I,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ja,data=data11_J,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ka,data=data11_K,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+#Saturated models, normal
+model11_Aal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_A_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_A_sc)
+)
+model11_Bal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_B_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_B_sc)
+)
+model11_Cal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_C_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_C_sc)
+)
+model11_Dal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_D_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_D_sc)
+)
+model11_Eal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_E_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_E_sc)
+)
+model11_Fal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_F_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_F_sc)
+)
+model11_Gal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_G_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_G_sc)
+)
+model11_Hal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_H_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_H_sc)
+)
+model11_Ial<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_I_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_I_sc)
+)
+model11_Jal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_J_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_J_sc)
+)
+model11_Kal<-list(
+  lm(attack~phen_corr+n_fl+h_shoot,data=data11_K_sc),
+  lm(n_intact_fruits~phen_corr+n_fl+h_shoot+attack,data=data11_K_sc)
+)
+
+sem.coefs(model11_Aal,data=data11_A_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Bal,data=data11_B_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Cal,data=data11_C_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Dal,data=data11_D_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Eal,data=data11_E_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Fal,data=data11_F_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Gal,data=data11_G_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Hal,data=data11_H_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Ial,data=data11_I_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Jal,data=data11_J_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+sem.coefs(model11_Kal,data=data11_K_sc,corr.errors=c("phen_corr~~n_fl","phen_corr~~h_shoot","n_fl~~h_shoot"))
+
+
