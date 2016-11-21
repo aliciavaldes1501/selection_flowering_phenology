@@ -13,4 +13,4 @@ incidence in plant populations increased with ant abundance.
 
 These results demonstrate that antagonistic interactions can shift the direction of selection on flowering phenology, and suggest that such shifts might be associated with differences in the community context.
 
-The results of this study have been published in Ecology (DOI: 10.1002/ecy.1633.
+The results of this study have been published in Ecology (DOI: 10.1002/ecy.1633).
