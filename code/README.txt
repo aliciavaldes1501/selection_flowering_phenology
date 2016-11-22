@@ -1,0 +1,2 @@
+Code used to analyzed data in paper "Caterpillar seed predators mediate shifts in selection on flowering phenology in their host plant".
+Code would need to be cleaned up, and final code for analyses in the paper should be identified.
